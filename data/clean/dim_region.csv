@@ -1,0 +1,92 @@
+RegionID,Region,Zone,State,City,Country
+R001,Mumbai Metro,West,Maharashtra,Mumbai,India
+R002,Mumbai Metro,West,Maharashtra,Thane,India
+R003,Mumbai Metro,West,Maharashtra,Navi Mumbai,India
+R004,Mumbai Metro,West,Maharashtra,Kalyan,India
+R005,Delhi NCR,North,Delhi,New Delhi,India
+R006,Delhi NCR,North,Haryana,Gurugram,India
+R007,Delhi NCR,North,Uttar Pradesh,Noida,India
+R008,Delhi NCR,North,Haryana,Faridabad,India
+R009,Delhi NCR,North,Uttar Pradesh,Ghaziabad,India
+R010,Delhi NCR,North,Haryana,Sonipat,India
+R011,Bengaluru & Karnataka,South,Karnataka,Bengaluru,India
+R012,Bengaluru & Karnataka,South,Karnataka,Mysuru,India
+R013,Bengaluru & Karnataka,South,Karnataka,Mangaluru,India
+R014,Bengaluru & Karnataka,South,Karnataka,Hubballi,India
+R015,Bengaluru & Karnataka,South,Karnataka,Belagavi,India
+R016,Gujarat & Maharashtra,West,Maharashtra,Pune,India
+R017,Gujarat & Maharashtra,West,Gujarat,Ahmedabad,India
+R018,Gujarat & Maharashtra,West,Gujarat,Surat,India
+R019,Gujarat & Maharashtra,West,Maharashtra,Nagpur,India
+R020,Gujarat & Maharashtra,West,Gujarat,Vadodara,India
+R021,Gujarat & Maharashtra,West,Maharashtra,Nashik,India
+R022,Gujarat & Maharashtra,West,Gujarat,Rajkot,India
+R023,Gujarat & Maharashtra,West,Maharashtra,Aurangabad,India
+R024,Gujarat & Maharashtra,West,Gujarat,Bhavnagar,India
+R025,Gujarat & Maharashtra,West,Maharashtra,Kolhapur,India
+R026,Gujarat & Maharashtra,West,Goa,Panaji,India
+R027,Gujarat & Maharashtra,West,Goa,Margao,India
+R028,Tamil Nadu & Kerala,South,Tamil Nadu,Chennai,India
+R029,Tamil Nadu & Kerala,South,Tamil Nadu,Coimbatore,India
+R030,Tamil Nadu & Kerala,South,Kerala,Kochi,India
+R031,Tamil Nadu & Kerala,South,Tamil Nadu,Madurai,India
+R032,Tamil Nadu & Kerala,South,Kerala,Thiruvananthapuram,India
+R033,Tamil Nadu & Kerala,South,Tamil Nadu,Tiruchirappalli,India
+R034,Tamil Nadu & Kerala,South,Kerala,Kozhikode,India
+R035,Tamil Nadu & Kerala,South,Tamil Nadu,Salem,India
+R036,Tamil Nadu & Kerala,South,Kerala,Thrissur,India
+R037,North Plains,North,Uttar Pradesh,Lucknow,India
+R038,North Plains,North,Rajasthan,Jaipur,India
+R039,North Plains,North,Uttar Pradesh,Kanpur,India
+R040,North Plains,North,Punjab,Ludhiana,India
+R041,North Plains,North,Uttar Pradesh,Agra,India
+R042,North Plains,North,Uttar Pradesh,Varanasi,India
+R043,North Plains,North,Uttar Pradesh,Meerut,India
+R044,North Plains,North,Punjab,Amritsar,India
+R045,North Plains,North,Rajasthan,Jodhpur,India
+R046,North Plains,North,Chandigarh,Chandigarh,India
+R047,North Plains,North,Punjab,Jalandhar,India
+R048,North Plains,North,Rajasthan,Kota,India
+R049,North Plains,North,Uttarakhand,Dehradun,India
+R050,North Plains,North,Rajasthan,Udaipur,India
+R051,North Plains,North,Haryana,Panipat,India
+R052,North Plains,North,Haryana,Ambala,India
+R053,North Plains,North,Uttarakhand,Haridwar,India
+R054,North Plains,North,Jammu & Kashmir,Jammu,India
+R055,North Plains,North,Jammu & Kashmir,Srinagar,India
+R056,North Plains,North,Himachal Pradesh,Shimla,India
+R057,Telangana & Andhra,South,Telangana,Hyderabad,India
+R058,Telangana & Andhra,South,Andhra Pradesh,Visakhapatnam,India
+R059,Telangana & Andhra,South,Andhra Pradesh,Vijayawada,India
+R060,Telangana & Andhra,South,Telangana,Warangal,India
+R061,Telangana & Andhra,South,Andhra Pradesh,Guntur,India
+R062,Telangana & Andhra,South,Andhra Pradesh,Nellore,India
+R063,Kolkata & West Bengal,East,West Bengal,Kolkata,India
+R064,Kolkata & West Bengal,East,West Bengal,Howrah,India
+R065,Kolkata & West Bengal,East,West Bengal,Siliguri,India
+R066,Kolkata & West Bengal,East,West Bengal,Durgapur,India
+R067,Kolkata & West Bengal,East,West Bengal,Asansol,India
+R068,Central India,Central,Madhya Pradesh,Indore,India
+R069,Central India,Central,Madhya Pradesh,Bhopal,India
+R070,Central India,Central,Chhattisgarh,Raipur,India
+R071,Central India,Central,Madhya Pradesh,Jabalpur,India
+R072,Central India,Central,Madhya Pradesh,Gwalior,India
+R073,Central India,Central,Uttar Pradesh,Prayagraj,India
+R074,Central India,Central,Madhya Pradesh,Ujjain,India
+R075,Central India,Central,Chhattisgarh,Bhilai,India
+R076,Central India,Central,Chhattisgarh,Bilaspur,India
+R077,Central India,Central,Uttar Pradesh,Jhansi,India
+R078,Central India,Central,Madhya Pradesh,Sagar,India
+R079,East Interior,East,Bihar,Patna,India
+R080,East Interior,East,Odisha,Bhubaneswar,India
+R081,East Interior,East,Jharkhand,Ranchi,India
+R082,East Interior,East,Assam,Guwahati,India
+R083,East Interior,East,Jharkhand,Jamshedpur,India
+R084,East Interior,East,Odisha,Cuttack,India
+R085,East Interior,East,Odisha,Rourkela,India
+R086,East Interior,East,Bihar,Gaya,India
+R087,East Interior,East,Assam,Dibrugarh,India
+R088,East Interior,East,Meghalaya,Shillong,India
+R089,East Interior,East,Tripura,Agartala,India
+R090,East Interior,East,Manipur,Imphal,India
+UNKNOWN,Unknown,Unknown,Unknown,Unknown,Unknown

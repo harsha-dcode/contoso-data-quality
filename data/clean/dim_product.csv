@@ -1,0 +1,1402 @@
+ProductID,ProductName,Category,SubCategory,Brand,LaunchDate,ProductStatus,StandardCost,ListPrice
+P00001,boAt Cable Pro 753,Accessories,Cables,boAt,2022-03-28,Active,614.53,976.99
+P00002,Navneet Filing Edge 367,Office Supplies,Filing,Navneet,2024-01-19,Active,153.22,201.99
+P00003,Blue Star Air Conditioner Duo 415,Appliances,Air Conditioners,Blue Star,2018-08-15,Active,13915.83,18305.99
+P00004,Asus Monitor Plus 688,Technology,Monitors,Asus,2025-03-17,Active,96081.18,122979.99
+P00005,Navneet Envelope Core 429,Office Supplies,Envelopes,Navneet,2024-08-10,Active,113.26,153.99
+P00006,JK Paper Label Elite 739,Office Supplies,Labels,JK Paper,2025-05-14,Active,88.87,119.99
+P00007,Solo Envelope Go 449,Office Supplies,Envelopes,Solo,2023-08-18,Active,46.66,57.99
+P00008,Dell Printer Go 858,Technology,Printers,Dell,2022-12-16,Discontinued,15544.95,19560.99
+P00009,Camlin Envelope Duo 343,Office Supplies,Envelopes,Camlin,2024-08-07,Active,357.4,309.99
+P00010,Classmate Label Edge 347,Office Supplies,Labels,Classmate,2022-07-22,Active,47.97,58.99
+P00011,Featherlite Sofa Max 885,Furniture,Sofas,Featherlite,2023-02-10,Discontinued,11208.54,15739.99
+P00012,JK Paper Paper Pro 471,Office Supplies,Paper,JK Paper,2020-03-12,Active,77.49,100.99
+P00013,Bajaj Washing Machine Slim 373,Appliances,Washing Machines,Bajaj,2024-08-17,Active,5501.98,7202.99
+P00014,JK Paper Label Nova 596,Office Supplies,Labels,JK Paper,2023-05-05,Active,138.08,188.99
+P00015,Samsung Tablet Neo 912,Technology,Tablets,Samsung,2022-01-26,Active,25057.06,31199.99
+P00016,Classmate Filing Neo 370,Office Supplies,Filing,Classmate,2023-03-02,Discontinued,296.62,398.99
+P00017,Amkette Headphone Neo 487,Accessories,Headphones,Amkette,2020-01-18,Active,272.06,453.99
+P00018,Camlin Pens & Art Max 353,Office Supplies,Pens & Art,Camlin,2024-05-26,Clearance,66.53,90.99
+P00019,Portronics Cable Max 105,Accessories,Cables,Portronics,2022-02-02,Active,471.16,815.99
+P00020,Camlin Pens & Art Slim 414,Office Supplies,Pens & Art,Camlin,2025-02-21,Active,143.13,119.99
+P00021,Nilkamal Bed Elite 208,Furniture,Beds,Nilkamal,2020-07-27,Active,3675.2,5776.99
+P00022,Logitech Laptop Bag Duo 563,Accessories,Laptop Bags,Logitech,2024-08-12,Active,239.05,392.99
+P00023,Classmate Binder Edge 554,Office Supplies,Binders,Classmate,2020-01-11,Active,62.01,92.99
+P00024,Featherlite Sofa Ultra 712,Furniture,Sofas,Featherlite,2025-04-17,Active,3108.41,4528.99
+P00025,HP Cable Pro 668,Accessories,Cables,HP,2022-12-17,Discontinued,262.76,457.99
+P00026,Wakefit Office Chair Pro 705,Furniture,Office Chairs,Wakefit,2019-07-20,Active,6285.45,9558.99
+P00027,JK Paper Pens & Art Edge 700,Office Supplies,Pens & Art,JK Paper,2023-03-10,Active,84.46,106.99
+P00028,HP Mice Slim 493,Accessories,Mice,HP,2024-11-04,Active,318.48,576.99
+P00029,Godrej Fan Go 270,Appliances,Fans,Godrej,2022-01-30,Active,24195.97,31061.99
+P00030,Xiaomi Monitor Pro 858,Technology,Monitors,Xiaomi,2022-04-16,Active,11200.7,11729.99
+P00031,Camlin Filing Max 441,Office Supplies,Filing,Camlin,2025-02-26,Discontinued,169.54,206.99
+P00032,HP Printer Max 294,Technology,Printers,HP,2024-10-27,Clearance,4841.35,6403.99
+P00033,Godrej Interio Desk Core 726,Furniture,Desks,Godrej Interio,2022-04-06,Active,3049.65,4680.99
+P00034,HP Smartphone Lite 754,Technology,Smartphones,HP,2018-12-07,Active,46099.65,62718.99
+P00035,Godrej Interio Bed Prime 797,Furniture,Beds,Godrej Interio,2022-05-18,Active,3021.87,4936.99
+P00036,boAt Cable Go 504,Accessories,Cables,boAt,2020-02-15,Active,1426.23,2440.99
+P00037,Durian Desk Edge 840,Furniture,Desks,Durian,2023-11-23,Active,4334.24,6633.99
+P00038,Solo Binder Slim 711,Office Supplies,Binders,Solo,2025-05-20,Active,277.28,305.99
+P00039,Featherlite Office Chair Elite 516,Furniture,Office Chairs,Featherlite,2023-07-27,Active,13161.54,19946.99
+P00040,boAt Keyboard Ultra 679,Accessories,Keyboards,boAt,2024-12-15,Discontinued,1049.13,1920.99
+P00041,HP Monitor Core 321,Technology,Monitors,HP,2022-07-22,Active,25490.85,31221.99
+P00042,HP Keyboard Pro 497,Accessories,Keyboards,HP,2021-08-04,Discontinued,389.41,746.99
+P00043,HP Headphone Lite 869,Accessories,Headphones,HP,2023-09-11,Active,1531.14,2587.99
+P00044,Godrej Air Conditioner Edge 148,Appliances,Air Conditioners,Godrej,2023-01-29,Active,18127.2,24921.99
+P00045,Solo Pens & Art Air 818,Office Supplies,Pens & Art,Solo,2022-05-16,Discontinued,108.81,131.99
+P00046,boAt Charger Edge 133,Accessories,Chargers,boAt,2024-11-14,Active,402.52,712.99
+P00047,Portronics Keyboard Go 795,Accessories,Keyboards,Portronics,2023-09-01,Active,160.04,280.99
+P00048,Wakefit Desk Edge 263,Furniture,Desks,Wakefit,2021-01-21,Active,6880.04,12471.99
+P00049,Bajaj Refrigerator Neo 897,Appliances,Refrigerators,Bajaj,2022-12-03,Active,22767.91,29426.99
+P00050,Samsung Printer Edge 784,Technology,Printers,Samsung,2019-02-22,Active,13181.02,18109.99
+P00051,Samsung Laptop Plus 516,Technology,Laptops,Samsung,2024-08-02,Active,100793.99,130441.99
+P00052,Godrej Air Conditioner Slim 988,Appliances,Air Conditioners,Godrej,2025-05-08,Clearance,19651.05,26203.99
+P00053,Camlin Filing Plus 959,Office Supplies,Filing,Camlin,2022-11-24,Active,186.34,262.99
+P00054,HP Mice Plus 435,Accessories,Mice,HP,2019-12-03,Active,629.04,942.99
+P00055,Voltas Refrigerator Slim 551,Appliances,Refrigerators,Voltas,2022-04-16,Active,47582.95,59747.99
+P00056,Navneet Filing Elite 552,Office Supplies,Filing,Navneet,2022-09-08,Active,67.88,86.99
+P00057,Nilkamal Bed Pro 379,Furniture,Beds,Nilkamal,2024-02-12,Active,14777.65,26368.99
+P00058,Classmate Binder Air 993,Office Supplies,Binders,Classmate,2025-02-05,Active,308.05,358.99
+P00059,Faber-Castell Label Air 140,Office Supplies,Labels,Faber-Castell,2025-02-11,Active,36.26,44.99
+P00060,Xiaomi Smartphone Neo 336,Technology,Smartphones,Xiaomi,2024-10-20,Discontinued,29453.67,37683.99
+P00061,Faber-Castell Label Elite 481,Office Supplies,Labels,Faber-Castell,2018-07-07,Active,272.33,337.99
+P00062,Solo Paper Nova 222,Office Supplies,Paper,Solo,2022-07-19,Clearance,97.56,128.99
+P00063,Logitech Cable Nova 455,Accessories,Cables,Logitech,2022-04-16,Active,1535.79,2483.99
+P00064,Logitech Cable Lite 158,Accessories,Cables,Logitech,2019-10-01,Active,752.02,1268.99
+P00065,Solo Label Nova 279,Office Supplies,Labels,Solo,2022-02-01,Clearance,447.07,583.99
+P00066,Classmate Binder Ultra 793,Office Supplies,Binders,Classmate,2024-11-13,Active,48.17,62.99
+P00067,Logitech Charger Max 111,Accessories,Chargers,Logitech,2024-11-10,Active,1104.56,1773.99
+P00068,Solo Binder Edge 545,Office Supplies,Binders,Solo,2019-04-03,Active,74.18,106.99
+P00069,HP Cable Nova 421,Accessories,Cables,HP,2020-03-04,Active,2770.8,4563.99
+P00070,Portronics Laptop Bag Max 902,Accessories,Laptop Bags,Portronics,2024-05-20,Active,685.63,1123.99
+P00071,Samsung Monitor Pro 503,Technology,Monitors,Samsung,2022-02-20,Active,19695.5,23748.99
+P00072,Xiaomi Printer Elite 298,Technology,Printers,Xiaomi,2024-06-20,Active,18542.73,22301.99
+P00073,boAt Cable Air 869,Accessories,Cables,boAt,2023-05-20,Active,833.91,1335.99
+P00074,Solo Binder Neo 403,Office Supplies,Binders,Solo,2019-01-22,Active,115.5,137.99
+P00075,Camlin Label Elite 369,Office Supplies,Labels,Camlin,2020-01-12,Active,153.82,194.99
+P00076,Portronics Keyboard Lite 631,Accessories,Keyboards,Portronics,2021-05-08,Active,257.96,412.99
+P00077,HP Laptop Slim 774,Technology,Laptops,HP,2023-11-21,Active,52936.68,57957.99
+P00078,Amkette Laptop Bag Duo 712,Accessories,Laptop Bags,Amkette,2024-11-12,Clearance,789.98,1405.99
+P00079,Voltas Fan Max 631,Appliances,Fans,Voltas,2025-02-13,Active,18156.16,22096.99
+P00080,Amkette Charger Core 540,Accessories,Chargers,Amkette,2023-02-11,Discontinued,1330.47,2044.99
+P00081,Whirlpool Microwave Elite 153,Appliances,Microwaves,Whirlpool,2023-05-16,Active,38590.29,49227.99
+P00082,Nilkamal Office Chair Elite 939,Furniture,Office Chairs,Nilkamal,2024-04-08,Active,2774.94,4504.99
+P00083,Bajaj Microwave Lite 677,Appliances,Microwaves,Bajaj,2018-07-18,Active,15345.65,19639.99
+P00084,Logitech Keyboard Pro 263,Accessories,Keyboards,Logitech,2024-05-22,Active,122.43,240.99
+P00085,Dell Printer Neo 951,Technology,Printers,Dell,2022-05-22,Discontinued,70866.12,94799.99
+P00086,Wakefit Bed Duo 705,Furniture,Beds,Wakefit,2019-10-25,Discontinued,7782.25,10322.99
+P00087,Featherlite Bed Neo 182,Furniture,Beds,Featherlite,2022-07-03,Discontinued,1152.87,1761.99
+P00088,JK Paper Envelope Plus 228,Office Supplies,Envelopes,JK Paper,2025-03-08,Active,113.0,132.99
+P00089,Classmate Binder Nova 164,Office Supplies,Binders,Classmate,2023-11-07,Active,67.39,103.99
+P00090,Durian Desk Max 324,Furniture,Desks,Durian,2018-09-05,Active,11558.31,18750.99
+P00091,Havells Washing Machine Prime 211,Appliances,Washing Machines,Havells,2022-10-29,Active,22044.23,27297.99
+P00092,Blue Star Refrigerator Core 229,Appliances,Refrigerators,Blue Star,2023-06-20,Clearance,7856.72,9740.99
+P00093,Solo Envelope Lite 559,Office Supplies,Envelopes,Solo,2024-10-16,Active,213.83,286.99
+P00094,Blue Star Washing Machine Go 460,Appliances,Washing Machines,Blue Star,2024-06-22,Clearance,12579.48,14246.99
+P00095,Amkette Charger Edge 760,Accessories,Chargers,Amkette,2024-07-27,Active,661.65,1113.99
+P00096,boAt Mice Nova 625,Accessories,Mice,boAt,2020-11-21,Active,575.9,855.99
+P00097,Classmate Filing Core 338,Office Supplies,Filing,Classmate,2024-11-13,Discontinued,96.49,121.99
+P00098,Bajaj Microwave Air 649,Appliances,Microwaves,Bajaj,2023-02-25,Active,17097.51,23970.99
+P00099,Nilkamal Storage Unit Lite 535,Furniture,Storage Units,Nilkamal,2023-08-06,Active,37044.79,59226.99
+P00100,Voltas Air Conditioner Plus 988,Appliances,Air Conditioners,Voltas,2018-09-08,Active,14806.23,19034.99
+P00101,Lenovo Smartphone Elite 635,Technology,Smartphones,Lenovo,2022-09-22,Active,40220.77,57877.99
+P00102,Faber-Castell Pens & Art Prime 402,Office Supplies,Pens & Art,Faber-Castell,2024-05-02,Active,87.31,109.99
+P00103,Wakefit Storage Unit Edge 139,Furniture,Storage Units,Wakefit,2018-04-10,Discontinued,3626.48,5994.99
+P00104,Amkette Headphone Core 657,Accessories,Headphones,Amkette,2018-03-27,Active,712.99,1144.99
+P00105,Featherlite Office Chair Ultra 843,Furniture,Office Chairs,Featherlite,2019-07-25,Active,16244.4,24345.99
+P00106,Godrej Air Conditioner Prime 970,Appliances,Air Conditioners,Godrej,2020-03-30,Active,10366.46,12385.99
+P00107,Camlin Paper Plus 573,Office Supplies,Paper,Camlin,2022-03-30,Active,31.87,46.99
+P00108,Samsung Tablet Neo 192,Technology,Tablets,Samsung,2018-05-15,Active,18022.31,19687.99
+P00109,Asus Networking Neo 913,Technology,Networking,Asus,2024-05-19,Active,80405.47,105872.99
+P00110,Navneet Binder Prime 602,Office Supplies,Binders,Navneet,2024-01-13,Discontinued,55.34,82.99
+P00111,HP Tablet Prime 637,Technology,Tablets,HP,2021-03-24,Active,17182.31,22409.99
+P00112,Dell Monitor Edge 680,Technology,Monitors,Dell,2023-06-14,Active,49560.48,61972.99
+P00113,Wakefit Sofa Ultra 984,Furniture,Sofas,Wakefit,2023-02-21,Active,4281.97,6437.99
+P00114,Faber-Castell Label Max 452,Office Supplies,Labels,Faber-Castell,2025-03-29,Discontinued,139.59,174.99
+P00115,Portronics Charger Lite 322,Accessories,Chargers,Portronics,2018-09-07,Active,1055.61,1445.99
+P00116,HP Cable Slim 857,Accessories,Cables,HP,2025-03-05,Active,661.14,1208.99
+P00117,Navneet Envelope Elite 165,Office Supplies,Envelopes,Navneet,2023-06-23,Discontinued,138.87,176.99
+P00118,JK Paper Label Elite 549,Office Supplies,Labels,JK Paper,2021-09-21,Active,78.83,103.99
+P00119,HP Monitor Prime 142,Technology,Monitors,HP,2019-09-20,Active,23074.08,24671.99
+P00120,Navneet Binder Plus 503,Office Supplies,Binders,Navneet,2022-08-21,Active,128.82,162.99
+P00121,boAt Mice Lite 204,Accessories,Mice,boAt,2024-05-08,Active,320.06,550.99
+P00122,Lenovo Tablet Edge 505,Technology,Tablets,Lenovo,2024-01-14,Active,19776.84,25355.99
+P00123,Camlin Binder Ultra 754,Office Supplies,Binders,Camlin,2023-04-27,Active,72.17,96.99
+P00124,Godrej Interio Sofa Neo 403,Furniture,Sofas,Godrej Interio,,Active,1252.98,1698.99
+P00125,Classmate Filing Elite 805,Office Supplies,Filing,Classmate,2022-04-05,Active,88.17,118.99
+P00126,JK Paper Paper Go 345,Office Supplies,Paper,JK Paper,2020-05-26,Discontinued,607.22,851.99
+P00127,boAt Cable Prime 948,Accessories,Cables,boAt,2021-07-28,Active,509.47,881.99
+P00128,Havells Microwave Ultra 827,Appliances,Microwaves,Havells,2018-07-15,Active,18439.16,23167.99
+P00129,Godrej Interio Sofa Go 354,Furniture,Sofas,Godrej Interio,2020-10-06,Active,9842.57,12393.99
+P00130,Wakefit Sofa Edge 765,Furniture,Sofas,Wakefit,2020-07-22,Active,9079.71,13089.99
+P00131,Portronics Laptop Bag Core 678,Accessories,Laptop Bags,Portronics,2021-11-11,Active,868.47,1474.99
+P00132,HP Charger Go 796,Accessories,Chargers,HP,2025-01-18,Clearance,1245.56,1988.99
+P00133,Acer Tablet Edge 934,Technology,Tablets,Acer,2022-07-04,Active,37729.03,46249.99
+P00134,Wakefit Office Chair Prime 113,Furniture,Office Chairs,Wakefit,2024-11-06,Clearance,8145.04,11857.99
+P00135,Godrej Air Conditioner Elite 274,Appliances,Air Conditioners,Godrej,2024-07-12,Active,13697.25,17318.99
+P00136,Godrej Interio Sofa Lite 739,Furniture,Sofas,Godrej Interio,2023-04-16,Active,10069.19,17160.99
+P00137,Whirlpool Washing Machine Lite 164,Appliances,Washing Machines,Whirlpool,2021-09-04,Active,11813.41,17086.99
+P00138,Camlin Binder Nova 733,Office Supplies,Binders,Camlin,2024-02-01,Discontinued,271.34,365.99
+P00139,Dell Smartphone Duo 349,Technology,Smartphones,Dell,2019-07-07,Active,31321.2,39646.99
+P00140,Zebronics Keyboard Lite 822,Accessories,Keyboards,Zebronics,2022-01-01,Active,530.62,734.99
+P00141,Samsung Printer Core 332,Technology,Printers,Samsung,2021-11-12,Active,43339.36,54367.99
+P00142,Bajaj Fan Duo 885,Appliances,Fans,Bajaj,2025-05-08,Discontinued,6976.11,8893.99
+P00143,Samsung Monitor Duo 414,Technology,Monitors,Samsung,2021-11-03,Active,28880.35,36342.99
+P00144,Godrej Interio Bed Elite 142,Furniture,Beds,Godrej Interio,2021-11-14,Active,13694.34,23036.99
+P00145,Camlin Binder Ultra 984,Office Supplies,Binders,Camlin,2019-12-11,Active,111.51,154.99
+P00146,HP Laptop Pro 667,Technology,Laptops,HP,2023-01-10,Active,23332.93,29515.99
+P00147,Solo Binder Duo 965,Office Supplies,Binders,Solo,2023-01-15,Active,65.94,88.99
+P00148,Havells Air Conditioner Ultra 191,Appliances,Air Conditioners,Havells,2022-05-04,Active,9082.3,11994.99
+P00149,Lenovo Laptop Slim 914,Technology,Laptops,Lenovo,2023-12-28,Active,27110.86,35486.99
+P00150,Blue Star Refrigerator Go 610,Appliances,Refrigerators,Blue Star,2022-01-13,Active,14527.71,18796.99
+P00151,Classmate Pens & Art Plus 763,Office Supplies,Pens & Art,Classmate,2024-07-21,Active,134.89,157.99
+P00152,Faber-Castell Paper Max 830,Office Supplies,Paper,Faber-Castell,2023-07-27,Active,173.02,221.99
+P00153,boAt Laptop Bag Slim 532,Accessories,Laptop Bags,boAt,2019-12-14,Active,362.91,670.99
+P00154,Whirlpool Washing Machine Prime 222,Appliances,Washing Machines,Whirlpool,2023-04-26,Active,14586.33,15890.99
+P00155,Featherlite Desk Core 807,Furniture,Desks,Featherlite,2022-10-25,Discontinued,6347.05,9452.99
+P00156,Godrej Interio Storage Unit Prime 340,Furniture,Storage Units,Godrej Interio,2023-03-28,Active,10738.56,15858.99
+P00157,Lenovo Laptop Pro 396,Technology,Laptops,Lenovo,2025-03-02,Active,13766.35,17682.99
+P00158,Dell Networking Ultra 956,Technology,Networking,Dell,2021-09-16,Active,10086.98,12887.99
+P00159,Asus Monitor Max 897,Technology,Monitors,Asus,2024-02-15,Active,41635.88,44081.99
+P00160,Bajaj Air Conditioner Elite 374,Appliances,Air Conditioners,Bajaj,2019-10-25,Active,17169.63,22633.99
+P00161,Camlin Envelope Prime 319,Office Supplies,Envelopes,Camlin,2021-10-11,Active,76.79,101.99
+P00162,boAt Headphone Lite 102,Accessories,Headphones,boAt,2019-12-23,Active,1680.19,2830.99
+P00163,Blue Star Microwave Pro 880,Appliances,Microwaves,Blue Star,2020-03-03,Active,23011.52,28787.99
+P00164,Classmate Label Ultra 680,Office Supplies,Labels,Classmate,2022-08-06,Active,49.92,61.99
+P00165,Dell Tablet Ultra 403,Technology,Tablets,Dell,2024-09-12,Active,32662.35,34750.99
+P00166,Faber-Castell Label Prime 323,Office Supplies,Labels,Faber-Castell,2024-02-09,Active,93.91,127.99
+P00167,HP Charger Ultra 191,Accessories,Chargers,HP,2023-10-17,Active,243.83,423.99
+P00168,Dell Printer Ultra 966,Technology,Printers,Dell,2022-11-21,Active,7485.99,9339.99
+P00169,Dell Laptop Duo 916,Technology,Laptops,Dell,2023-10-21,Active,71852.88,93873.99
+P00170,Acer Laptop Duo 758,Technology,Laptops,Acer,2023-03-29,Active,62888.75,83440.99
+P00171,Featherlite Storage Unit Plus 371,Furniture,Storage Units,Featherlite,2020-12-03,Active,11967.61,17089.99
+P00172,Amkette Keyboard Elite 576,Accessories,Keyboards,Amkette,2018-11-04,Active,523.01,837.99
+P00173,HP Smartphone Lite 161,Technology,Smartphones,HP,2019-08-02,Active,19345.0,25511.99
+P00174,Godrej Fan Pro 342,Appliances,Fans,Godrej,2022-06-29,Discontinued,20256.19,21171.99
+P00175,Acer Printer Slim 249,Technology,Printers,Acer,2021-01-17,Discontinued,22045.2,28095.99
+P00176,Faber-Castell Paper Slim 666,Office Supplies,Paper,Faber-Castell,2019-08-07,Discontinued,343.58,451.99
+P00177,LG Washing Machine Nova 378,Appliances,Washing Machines,LG,2019-07-09,Active,19567.91,25707.99
+P00178,HP Mice Slim 750,Accessories,Mice,HP,2022-02-21,Active,890.8,1366.99
+P00179,Camlin Binder Edge 731,Office Supplies,Binders,Camlin,2023-03-17,Active,81.65,100.99
+P00180,Asus Laptop Edge 216,Technology,Laptops,Asus,2020-03-07,Active,42530.06,53662.99
+P00181,Navneet Label Duo 193,Office Supplies,Labels,Navneet,2024-11-25,Discontinued,129.23,168.99
+P00182,Logitech Laptop Bag Duo 317,Accessories,Laptop Bags,Logitech,2019-01-05,Active,710.7,1526.99
+P00183,Featherlite Bed Ultra 129,Furniture,Beds,Featherlite,2018-06-24,Active,6213.98,9250.99
+P00184,Faber-Castell Label Nova 727,Office Supplies,Labels,Faber-Castell,2018-07-19,Active,120.48,175.99
+P00185,HP Cable Plus 192,Accessories,Cables,HP,2024-03-29,Active,166.41,317.99
+P00186,Dell Printer Duo 625,Technology,Printers,Dell,2024-05-13,Active,31114.06,32427.99
+P00187,Featherlite Desk Pro 753,Furniture,Desks,Featherlite,2024-08-28,Discontinued,14767.03,22881.99
+P00188,Samsung Monitor Max 837,Technology,Monitors,Samsung,2024-05-25,Active,16008.41,21102.99
+P00189,Xiaomi Laptop Pro 127,Technology,Laptops,Xiaomi,2018-06-16,Active,37831.87,47762.99
+P00190,Samsung Tablet Pro 524,Technology,Tablets,Samsung,2019-06-16,Active,35967.18,38067.99
+P00191,Zebronics Charger Prime 410,Accessories,Chargers,Zebronics,2024-01-30,Clearance,483.61,756.99
+P00192,Faber-Castell Envelope Neo 147,Office Supplies,Envelopes,Faber-Castell,2024-03-29,Active,70.48,89.99
+P00193,Blue Star Washing Machine Slim 623,Appliances,Washing Machines,Blue Star,2022-06-16,Active,7934.14,11499.99
+P00194,Blue Star Air Conditioner Air 646,Appliances,Air Conditioners,Blue Star,2022-01-08,Discontinued,15177.63,20653.99
+P00195,Dell Printer Duo 734,Technology,Printers,Dell,2019-11-27,Active,9990.08,14020.99
+P00196,Whirlpool Microwave Nova 563,Appliances,Microwaves,Whirlpool,2024-11-02,Discontinued,24544.76,31954.99
+P00197,Samsung Monitor Neo 778,Technology,Monitors,Samsung,2020-10-08,Active,29844.14,36283.99
+P00198,boAt Keyboard Slim 886,Accessories,Keyboards,boAt,2024-03-17,Active,1367.52,2059.99
+P00199,Solo Label Plus 591,Office Supplies,Labels,Solo,2022-01-17,Active,142.78,172.99
+P00200,Navneet Envelope Max 697,Office Supplies,Envelopes,Navneet,2018-10-04,Active,76.23,104.99
+P00201,JK Paper Envelope Go 515,Office Supplies,Envelopes,JK Paper,2018-09-06,Active,338.42,385.99
+P00202,Zebronics Keyboard Go 521,Accessories,Keyboards,Zebronics,2025-04-08,Active,1070.89,1827.99
+P00203,Xiaomi Laptop Go 103,Technology,Laptops,Xiaomi,2023-01-30,Discontinued,59791.45,73096.99
+P00204,Blue Star Refrigerator Slim 925,Appliances,Refrigerators,Blue Star,2023-03-14,Active,44618.8,53830.99
+P00205,Faber-Castell Paper Elite 242,Office Supplies,Paper,Faber-Castell,2023-05-05,Discontinued,78.71,94.99
+P00206,Xiaomi Networking Nova 986,Technology,Networking,Xiaomi,2024-11-11,Active,8280.39,9383.99
+P00207,Godrej Interio Sofa Go 833,Furniture,Sofas,Godrej Interio,2019-01-28,Active,5527.53,9298.99
+P00208,Navneet Paper Slim 927,Office Supplies,Paper,Navneet,2021-08-20,Active,221.84,263.99
+P00209,Acer Printer Nova 472,Technology,Printers,Acer,2019-07-02,Active,23496.67,29853.99
+P00210,Classmate Label Edge 151,Office Supplies,Labels,Classmate,2025-03-16,Active,82.2,124.99
+P00211,Solo Paper Core 532,Office Supplies,Paper,Solo,2021-04-04,Clearance,89.76,122.99
+P00212,Durian Storage Unit Neo 256,Furniture,Storage Units,Durian,2023-06-14,Active,14377.46,20886.99
+P00213,Solo Envelope Lite 289,Office Supplies,Envelopes,Solo,2020-02-15,Active,93.07,126.99
+P00214,Dell Smartphone Edge 682,Technology,Smartphones,Dell,2019-12-14,Clearance,13678.57,14561.99
+P00215,JK Paper Label Core 246,Office Supplies,Labels,JK Paper,2024-03-17,Active,283.14,380.99
+P00216,Samsung Networking Pro 455,Technology,Networking,Samsung,2019-08-16,Active,56398.4,65372.99
+P00217,Voltas Fan Max 586,Appliances,Fans,Voltas,2022-07-05,Active,17992.06,21124.99
+P00218,Zebronics Laptop Bag Neo 594,Accessories,Laptop Bags,Zebronics,2022-09-18,Active,418.58,670.99
+P00219,Solo Pens & Art Prime 225,Office Supplies,Pens & Art,Solo,2025-02-28,Active,322.78,428.99
+P00220,Faber-Castell Pens & Art Max 905,Office Supplies,Pens & Art,Faber-Castell,2022-02-09,Active,162.28,235.99
+P00221,Navneet Envelope Plus 150,Office Supplies,Envelopes,Navneet,2021-05-22,Active,188.84,249.99
+P00222,HP Smartphone Pro 373,Technology,Smartphones,HP,2021-06-18,Active,44771.32,56803.99
+P00223,boAt Cable Go 302,Accessories,Cables,boAt,2025-04-03,Active,684.73,1077.99
+P00224,Lenovo Tablet Edge 871,Technology,Tablets,Lenovo,2025-01-24,Active,38843.72,47383.99
+P00225,Portronics Headphone Ultra 414,Accessories,Headphones,Portronics,2019-10-08,Active,308.42,485.99
+P00226,Godrej Interio Office Chair Go 994,Furniture,Office Chairs,Godrej Interio,2022-06-06,Active,11640.88,17336.99
+P00227,Featherlite Desk Go 431,Furniture,Desks,Featherlite,2022-04-29,Active,3494.44,5485.99
+P00228,boAt Keyboard Lite 129,Accessories,Keyboards,boAt,2020-04-15,Active,358.62,610.99
+P00229,Navneet Label Prime 379,Office Supplies,Labels,Navneet,2022-08-06,Active,55.33,73.99
+P00230,Navneet Binder Edge 856,Office Supplies,Binders,Navneet,2022-05-27,Active,218.21,312.99
+P00231,Classmate Binder Prime 102,Office Supplies,Binders,Classmate,2024-04-20,Active,79.26,104.99
+P00232,Whirlpool Air Conditioner Air 460,Appliances,Air Conditioners,Whirlpool,2023-01-11,Active,19431.57,24818.99
+P00233,boAt Charger Core 236,Accessories,Chargers,boAt,2025-01-31,Active,1047.81,1536.99
+P00234,Nilkamal Office Chair Neo 491,Furniture,Office Chairs,Nilkamal,2021-11-06,Discontinued,3449.82,5744.99
+P00235,Havells Microwave Slim 987,Appliances,Microwaves,Havells,2022-03-04,Active,38586.51,45045.99
+P00236,Navneet Label Max 320,Office Supplies,Labels,Navneet,2020-09-05,Active,106.43,138.99
+P00237,boAt Laptop Bag Neo 144,Accessories,Laptop Bags,boAt,2022-12-26,Active,325.74,522.99
+P00238,Featherlite Office Chair Prime 587,Furniture,Office Chairs,Featherlite,2022-06-11,Active,4922.97,7323.99
+P00239,Portronics Cable Duo 119,Accessories,Cables,Portronics,2022-06-03,Active,793.07,1411.99
+P00240,Portronics Keyboard Duo 471,Accessories,Keyboards,Portronics,2022-05-03,Clearance,624.04,1050.99
+P00241,Godrej Fan Neo 381,Appliances,Fans,Godrej,2022-10-02,Discontinued,30835.34,39570.99
+P00242,Classmate Label Max 727,Office Supplies,Labels,Classmate,2022-05-26,Discontinued,85.61,108.99
+P00243,Havells Refrigerator Prime 318,Appliances,Refrigerators,Havells,2020-03-26,Active,7617.41,10567.99
+P00244,Featherlite Bed Air 413,Furniture,Beds,Featherlite,2025-05-12,Active,2991.28,5572.99
+P00245,Dell Tablet Nova 343,Technology,Tablets,Dell,2020-08-21,Active,64629.16,82577.99
+P00246,Featherlite Desk Edge 925,Furniture,Desks,Featherlite,2019-11-24,Active,13359.11,18567.99
+P00247,Camlin Binder Max 552,Office Supplies,Binders,Camlin,2020-04-15,Active,88.41,117.99
+P00248,Amkette Laptop Bag Core 775,Accessories,Laptop Bags,Amkette,2025-02-07,Active,396.52,794.99
+P00249,Featherlite Storage Unit Go 264,Furniture,Storage Units,Featherlite,2022-06-03,Active,24083.75,20061.99
+P00250,Solo Pens & Art Air 349,Office Supplies,Pens & Art,Solo,2023-10-02,Active,267.13,346.99
+P00251,Zebronics Keyboard Duo 863,Accessories,Keyboards,Zebronics,2025-04-11,Active,155.43,251.99
+P00252,Durian Desk Nova 931,Furniture,Desks,Durian,2018-11-02,Active,6955.76,9503.99
+P00253,HP Mice Neo 487,Accessories,Mice,HP,2024-12-06,Clearance,513.59,908.99
+P00254,HP Monitor Duo 240,Technology,Monitors,HP,2025-04-21,Active,63227.45,83085.99
+P00255,Zebronics Charger Go 404,Accessories,Chargers,Zebronics,2022-08-17,Discontinued,741.03,1265.99
+P00256,Lenovo Laptop Elite 960,Technology,Laptops,Lenovo,2024-03-02,Active,73923.99,97227.99
+P00257,Classmate Label Go 606,Office Supplies,Labels,Classmate,2023-09-03,Clearance,116.26,160.99
+P00258,Logitech Mice Max 736,Accessories,Mice,Logitech,2022-01-24,Active,256.75,383.99
+P00259,Amkette Laptop Bag Plus 124,Accessories,Laptop Bags,Amkette,2019-01-03,Clearance,376.03,635.99
+P00260,JK Paper Paper Air 817,Office Supplies,Paper,JK Paper,2024-02-16,Active,128.13,171.99
+P00261,Godrej Interio Bed Ultra 940,Furniture,Beds,Godrej Interio,2019-05-14,Active,6367.68,9192.99
+P00262,JK Paper Filing Neo 224,Office Supplies,Filing,JK Paper,2023-02-27,Active,132.82,158.99
+P00263,Nilkamal Bed Nova 852,Furniture,Beds,Nilkamal,2020-08-06,Active,4358.73,6317.99
+P00264,Camlin Envelope Slim 944,Office Supplies,Envelopes,Camlin,2022-05-16,Active,146.31,204.99
+P00265,Camlin Filing Duo 904,Office Supplies,Filing,Camlin,2019-03-25,Active,118.94,155.99
+P00266,Bajaj Washing Machine Plus 492,Appliances,Washing Machines,Bajaj,2023-05-09,Discontinued,8578.2,10630.99
+P00267,Nilkamal Sofa Ultra 540,Furniture,Sofas,Nilkamal,2024-06-18,Active,1776.64,2508.99
+P00268,Xiaomi Laptop Edge 957,Technology,Laptops,Xiaomi,2022-10-09,Clearance,48379.26,52188.99
+P00269,Blue Star Air Conditioner Slim 825,Appliances,Air Conditioners,Blue Star,2021-08-06,Discontinued,6470.56,8358.99
+P00270,Zebronics Cable Go 798,Accessories,Cables,Zebronics,2023-03-06,Active,366.69,518.99
+P00271,Samsung Laptop Pro 449,Technology,Laptops,Samsung,2022-02-23,Discontinued,17551.6,21232.99
+P00272,Solo Label Max 483,Office Supplies,Labels,Solo,2020-02-22,Active,207.25,273.99
+P00273,JK Paper Label Plus 496,Office Supplies,Labels,JK Paper,2023-01-03,Active,151.94,199.99
+P00274,Durian Office Chair Nova 991,Furniture,Office Chairs,Durian,2021-07-03,Active,11768.86,19350.99
+P00275,Zebronics Keyboard Ultra 290,Accessories,Keyboards,Zebronics,2019-11-21,Active,527.35,890.99
+P00276,LG Fan Plus 891,Appliances,Fans,LG,2023-05-28,Discontinued,19319.82,22052.99
+P00277,LG Fan Ultra 243,Appliances,Fans,LG,2022-07-21,Active,18416.23,25896.99
+P00278,Godrej Microwave Duo 365,Appliances,Microwaves,Godrej,2019-04-14,Clearance,27860.3,38014.99
+P00279,Voltas Fan Go 502,Appliances,Fans,Voltas,2023-08-06,Active,17113.34,19303.99
+P00280,Faber-Castell Envelope Elite 600,Office Supplies,Envelopes,Faber-Castell,2022-01-19,Active,88.89,122.99
+P00281,Godrej Microwave Slim 480,Appliances,Microwaves,Godrej,2024-01-30,Active,17795.3,24724.99
+P00282,Solo Envelope Air 243,Office Supplies,Envelopes,Solo,2024-07-05,Active,113.41,144.99
+P00283,Godrej Interio Office Chair Nova 625,Furniture,Office Chairs,Godrej Interio,2024-03-19,Active,5297.25,8273.99
+P00284,Classmate Binder Plus 187,Office Supplies,Binders,Classmate,2023-08-18,Discontinued,136.26,182.99
+P00285,Wakefit Bed Air 470,Furniture,Beds,Wakefit,2022-10-27,Active,7234.64,12260.99
+P00286,Voltas Refrigerator Ultra 955,Appliances,Refrigerators,Voltas,2018-05-05,Clearance,6655.84,9214.99
+P00287,Nilkamal Office Chair Prime 608,Furniture,Office Chairs,Nilkamal,2022-05-30,Active,10329.09,15017.99
+P00288,Durian Office Chair Elite 164,Furniture,Office Chairs,Durian,2022-06-18,Active,3868.17,5719.99
+P00289,Dell Laptop Go 126,Technology,Laptops,Dell,2022-03-25,Active,11575.78,14403.99
+P00290,Voltas Fan Air 105,Appliances,Fans,Voltas,2020-05-06,Active,27067.76,38347.99
+P00291,Godrej Refrigerator Edge 446,Appliances,Refrigerators,Godrej,2022-01-23,Active,16299.07,22233.99
+P00292,Solo Pens & Art Prime 582,Office Supplies,Pens & Art,Solo,2023-05-22,Active,353.17,394.99
+P00293,HP Tablet Core 263,Technology,Tablets,HP,2022-05-06,Clearance,33353.2,40552.99
+P00294,Voltas Washing Machine Slim 867,Appliances,Washing Machines,Voltas,2018-05-18,Active,5965.16,7423.99
+P00295,Bajaj Microwave Max 537,Appliances,Microwaves,Bajaj,2020-09-28,Active,5696.45,8513.99
+P00296,Amkette Keyboard Core 695,Accessories,Keyboards,Amkette,2021-04-07,Active,551.19,868.99
+P00297,Wakefit Office Chair Duo 551,Furniture,Office Chairs,Wakefit,2024-08-04,Active,5088.82,9594.99
+P00298,Xiaomi Tablet Air 427,Technology,Tablets,Xiaomi,2021-08-17,Active,27026.8,36277.99
+P00299,Classmate Label Air 472,Office Supplies,Labels,Classmate,2021-08-27,Active,99.29,125.99
+P00300,Dell Laptop Nova 150,Technology,Laptops,Dell,2021-11-16,Active,21540.74,27395.99
+P00301,Zebronics Headphone Neo 185,Accessories,Headphones,Zebronics,2023-06-17,Active,687.62,1192.99
+P00302,Navneet Binder Go 132,Office Supplies,Binders,Navneet,2023-05-21,Active,179.49,203.99
+P00303,Logitech Headphone Nova 445,Accessories,Headphones,Logitech,2025-03-11,Active,318.26,554.99
+P00304,Classmate Label Air 523,Office Supplies,Labels,Classmate,2023-08-09,Active,270.61,416.99
+P00305,Camlin Pens & Art Air 376,Office Supplies,Pens & Art,Camlin,2025-04-19,Discontinued,149.1,176.99
+P00306,Logitech Laptop Bag Edge 367,Accessories,Laptop Bags,Logitech,2020-10-03,Discontinued,3393.04,4830.99
+P00307,Havells Refrigerator Prime 801,Appliances,Refrigerators,Havells,2024-02-11,Active,14600.87,20690.99
+P00308,Portronics Headphone Slim 190,Accessories,Headphones,Portronics,2019-07-13,Active,1567.46,2461.99
+P00309,Navneet Binder Air 692,Office Supplies,Binders,Navneet,2025-05-24,Active,176.98,232.99
+P00310,LG Washing Machine Elite 785,Appliances,Washing Machines,LG,2021-08-20,Active,23206.09,25221.99
+P00311,Logitech Keyboard Go 903,Accessories,Keyboards,Logitech,2021-10-28,Active,178.62,290.99
+P00312,Classmate Filing Air 122,Office Supplies,Filing,Classmate,2024-09-23,Discontinued,229.03,300.99
+P00313,Featherlite Office Chair Max 330,Furniture,Office Chairs,Featherlite,2024-10-17,Active,4734.41,7015.99
+P00314,Zebronics Headphone Pro 586,Accessories,Headphones,Zebronics,2019-01-24,Active,695.53,1096.99
+P00315,Samsung Laptop Edge 735,Technology,Laptops,Samsung,2021-02-11,Active,49628.6,56387.99
+P00316,Acer Tablet Nova 292,Technology,Tablets,Acer,2022-01-14,Active,25197.42,29423.99
+P00317,Amkette Laptop Bag Air 930,Accessories,Laptop Bags,Amkette,2020-10-03,Active,333.27,529.99
+P00318,Whirlpool Air Conditioner Pro 601,Appliances,Air Conditioners,Whirlpool,2022-12-12,Active,27126.85,37446.99
+P00319,Navneet Paper Elite 624,Office Supplies,Paper,Navneet,2019-07-27,Active,69.47,89.99
+P00320,Godrej Interio Desk Pro 886,Furniture,Desks,Godrej Interio,2023-03-14,Active,9808.39,14481.99
+P00321,Godrej Interio Sofa Prime 933,Furniture,Sofas,Godrej Interio,2024-05-06,Active,10379.92,14840.99
+P00322,Amkette Mice Edge 131,Accessories,Mice,Amkette,2018-06-16,Active,551.24,845.99
+P00323,Nilkamal Storage Unit Air 557,Furniture,Storage Units,Nilkamal,2021-02-26,Active,6196.49,9540.99
+P00324,Asus Networking Neo 611,Technology,Networking,Asus,2022-02-09,Active,22175.01,25779.99
+P00325,Dell Tablet Go 138,Technology,Tablets,Dell,2023-04-12,Active,47596.81,64088.99
+P00326,Solo Paper Air 817,Office Supplies,Paper,Solo,2021-02-13,Active,223.1,303.99
+P00327,Xiaomi Printer Core 440,Technology,Printers,Xiaomi,2023-01-22,Active,17792.28,22091.99
+P00328,HP Laptop Bag Core 302,Accessories,Laptop Bags,HP,2022-03-09,Active,625.98,1076.99
+P00329,Classmate Label Max 489,Office Supplies,Labels,Classmate,2024-12-22,Active,117.45,149.99
+P00330,Durian Bed Ultra 940,Furniture,Beds,Durian,2019-08-06,Active,8633.12,16617.99
+P00331,HP Headphone Nova 856,Accessories,Headphones,HP,2018-09-02,Active,680.22,1327.99
+P00332,Camlin Binder Neo 364,Office Supplies,Binders,Camlin,2024-10-29,Active,78.72,101.99
+P00333,Bajaj Washing Machine Go 605,Appliances,Washing Machines,Bajaj,2019-01-14,Active,16288.96,21087.99
+P00334,Havells Air Conditioner Go 809,Appliances,Air Conditioners,Havells,2023-05-15,Discontinued,12056.13,14518.99
+P00335,Zebronics Cable Lite 416,Accessories,Cables,Zebronics,2024-12-05,Active,2444.09,3719.99
+P00336,boAt Keyboard Max 950,Accessories,Keyboards,boAt,2023-10-27,Active,766.15,1301.99
+P00337,Godrej Microwave Plus 442,Appliances,Microwaves,Godrej,2024-07-29,Active,7999.57,10661.99
+P00338,HP Cable Go 660,Accessories,Cables,HP,2022-09-11,Active,1012.56,1919.99
+P00339,Acer Tablet Core 122,Technology,Tablets,Acer,2025-01-11,Active,14464.19,15468.99
+P00340,LG Refrigerator Nova 745,Appliances,Refrigerators,LG,2024-05-16,Active,23245.32,32904.99
+P00341,Zebronics Headphone Nova 123,Accessories,Headphones,Zebronics,2025-03-29,Active,824.4,1458.99
+P00342,Havells Air Conditioner Neo 520,Appliances,Air Conditioners,Havells,2018-03-17,Active,7725.59,10824.99
+P00343,Blue Star Refrigerator Prime 249,Appliances,Refrigerators,Blue Star,2025-01-07,Active,12254.56,16178.99
+P00344,Classmate Binder Max 826,Office Supplies,Binders,Classmate,2024-02-17,Active,45.07,62.99
+P00345,Solo Paper Elite 536,Office Supplies,Paper,Solo,2018-07-19,Active,41.01,55.99
+P00346,Xiaomi Monitor Elite 537,Technology,Monitors,Xiaomi,2024-05-08,Active,24477.75,33111.99
+P00347,Faber-Castell Pens & Art Lite 154,Office Supplies,Pens & Art,Faber-Castell,2025-02-24,Clearance,63.54,83.99
+P00348,Asus Printer Plus 867,Technology,Printers,Asus,2025-02-26,Active,33898.93,43762.99
+P00349,Voltas Washing Machine Go 227,Appliances,Washing Machines,Voltas,2020-08-20,Active,25349.01,29780.99
+P00350,Voltas Microwave Ultra 473,Appliances,Microwaves,Voltas,2023-11-06,Discontinued,10351.11,13902.99
+P00351,Logitech Charger Neo 269,Accessories,Chargers,Logitech,2024-07-23,Active,398.04,681.99
+P00352,Havells Microwave Nova 322,Appliances,Microwaves,Havells,2024-04-13,Active,11984.93,17098.99
+P00353,boAt Headphone Lite 398,Accessories,Headphones,boAt,2024-03-25,Clearance,111.03,168.99
+P00354,Durian Bed Lite 296,Furniture,Beds,Durian,2021-08-29,Clearance,4909.14,6963.99
+P00355,Classmate Filing Lite 377,Office Supplies,Filing,Classmate,2020-07-05,Active,54.34,68.99
+P00356,Solo Envelope Go 529,Office Supplies,Envelopes,Solo,2024-01-23,Active,160.62,217.99
+P00357,Voltas Refrigerator Nova 927,Appliances,Refrigerators,Voltas,2024-04-11,Active,13524.76,18011.99
+P00358,Classmate Binder Elite 465,Office Supplies,Binders,Classmate,2025-01-04,Active,79.11,106.99
+P00359,Classmate Paper Prime 119,Office Supplies,Paper,Classmate,2019-04-03,Active,79.22,104.99
+P00360,Camlin Label Neo 356,Office Supplies,Labels,Camlin,2022-11-21,Discontinued,117.93,162.99
+P00361,Logitech Keyboard Elite 233,Accessories,Keyboards,Logitech,2018-08-28,Active,282.83,458.99
+P00362,Navneet Pens & Art Go 138,Office Supplies,Pens & Art,Navneet,2022-10-13,Discontinued,83.03,131.99
+P00363,Dell Monitor Prime 735,Technology,Monitors,Dell,2020-09-15,Active,10051.8,13503.99
+P00364,Logitech Cable Neo 354,Accessories,Cables,Logitech,2023-05-15,Active,924.03,1474.99
+P00365,Amkette Charger Prime 973,Accessories,Chargers,Amkette,2024-01-06,Active,1088.49,1846.99
+P00366,Camlin Label Elite 816,Office Supplies,Labels,Camlin,2024-11-10,Active,664.1,816.99
+P00367,Classmate Envelope Neo 691,Office Supplies,Envelopes,Classmate,2020-07-25,Discontinued,61.81,86.99
+P00368,Whirlpool Washing Machine Neo 393,Appliances,Washing Machines,Whirlpool,2022-10-12,Discontinued,11951.31,12866.99
+P00369,Whirlpool Refrigerator Go 423,Appliances,Refrigerators,Whirlpool,2021-11-11,Active,10584.68,14509.99
+P00370,Voltas Air Conditioner Lite 133,Appliances,Air Conditioners,Voltas,2025-05-23,Active,7195.67,9732.99
+P00371,Solo Filing Duo 797,Office Supplies,Filing,Solo,2021-10-31,Active,86.49,109.99
+P00372,Solo Paper Elite 304,Office Supplies,Paper,Solo,2023-03-17,Active,119.94,173.99
+P00373,Bajaj Microwave Plus 452,Appliances,Microwaves,Bajaj,2022-09-01,Discontinued,11269.85,14421.99
+P00374,Navneet Paper Go 997,Office Supplies,Paper,Navneet,2024-05-06,Discontinued,93.01,122.99
+P00375,Navneet Pens & Art Max 490,Office Supplies,Pens & Art,Navneet,2021-11-16,Active,86.21,109.99
+P00376,Featherlite Sofa Duo 254,Furniture,Sofas,Featherlite,2022-07-02,Active,1436.01,2423.99
+P00377,HP Laptop Bag Plus 261,Accessories,Laptop Bags,HP,2025-01-23,Active,1168.54,2075.99
+P00378,Solo Paper Go 300,Office Supplies,Paper,Solo,2022-02-23,Discontinued,144.79,206.99
+P00379,Durian Office Chair Air 893,Furniture,Office Chairs,Durian,2021-07-05,Active,4076.08,6611.99
+P00380,Solo Pens & Art Plus 581,Office Supplies,Pens & Art,Solo,2021-02-21,Active,191.93,255.99
+P00381,Lenovo Smartphone Elite 585,Technology,Smartphones,Lenovo,2022-06-13,Active,31259.4,33853.99
+P00382,Logitech Headphone Air 497,Accessories,Headphones,Logitech,2020-11-13,Active,549.69,906.99
+P00383,boAt Headphone Go 632,Accessories,Headphones,boAt,2023-11-09,Active,326.48,470.99
+P00384,Voltas Refrigerator Nova 497,Appliances,Refrigerators,Voltas,2023-04-17,Active,12697.97,16356.99
+P00385,Solo Label Edge 654,Office Supplies,Labels,Solo,2023-01-25,Active,117.0,132.99
+P00386,Nilkamal Storage Unit Air 722,Furniture,Storage Units,Nilkamal,2018-10-10,Discontinued,3387.04,5052.99
+P00387,Durian Bed Elite 686,Furniture,Beds,Durian,2024-03-03,Active,3048.5,4527.99
+P00388,Godrej Air Conditioner Slim 722,Appliances,Air Conditioners,Godrej,2021-09-22,Discontinued,5600.49,7066.99
+P00389,Bajaj Refrigerator Pro 732,Appliances,Refrigerators,Bajaj,2022-04-28,Active,18110.93,27044.99
+P00390,Camlin Filing Slim 959,Office Supplies,Filing,Camlin,2022-12-14,Active,140.27,183.99
+P00391,Godrej Interio Bed Elite 594,Furniture,Beds,Godrej Interio,2021-10-11,Active,7151.3,10476.99
+P00392,boAt Keyboard Core 635,Accessories,Keyboards,boAt,2018-11-16,Active,586.67,979.99
+P00393,JK Paper Pens & Art Air 548,Office Supplies,Pens & Art,JK Paper,2023-04-12,Active,269.7,337.99
+P00394,HP Tablet Ultra 442,Technology,Tablets,HP,2024-06-20,Discontinued,12549.32,14952.99
+P00395,Voltas Washing Machine Prime 843,Appliances,Washing Machines,Voltas,2018-09-06,Active,13462.33,17717.99
+P00396,Zebronics Headphone Neo 609,Accessories,Headphones,Zebronics,2023-05-31,Active,610.68,1021.99
+P00397,LG Microwave Nova 801,Appliances,Microwaves,LG,2023-06-28,Active,7809.6,10763.99
+P00398,Faber-Castell Binder Duo 267,Office Supplies,Binders,Faber-Castell,2024-09-30,Clearance,129.43,183.99
+P00399,Voltas Microwave Air 589,Appliances,Microwaves,Voltas,2023-04-12,Active,12257.34,15773.99
+P00400,boAt Headphone Air 980,Accessories,Headphones,boAt,2022-10-15,Clearance,775.3,1262.99
+P00401,Acer Smartphone Duo 171,Technology,Smartphones,Acer,2023-08-17,Active,25196.76,29280.99
+P00402,Classmate Pens & Art Nova 700,Office Supplies,Pens & Art,Classmate,2022-06-23,Active,146.66,206.99
+P00403,Solo Label Nova 847,Office Supplies,Labels,Solo,2025-04-20,Active,141.7,186.99
+P00404,Zebronics Keyboard Neo 494,Accessories,Keyboards,Zebronics,2022-01-14,Discontinued,1611.22,2393.99
+P00405,Lenovo Monitor Duo 136,Technology,Monitors,Lenovo,2018-09-09,Active,34192.85,43473.99
+P00406,Lenovo Monitor Edge 875,Technology,Monitors,Lenovo,2022-05-14,Active,23503.87,29773.99
+P00407,Amkette Laptop Bag Duo 468,Accessories,Laptop Bags,Amkette,2025-04-22,Active,462.41,814.99
+P00408,HP Printer Go 941,Technology,Printers,HP,2022-11-18,Active,21913.36,28549.99
+P00409,Lenovo Tablet Plus 955,Technology,Tablets,Lenovo,2023-06-03,Active,36522.62,42607.99
+P00410,Solo Filing Prime 990,Office Supplies,Filing,Solo,2022-05-03,Active,374.46,458.99
+P00411,Durian Desk Go 937,Furniture,Desks,Durian,2024-02-13,Discontinued,9115.25,12757.99
+P00412,boAt Keyboard Pro 212,Accessories,Keyboards,boAt,2023-10-22,Discontinued,920.51,1607.99
+P00413,Dell Printer Duo 473,Technology,Printers,Dell,2020-03-04,Clearance,19786.31,25197.99
+P00414,Navneet Paper Prime 601,Office Supplies,Paper,Navneet,2025-03-17,Active,272.6,385.99
+P00415,Classmate Envelope Ultra 635,Office Supplies,Envelopes,Classmate,2021-02-09,Discontinued,37.49,44.99
+P00416,Asus Tablet Core 286,Technology,Tablets,Asus,2023-11-27,Active,15704.97,17685.99
+P00417,Durian Sofa Air 758,Furniture,Sofas,Durian,2020-12-28,Discontinued,5788.17,9041.99
+P00418,Solo Label Ultra 841,Office Supplies,Labels,Solo,2022-07-12,Discontinued,69.91,95.99
+P00419,Classmate Label Go 212,Office Supplies,Labels,Classmate,2018-10-11,Active,80.7,105.99
+P00420,Classmate Envelope Edge 811,Office Supplies,Envelopes,Classmate,2023-05-22,Active,78.69,114.99
+P00421,Solo Paper Edge 733,Office Supplies,Paper,Solo,2020-07-24,Discontinued,122.53,205.99
+P00422,Amkette Laptop Bag Ultra 113,Accessories,Laptop Bags,Amkette,2021-05-17,Active,598.66,1012.99
+P00423,Faber-Castell Pens & Art Max 945,Office Supplies,Pens & Art,Faber-Castell,2021-04-21,Discontinued,162.38,195.99
+P00424,Wakefit Sofa Max 524,Furniture,Sofas,Wakefit,2018-07-10,Active,6186.47,9608.99
+P00425,JK Paper Label Lite 993,Office Supplies,Labels,JK Paper,2021-01-31,Active,146.93,182.99
+P00426,Solo Envelope Pro 183,Office Supplies,Envelopes,Solo,2023-07-03,Active,92.22,119.99
+P00427,Camlin Pens & Art Pro 932,Office Supplies,Pens & Art,Camlin,,Active,105.84,141.99
+P00428,Asus Printer Neo 127,Technology,Printers,Asus,2020-08-25,Discontinued,9804.25,12538.99
+P00429,HP Charger Ultra 633,Accessories,Chargers,HP,2023-12-10,Clearance,163.41,258.99
+P00430,Navneet Envelope Prime 709,Office Supplies,Envelopes,Navneet,2024-06-26,Active,129.46,177.99
+P00431,Acer Tablet Air 471,Technology,Tablets,Acer,2018-08-06,Active,18405.53,21131.99
+P00432,Lenovo Monitor Go 377,Technology,Monitors,Lenovo,2021-03-14,Active,18175.24,19174.99
+P00433,Navneet Paper Plus 198,Office Supplies,Paper,Navneet,2023-04-16,Active,122.33,150.99
+P00434,boAt Keyboard Plus 378,Accessories,Keyboards,boAt,2023-11-21,Active,1038.19,1653.99
+P00435,Navneet Label Pro 214,Office Supplies,Labels,Navneet,2025-03-22,Active,56.7,81.99
+P00436,Acer Networking Plus 553,Technology,Networking,Acer,2019-04-26,Active,46188.19,58204.99
+P00437,Navneet Paper Core 188,Office Supplies,Paper,Navneet,2020-02-10,Active,99.98,123.99
+P00438,Solo Label Lite 897,Office Supplies,Labels,Solo,2023-01-05,Clearance,238.07,301.99
+P00439,Solo Pens & Art Go 894,Office Supplies,Pens & Art,Solo,2023-08-14,Active,136.45,161.99
+P00440,Dell Laptop Neo 217,Technology,Laptops,Dell,2022-01-08,Active,27979.62,35138.99
+P00441,Havells Fan Nova 166,Appliances,Fans,Havells,2018-07-07,Clearance,19376.66,27290.99
+P00442,Lenovo Smartphone Pro 365,Technology,Smartphones,Lenovo,2024-04-22,Active,8612.52,10398.99
+P00443,HP Mice Pro 359,Accessories,Mice,HP,2019-06-17,Active,995.84,1720.99
+P00444,Portronics Charger Nova 841,Accessories,Chargers,Portronics,2023-02-01,Active,731.21,1057.99
+P00445,Durian Sofa Edge 637,Furniture,Sofas,Durian,2023-06-25,Clearance,8482.83,13910.99
+P00446,Wakefit Sofa Ultra 602,Furniture,Sofas,Wakefit,2020-08-11,Active,6730.27,11755.99
+P00447,Navneet Pens & Art Lite 532,Office Supplies,Pens & Art,Navneet,2023-01-28,Active,274.21,324.99
+P00448,Solo Filing Pro 954,Office Supplies,Filing,Solo,2025-02-24,Active,226.87,284.99
+P00449,JK Paper Paper Slim 469,Office Supplies,Paper,JK Paper,2020-09-08,Active,60.04,69.99
+P00450,HP Laptop Bag Edge 958,Accessories,Laptop Bags,HP,2023-06-15,Active,330.69,595.99
+P00451,Wakefit Storage Unit Plus 163,Furniture,Storage Units,Wakefit,2024-12-16,Active,8934.22,11833.99
+P00452,Navneet Filing Max 183,Office Supplies,Filing,Navneet,2023-01-23,Discontinued,247.88,356.99
+P00453,boAt Cable Nova 532,Accessories,Cables,boAt,2023-08-01,Active,357.98,636.99
+P00454,Wakefit Storage Unit Pro 802,Furniture,Storage Units,Wakefit,2019-10-13,Active,1775.22,2903.99
+P00455,HP Cable Edge 884,Accessories,Cables,HP,2018-12-06,Active,620.47,1033.99
+P00456,Camlin Label Nova 484,Office Supplies,Labels,Camlin,2025-01-22,Active,277.21,363.99
+P00457,Logitech Cable Core 339,Accessories,Cables,Logitech,2025-05-11,Active,122.25,192.99
+P00458,Solo Binder Slim 914,Office Supplies,Binders,Solo,2023-12-05,Clearance,101.13,137.99
+P00459,Faber-Castell Paper Nova 677,Office Supplies,Paper,Faber-Castell,2021-10-20,Active,185.4,223.99
+P00460,Faber-Castell Pens & Art Go 994,Office Supplies,Pens & Art,Faber-Castell,2025-05-12,Discontinued,149.99,206.99
+P00461,LG Microwave Neo 978,Appliances,Microwaves,LG,2023-11-27,Active,18336.53,26165.99
+P00462,Nilkamal Bed Lite 229,Furniture,Beds,Nilkamal,2024-04-08,Active,3097.29,4686.99
+P00463,Portronics Keyboard Lite 870,Accessories,Keyboards,Portronics,2024-08-01,Active,1193.62,2092.99
+P00464,Voltas Air Conditioner Duo 667,Appliances,Air Conditioners,Voltas,2022-02-16,Active,12547.74,17170.99
+P00465,Faber-Castell Binder Edge 208,Office Supplies,Binders,Faber-Castell,2024-11-12,Discontinued,55.21,70.99
+P00466,Navneet Label Lite 320,Office Supplies,Labels,Navneet,2020-12-19,Active,40.89,48.99
+P00467,Amkette Keyboard Slim 816,Accessories,Keyboards,Amkette,2022-05-22,Active,525.44,903.99
+P00468,JK Paper Envelope Elite 878,Office Supplies,Envelopes,JK Paper,2025-04-21,Clearance,189.73,241.99
+P00469,Asus Tablet Duo 489,Technology,Tablets,Asus,2018-07-14,Discontinued,56267.07,58783.99
+P00470,Durian Office Chair Plus 622,Furniture,Office Chairs,Durian,2018-06-17,Active,12617.77,19745.99
+P00471,boAt Cable Ultra 795,Accessories,Cables,boAt,2021-06-24,Active,389.94,675.99
+P00472,Navneet Envelope Max 391,Office Supplies,Envelopes,Navneet,2023-08-30,Active,114.74,143.99
+P00473,Godrej Interio Bed Lite 111,Furniture,Beds,Godrej Interio,2020-08-27,Active,13952.06,21160.99
+P00474,Logitech Keyboard Slim 144,Accessories,Keyboards,Logitech,2022-06-07,Active,605.15,964.99
+P00475,boAt Headphone Slim 516,Accessories,Headphones,boAt,2024-08-18,Active,231.19,459.99
+P00476,Dell Monitor Prime 665,Technology,Monitors,Dell,2022-06-02,Active,51573.71,79782.99
+P00477,Xiaomi Printer Lite 102,Technology,Printers,Xiaomi,2024-07-04,Active,31286.3,37703.99
+P00478,HP Laptop Bag Max 366,Accessories,Laptop Bags,HP,2021-02-17,Active,362.5,625.99
+P00479,Faber-Castell Envelope Lite 434,Office Supplies,Envelopes,Faber-Castell,2023-12-28,Active,170.26,210.99
+P00480,Godrej Washing Machine Lite 270,Appliances,Washing Machines,Godrej,2018-03-22,Active,30307.89,40669.99
+P00481,Classmate Label Elite 467,Office Supplies,Labels,Classmate,2018-12-08,Active,100.85,133.99
+P00482,Bajaj Washing Machine Core 716,Appliances,Washing Machines,Bajaj,2020-10-12,Discontinued,16667.48,20174.99
+P00483,Portronics Keyboard Pro 556,Accessories,Keyboards,Portronics,2019-01-02,Discontinued,1026.92,1540.99
+P00484,JK Paper Filing Lite 410,Office Supplies,Filing,JK Paper,2022-07-29,Active,101.11,130.99
+P00485,Portronics Keyboard Lite 400,Accessories,Keyboards,Portronics,2020-08-20,Clearance,1697.58,3070.99
+P00486,Godrej Washing Machine Pro 733,Appliances,Washing Machines,Godrej,2022-10-18,Active,16535.09,23574.99
+P00487,Camlin Paper Duo 481,Office Supplies,Paper,Camlin,2022-12-20,Active,162.62,209.99
+P00488,Camlin Label Prime 928,Office Supplies,Labels,Camlin,2019-07-25,Active,44.86,59.99
+P00489,Voltas Fan Plus 971,Appliances,Fans,Voltas,2022-01-03,Active,1433.79,2012.99
+P00490,Acer Smartphone Core 409,Technology,Smartphones,Acer,2023-12-13,Active,24951.79,34744.99
+P00491,Xiaomi Monitor Air 139,Technology,Monitors,Xiaomi,2022-02-03,Discontinued,13326.37,17386.99
+P00492,Whirlpool Refrigerator Ultra 901,Appliances,Refrigerators,Whirlpool,2025-04-30,Clearance,20895.99,28907.99
+P00493,Featherlite Bed Nova 876,Furniture,Beds,Featherlite,2020-08-18,Active,5304.4,7541.99
+P00494,Godrej Fan Core 251,Appliances,Fans,Godrej,2019-04-01,Active,15872.22,20616.99
+P00495,Nilkamal Office Chair Go 831,Furniture,Office Chairs,Nilkamal,2018-09-27,Active,6930.86,10626.99
+P00496,Havells Washing Machine Edge 830,Appliances,Washing Machines,Havells,2025-03-26,Active,7104.5,9010.99
+P00497,Whirlpool Fan Prime 863,Appliances,Fans,Whirlpool,2022-02-21,Clearance,4799.72,7237.99
+P00498,Durian Sofa Neo 803,Furniture,Sofas,Durian,2021-10-12,Clearance,10960.81,15036.99
+P00499,Godrej Interio Sofa Nova 416,Furniture,Sofas,Godrej Interio,2024-01-28,Active,6637.73,10364.99
+P00500,HP Charger Plus 241,Accessories,Chargers,HP,2023-01-25,Active,427.63,635.99
+P00501,Xiaomi Tablet Plus 751,Technology,Tablets,Xiaomi,2022-01-08,Active,16741.01,18025.99
+P00502,Xiaomi Smartphone Slim 309,Technology,Smartphones,Xiaomi,2021-08-16,Active,12286.31,14683.99
+P00503,boAt Headphone Slim 702,Accessories,Headphones,boAt,2018-05-30,Discontinued,728.62,1189.99
+P00504,Whirlpool Air Conditioner Duo 400,Appliances,Air Conditioners,Whirlpool,2024-07-01,Active,23045.03,28390.99
+P00505,Nilkamal Desk Nova 521,Furniture,Desks,Nilkamal,2019-07-11,Active,4413.18,6750.99
+P00506,Bajaj Microwave Air 822,Appliances,Microwaves,Bajaj,2019-01-23,Active,20049.98,25896.99
+P00507,Classmate Binder Air 809,Office Supplies,Binders,Classmate,2018-10-26,Active,28.82,45.99
+P00508,Classmate Label Edge 858,Office Supplies,Labels,Classmate,2020-02-22,Active,115.52,129.99
+P00509,JK Paper Envelope Elite 129,Office Supplies,Envelopes,JK Paper,2025-02-06,Active,75.65,102.99
+P00510,Logitech Headphone Lite 853,Accessories,Headphones,Logitech,2024-07-29,Active,586.65,1018.99
+P00511,Xiaomi Monitor Pro 245,Technology,Monitors,Xiaomi,2022-05-01,Active,53925.12,58743.99
+P00512,Nilkamal Desk Nova 576,Furniture,Desks,Nilkamal,2018-09-15,Active,18509.92,26763.99
+P00513,Xiaomi Smartphone Edge 570,Technology,Smartphones,Xiaomi,2025-02-23,Active,23039.35,30163.99
+P00514,Voltas Air Conditioner Lite 730,Appliances,Air Conditioners,Voltas,2019-12-21,Active,10736.1,13904.99
+P00515,Whirlpool Fan Elite 738,Appliances,Fans,Whirlpool,2022-09-07,Clearance,11154.6,11748.99
+P00516,Godrej Interio Desk Plus 636,Furniture,Desks,Godrej Interio,2024-10-04,Clearance,5703.58,9063.99
+P00517,Solo Label Pro 252,Office Supplies,Labels,Solo,2024-06-27,Active,292.18,382.99
+P00518,Portronics Cable Elite 118,Accessories,Cables,Portronics,2022-07-30,Clearance,5670.43,8629.99
+P00519,Zebronics Keyboard Max 195,Accessories,Keyboards,Zebronics,2023-11-13,Active,681.94,1205.99
+P00520,Lenovo Printer Slim 742,Technology,Printers,Lenovo,2023-06-01,Active,48923.31,66956.99
+P00521,Godrej Interio Bed Neo 893,Furniture,Beds,Godrej Interio,2022-04-14,Clearance,11980.09,17525.99
+P00522,Zebronics Cable Nova 220,Accessories,Cables,Zebronics,2020-01-17,Discontinued,107.6,180.99
+P00523,Camlin Envelope Go 574,Office Supplies,Envelopes,Camlin,2021-01-25,Active,60.86,87.99
+P00524,Asus Printer Duo 585,Technology,Printers,Asus,2018-03-23,Active,29771.42,31494.99
+P00525,Logitech Headphone Max 995,Accessories,Headphones,Logitech,2025-02-24,Active,337.03,591.99
+P00526,Classmate Envelope Elite 608,Office Supplies,Envelopes,Classmate,2024-05-24,Active,167.73,227.99
+P00527,Havells Fan Core 384,Appliances,Fans,Havells,2023-08-17,Active,23591.84,29237.99
+P00528,Camlin Binder Max 469,Office Supplies,Binders,Camlin,2023-09-07,Active,164.85,219.99
+P00529,Faber-Castell Pens & Art Ultra 256,Office Supplies,Pens & Art,Faber-Castell,2018-11-27,Active,190.14,246.99
+P00530,Acer Laptop Air 704,Technology,Laptops,Acer,2023-12-25,Active,13753.86,18820.99
+P00531,Samsung Monitor Ultra 655,Technology,Monitors,Samsung,2018-07-05,Active,41160.94,53033.99
+P00532,Zebronics Laptop Bag Slim 567,Accessories,Laptop Bags,Zebronics,2018-08-01,Clearance,581.66,867.99
+P00533,boAt Cable Prime 548,Accessories,Cables,boAt,2022-04-10,Active,445.07,764.99
+P00534,HP Headphone Elite 577,Accessories,Headphones,HP,2022-05-31,Active,547.57,912.99
+P00535,Voltas Refrigerator Neo 875,Appliances,Refrigerators,Voltas,2020-12-08,Active,18441.26,19729.99
+P00536,Durian Storage Unit Edge 934,Furniture,Storage Units,Durian,2023-08-05,Active,5940.13,8176.99
+P00537,HP Laptop Neo 946,Technology,Laptops,HP,2023-08-27,Clearance,19241.78,20762.99
+P00538,Voltas Microwave Prime 918,Appliances,Microwaves,Voltas,2020-11-14,Active,8095.72,9935.99
+P00539,LG Microwave Edge 810,Appliances,Microwaves,LG,2023-10-03,Active,16982.96,22679.99
+P00540,Samsung Monitor Edge 662,Technology,Monitors,Samsung,2022-06-23,Clearance,18886.11,24090.99
+P00541,Wakefit Desk Prime 858,Furniture,Desks,Wakefit,2021-05-22,Discontinued,12596.82,17375.99
+P00542,Logitech Charger Air 194,Accessories,Chargers,Logitech,2021-04-18,Active,169.94,261.99
+P00543,Featherlite Storage Unit Elite 980,Furniture,Storage Units,Featherlite,2024-11-21,Active,3025.87,4330.99
+P00544,Classmate Pens & Art Pro 261,Office Supplies,Pens & Art,Classmate,2018-09-16,Active,52.0,79.99
+P00545,Camlin Label Go 842,Office Supplies,Labels,Camlin,2024-02-10,Discontinued,89.54,113.99
+P00546,Portronics Charger Core 906,Accessories,Chargers,Portronics,2020-10-05,Active,681.78,1137.99
+P00547,Solo Pens & Art Neo 857,Office Supplies,Pens & Art,Solo,2024-01-04,Active,61.34,90.99
+P00548,JK Paper Envelope Core 614,Office Supplies,Envelopes,JK Paper,2022-08-19,Active,179.9,239.99
+P00549,Classmate Paper Slim 756,Office Supplies,Paper,Classmate,2024-07-01,Active,188.61,233.99
+P00550,Navneet Paper Prime 261,Office Supplies,Paper,Navneet,2023-05-06,Discontinued,40.54,60.99
+P00551,Bajaj Washing Machine Max 439,Appliances,Washing Machines,Bajaj,2024-11-23,Discontinued,10332.05,12378.99
+P00552,Wakefit Desk Ultra 201,Furniture,Desks,Wakefit,2022-03-31,Discontinued,6730.14,10535.99
+P00553,Amkette Keyboard Slim 775,Accessories,Keyboards,Amkette,2023-04-01,Active,521.64,765.99
+P00554,Classmate Label Lite 513,Office Supplies,Labels,Classmate,2020-07-12,Active,127.77,183.99
+P00555,Godrej Interio Bed Nova 983,Furniture,Beds,Godrej Interio,2025-01-17,Active,6228.18,9339.99
+P00556,boAt Laptop Bag Air 410,Accessories,Laptop Bags,boAt,2022-07-11,Active,755.82,1281.99
+P00557,JK Paper Paper Prime 490,Office Supplies,Paper,JK Paper,2022-09-13,Active,91.47,124.99
+P00558,Featherlite Office Chair Duo 289,Furniture,Office Chairs,Featherlite,2023-02-08,Active,4721.12,6127.99
+P00559,Faber-Castell Filing Go 545,Office Supplies,Filing,Faber-Castell,2021-11-28,Active,77.59,91.99
+P00560,Navneet Label Core 399,Office Supplies,Labels,Navneet,2024-12-18,Active,201.79,278.99
+P00561,boAt Cable Prime 145,Accessories,Cables,boAt,2022-07-28,Discontinued,429.55,732.99
+P00562,Lenovo Laptop Air 304,Technology,Laptops,Lenovo,2025-03-11,Active,15122.69,19011.99
+P00563,Amkette Laptop Bag Edge 511,Accessories,Laptop Bags,Amkette,2020-11-02,Discontinued,1116.6,2017.99
+P00564,Faber-Castell Paper Lite 959,Office Supplies,Paper,Faber-Castell,2020-06-17,Active,87.84,120.99
+P00565,Logitech Cable Plus 847,Accessories,Cables,Logitech,2022-09-06,Active,806.01,1172.99
+P00566,Faber-Castell Binder Lite 405,Office Supplies,Binders,Faber-Castell,2018-04-20,Active,62.09,76.99
+P00567,Navneet Paper Elite 817,Office Supplies,Paper,Navneet,2022-07-25,Active,217.78,269.99
+P00568,LG Refrigerator Edge 515,Appliances,Refrigerators,LG,2023-07-05,Active,11092.23,14714.99
+P00569,Featherlite Sofa Slim 383,Furniture,Sofas,Featherlite,2018-03-29,Discontinued,4400.45,6522.99
+P00570,Durian Sofa Nova 766,Furniture,Sofas,Durian,2022-04-22,Active,10920.96,16483.99
+P00571,Portronics Keyboard Max 105,Accessories,Keyboards,Portronics,2024-02-29,Active,1122.48,2001.99
+P00572,Lenovo Networking Lite 183,Technology,Networking,Lenovo,2025-02-09,Active,29126.04,42459.99
+P00573,Wakefit Bed Air 304,Furniture,Beds,Wakefit,2022-02-05,Active,8087.34,11015.99
+P00574,Wakefit Desk Slim 584,Furniture,Desks,Wakefit,2023-07-13,Active,4668.02,7265.99
+P00575,Featherlite Bed Core 509,Furniture,Beds,Featherlite,2018-10-08,Active,3925.39,5985.99
+P00576,Faber-Castell Envelope Air 924,Office Supplies,Envelopes,Faber-Castell,2020-08-14,Active,136.11,191.99
+P00577,HP Mice Max 813,Accessories,Mice,HP,2018-11-16,Active,698.95,1134.99
+P00578,JK Paper Binder Air 216,Office Supplies,Binders,JK Paper,2022-11-24,Active,170.26,225.99
+P00579,Amkette Mice Max 482,Accessories,Mice,Amkette,2022-04-19,Discontinued,1459.37,2407.99
+P00580,Classmate Envelope Slim 995,Office Supplies,Envelopes,Classmate,2025-01-09,Active,161.57,206.99
+P00581,HP Laptop Bag Core 442,Accessories,Laptop Bags,HP,2025-04-23,Active,432.39,639.99
+P00582,Faber-Castell Label Duo 985,Office Supplies,Labels,Faber-Castell,2025-01-01,Active,210.41,280.99
+P00583,HP Charger Edge 966,Accessories,Chargers,HP,2018-05-14,Active,954.28,1451.99
+P00584,Havells Washing Machine Max 865,Appliances,Washing Machines,Havells,2024-08-17,Active,18611.23,23193.99
+P00585,Logitech Charger Duo 688,Accessories,Chargers,Logitech,2018-08-12,Active,184.68,339.99
+P00586,Wakefit Office Chair Edge 275,Furniture,Office Chairs,Wakefit,2022-12-19,Active,3172.14,4540.99
+P00587,Godrej Washing Machine Edge 130,Appliances,Washing Machines,Godrej,2021-03-12,Active,6482.84,9204.99
+P00588,Dell Monitor Core 888,Technology,Monitors,Dell,2024-12-25,Clearance,42932.96,52041.99
+P00589,Blue Star Washing Machine Plus 712,Appliances,Washing Machines,Blue Star,2018-12-04,Active,7273.2,10288.99
+P00590,Camlin Envelope Ultra 297,Office Supplies,Envelopes,Camlin,2021-07-14,Clearance,155.37,201.99
+P00591,Dell Smartphone Edge 253,Technology,Smartphones,Dell,2021-02-15,Active,7359.89,8663.99
+P00592,HP Headphone Ultra 254,Accessories,Headphones,HP,2023-10-16,Active,217.13,343.99
+P00593,Asus Tablet Plus 404,Technology,Tablets,Asus,2021-04-23,Active,5912.0,7090.99
+P00594,Camlin Paper Duo 526,Office Supplies,Paper,Camlin,2019-09-20,Discontinued,138.59,183.99
+P00595,Classmate Binder Go 203,Office Supplies,Binders,Classmate,2023-02-06,Active,101.2,132.99
+P00596,boAt Charger Neo 253,Accessories,Chargers,boAt,2024-12-16,Active,871.7,1474.99
+P00597,Asus Tablet Duo 358,Technology,Tablets,Asus,2021-05-15,Discontinued,28893.06,35314.99
+P00598,HP Charger Lite 540,Accessories,Chargers,HP,2023-05-14,Active,311.77,468.99
+P00599,Faber-Castell Pens & Art Max 396,Office Supplies,Pens & Art,Faber-Castell,2023-08-09,Clearance,179.21,222.99
+P00600,Dell Networking Pro 824,Technology,Networking,Dell,2019-09-25,Discontinued,57510.8,75212.99
+P00601,Navneet Binder Air 634,Office Supplies,Binders,Navneet,2023-07-21,Active,345.28,459.99
+P00602,Portronics Keyboard Lite 769,Accessories,Keyboards,Portronics,2023-03-29,Active,472.29,754.99
+P00603,Navneet Pens & Art Neo 520,Office Supplies,Pens & Art,Navneet,2021-09-21,Active,56.6,66.99
+P00604,Voltas Air Conditioner Plus 439,Appliances,Air Conditioners,Voltas,2019-02-20,Active,13369.78,18266.99
+P00605,Havells Fan Plus 725,Appliances,Fans,Havells,2022-12-26,Discontinued,29123.36,39237.99
+P00606,Faber-Castell Pens & Art Max 527,Office Supplies,Pens & Art,Faber-Castell,2023-02-18,Discontinued,324.55,443.99
+P00607,LG Refrigerator Max 112,Appliances,Refrigerators,LG,2022-08-15,Active,13405.98,17441.99
+P00608,Blue Star Air Conditioner Lite 233,Appliances,Air Conditioners,Blue Star,2018-09-15,Active,13017.83,16673.99
+P00609,JK Paper Pens & Art Air 374,Office Supplies,Pens & Art,JK Paper,2024-03-08,Active,140.93,180.99
+P00610,Camlin Pens & Art Pro 111,Office Supplies,Pens & Art,Camlin,2024-12-18,Active,102.61,137.99
+P00611,Whirlpool Air Conditioner Core 583,Appliances,Air Conditioners,Whirlpool,2024-01-01,Active,10439.03,14595.99
+P00612,Zebronics Cable Duo 372,Accessories,Cables,Zebronics,2023-09-08,Clearance,1199.37,2152.99
+P00613,Godrej Refrigerator Elite 710,Appliances,Refrigerators,Godrej,2020-07-31,Clearance,35473.99,52506.99
+P00614,Zebronics Laptop Bag Air 583,Accessories,Laptop Bags,Zebronics,2019-03-22,Active,919.25,1434.99
+P00615,Nilkamal Sofa Core 333,Furniture,Sofas,Nilkamal,2025-02-16,Active,18912.98,30225.99
+P00616,Zebronics Charger Max 141,Accessories,Chargers,Zebronics,2022-10-28,Active,312.72,478.99
+P00617,Dell Tablet Air 706,Technology,Tablets,Dell,2025-05-06,Clearance,12381.74,20121.99
+P00618,HP Cable Plus 176,Accessories,Cables,HP,2025-05-20,Active,437.77,828.99
+P00619,Navneet Envelope Air 806,Office Supplies,Envelopes,Navneet,2023-09-07,Active,248.23,346.99
+P00620,Faber-Castell Label Nova 488,Office Supplies,Labels,Faber-Castell,2024-08-11,Active,272.52,362.99
+P00621,Zebronics Headphone Slim 663,Accessories,Headphones,Zebronics,2022-05-20,Clearance,1285.83,2259.99
+P00622,Asus Printer Edge 780,Technology,Printers,Asus,2020-04-12,Active,124508.51,143053.99
+P00623,Classmate Binder Pro 873,Office Supplies,Binders,Classmate,2024-09-27,Active,126.51,171.99
+P00624,Wakefit Bed Plus 643,Furniture,Beds,Wakefit,2024-11-05,Active,5137.0,8484.99
+P00625,Navneet Filing Slim 840,Office Supplies,Filing,Navneet,2023-10-31,Active,65.49,102.99
+P00626,Asus Printer Max 136,Technology,Printers,Asus,2025-03-15,Active,12084.72,14249.99
+P00627,Navneet Pens & Art Prime 566,Office Supplies,Pens & Art,Navneet,2021-10-01,Active,94.68,134.99
+P00628,Navneet Filing Elite 957,Office Supplies,Filing,Navneet,2021-01-06,Active,154.71,196.99
+P00629,Solo Pens & Art Pro 835,Office Supplies,Pens & Art,Solo,2022-08-03,Discontinued,143.34,225.99
+P00630,Solo Binder Ultra 893,Office Supplies,Binders,Solo,2022-03-05,Active,330.46,467.99
+P00631,Navneet Paper Slim 983,Office Supplies,Paper,Navneet,2023-11-06,Active,119.72,151.99
+P00632,Faber-Castell Filing Air 559,Office Supplies,Filing,Faber-Castell,2024-12-30,Clearance,397.04,501.99
+P00633,Godrej Interio Desk Neo 803,Furniture,Desks,Godrej Interio,2022-03-16,Active,8578.42,12939.99
+P00634,HP Tablet Pro 345,Technology,Tablets,HP,2024-04-06,Active,31631.3,41053.99
+P00635,JK Paper Binder Prime 496,Office Supplies,Binders,JK Paper,2020-02-13,Clearance,96.19,125.99
+P00636,Camlin Envelope Core 607,Office Supplies,Envelopes,Camlin,2024-12-23,Active,100.61,132.99
+P00637,Dell Smartphone Slim 755,Technology,Smartphones,Dell,2023-01-11,Active,26428.71,34671.99
+P00638,Lenovo Monitor Pro 992,Technology,Monitors,Lenovo,2021-03-26,Clearance,22580.32,25273.99
+P00639,Nilkamal Desk Plus 319,Furniture,Desks,Nilkamal,2024-06-01,Active,13080.7,16896.99
+P00640,Nilkamal Desk Edge 674,Furniture,Desks,Nilkamal,2023-09-03,Active,7363.85,11450.99
+P00641,Faber-Castell Label Edge 518,Office Supplies,Labels,Faber-Castell,2024-10-20,Active,120.46,158.99
+P00642,Amkette Keyboard Prime 706,Accessories,Keyboards,Amkette,2022-03-06,Active,285.57,590.99
+P00643,Faber-Castell Filing Neo 375,Office Supplies,Filing,Faber-Castell,2023-06-15,Discontinued,120.67,151.99
+P00644,Logitech Laptop Bag Duo 751,Accessories,Laptop Bags,Logitech,2022-02-06,Active,1879.48,2918.99
+P00645,JK Paper Binder Neo 531,Office Supplies,Binders,JK Paper,2023-12-28,Active,102.46,151.99
+P00646,Durian Bed Plus 420,Furniture,Beds,Durian,2022-03-18,Active,6303.6,8283.99
+P00647,Navneet Label Lite 236,Office Supplies,Labels,Navneet,2025-05-01,Discontinued,74.92,101.99
+P00648,Havells Microwave Core 495,Appliances,Microwaves,Havells,2018-08-24,Discontinued,15837.56,19844.99
+P00649,Bajaj Refrigerator Core 760,Appliances,Refrigerators,Bajaj,2021-10-21,Active,17052.07,26406.99
+P00650,Amkette Headphone Neo 672,Accessories,Headphones,Amkette,2023-09-11,Discontinued,450.29,888.99
+P00651,Blue Star Fan Edge 954,Appliances,Fans,Blue Star,2022-04-19,Active,6724.19,7278.99
+P00652,Samsung Tablet Neo 744,Technology,Tablets,Samsung,2019-02-27,Discontinued,5203.27,6714.99
+P00653,Asus Monitor Ultra 970,Technology,Monitors,Asus,2024-12-30,Active,77209.95,96382.99
+P00654,Camlin Paper Core 532,Office Supplies,Paper,Camlin,2019-07-29,Discontinued,208.54,290.99
+P00655,Durian Desk Go 993,Furniture,Desks,Durian,2021-07-06,Active,8778.77,11936.99
+P00656,Durian Desk Core 754,Furniture,Desks,Durian,2019-03-06,Discontinued,14421.84,22991.99
+P00657,LG Refrigerator Lite 911,Appliances,Refrigerators,LG,2022-06-18,Active,32859.34,45244.99
+P00658,Xiaomi Networking Pro 337,Technology,Networking,Xiaomi,2021-08-04,Active,7540.43,9798.99
+P00659,Navneet Envelope Neo 222,Office Supplies,Envelopes,Navneet,2023-03-21,Active,135.49,189.99
+P00660,JK Paper Envelope Duo 303,Office Supplies,Envelopes,JK Paper,2022-08-12,Active,253.96,372.99
+P00661,Asus Tablet Slim 574,Technology,Tablets,Asus,2023-12-30,Clearance,19060.51,23113.99
+P00662,Lenovo Smartphone Edge 683,Technology,Smartphones,Lenovo,2025-04-13,Active,64276.06,81935.99
+P00663,Nilkamal Storage Unit Core 606,Furniture,Storage Units,Nilkamal,2019-07-21,Active,15021.67,22950.99
+P00664,Wakefit Sofa Edge 721,Furniture,Sofas,Wakefit,2022-06-14,Discontinued,12483.85,18846.99
+P00665,HP Keyboard Duo 782,Accessories,Keyboards,HP,2023-04-08,Active,778.94,1237.99
+P00666,Solo Binder Duo 669,Office Supplies,Binders,Solo,2023-05-14,Active,128.11,155.99
+P00667,HP Networking Edge 469,Technology,Networking,HP,2023-06-22,Active,26236.59,33111.99
+P00668,Lenovo Laptop Slim 186,Technology,Laptops,Lenovo,2025-04-29,Discontinued,39012.35,46857.99
+P00669,Voltas Air Conditioner Core 378,Appliances,Air Conditioners,Voltas,2022-05-20,Active,13035.58,14265.99
+P00670,Zebronics Laptop Bag Plus 476,Accessories,Laptop Bags,Zebronics,2023-11-05,Active,1314.29,2038.99
+P00671,Navneet Envelope Ultra 875,Office Supplies,Envelopes,Navneet,2024-12-06,Active,65.84,79.99
+P00672,Asus Printer Neo 513,Technology,Printers,Asus,2023-09-14,Active,53960.78,57292.99
+P00673,Zebronics Laptop Bag Max 745,Accessories,Laptop Bags,Zebronics,2023-08-23,Clearance,1444.67,2399.99
+P00674,Featherlite Desk Go 372,Furniture,Desks,Featherlite,2019-06-05,Active,2464.6,3752.99
+P00675,Camlin Filing Nova 212,Office Supplies,Filing,Camlin,2018-07-09,Clearance,43.72,56.99
+P00676,Lenovo Smartphone Duo 300,Technology,Smartphones,Lenovo,2023-08-01,Active,29521.28,36301.99
+P00677,Wakefit Office Chair Duo 212,Furniture,Office Chairs,Wakefit,2019-06-14,Active,3989.34,5594.99
+P00678,boAt Charger Go 735,Accessories,Chargers,boAt,2018-09-22,Active,398.65,731.99
+P00679,Portronics Charger Edge 226,Accessories,Chargers,Portronics,2022-07-26,Active,779.7,1357.99
+P00680,Faber-Castell Pens & Art Pro 880,Office Supplies,Pens & Art,Faber-Castell,2024-03-08,Discontinued,138.85,171.99
+P00681,Logitech Keyboard Plus 909,Accessories,Keyboards,Logitech,2025-04-14,Active,744.93,1089.99
+P00682,Zebronics Charger Core 729,Accessories,Chargers,Zebronics,2024-01-28,Active,262.54,514.99
+P00683,Durian Bed Lite 311,Furniture,Beds,Durian,2020-05-06,Active,4361.27,5992.99
+P00684,Acer Networking Air 404,Technology,Networking,Acer,2023-02-13,Discontinued,18409.16,27978.99
+P00685,Xiaomi Smartphone Ultra 814,Technology,Smartphones,Xiaomi,2019-09-08,Clearance,27626.93,33399.99
+P00686,Navneet Binder Prime 357,Office Supplies,Binders,Navneet,2022-06-02,Discontinued,135.47,179.99
+P00687,Dell Printer Neo 465,Technology,Printers,Dell,2024-08-03,Active,17838.66,22987.99
+P00688,Samsung Tablet Pro 520,Technology,Tablets,Samsung,2019-01-07,Active,28549.23,37322.99
+P00689,Classmate Binder Core 786,Office Supplies,Binders,Classmate,2021-02-24,Clearance,301.14,431.99
+P00690,LG Washing Machine Go 261,Appliances,Washing Machines,LG,2024-12-03,Active,8004.91,9589.99
+P00691,Zebronics Keyboard Prime 559,Accessories,Keyboards,Zebronics,2021-06-26,Active,1068.39,1558.99
+P00692,Amkette Keyboard Slim 531,Accessories,Keyboards,Amkette,2023-12-19,Clearance,1050.96,1664.99
+P00693,Zebronics Keyboard Prime 586,Accessories,Keyboards,Zebronics,2020-01-16,Active,450.5,924.99
+P00694,JK Paper Pens & Art Prime 609,Office Supplies,Pens & Art,JK Paper,2021-07-28,Active,66.89,87.99
+P00695,Logitech Headphone Core 135,Accessories,Headphones,Logitech,2018-11-24,Active,314.16,525.99
+P00696,Durian Office Chair Go 541,Furniture,Office Chairs,Durian,2019-11-06,Active,16775.01,28540.99
+P00697,JK Paper Label Slim 740,Office Supplies,Labels,JK Paper,2022-01-27,Active,150.08,211.99
+P00698,JK Paper Binder Elite 470,Office Supplies,Binders,JK Paper,2018-09-21,Discontinued,156.24,184.99
+P00699,Faber-Castell Binder Slim 785,Office Supplies,Binders,Faber-Castell,2019-04-22,Active,393.63,477.99
+P00700,boAt Keyboard Plus 550,Accessories,Keyboards,boAt,2020-07-31,Clearance,764.49,1303.99
+P00701,Classmate Paper Nova 644,Office Supplies,Paper,Classmate,2018-06-17,Active,111.42,144.99
+P00702,HP Headphone Elite 485,Accessories,Headphones,HP,2018-05-08,Active,221.73,338.99
+P00703,HP Monitor Edge 276,Technology,Monitors,HP,2022-05-27,Active,66700.99,81931.99
+P00704,Zebronics Laptop Bag Elite 677,Accessories,Laptop Bags,Zebronics,2022-04-12,Active,521.71,911.99
+P00705,Logitech Keyboard Pro 987,Accessories,Keyboards,Logitech,2023-02-10,Active,149.03,260.99
+P00706,Logitech Headphone Duo 237,Accessories,Headphones,Logitech,2020-08-14,Active,1734.7,2652.99
+P00707,Whirlpool Washing Machine Pro 588,Appliances,Washing Machines,Whirlpool,2023-10-01,Active,10051.13,14476.99
+P00708,Classmate Binder Max 857,Office Supplies,Binders,Classmate,2018-06-20,Discontinued,298.07,423.99
+P00709,Samsung Networking Ultra 357,Technology,Networking,Samsung,2020-03-05,Active,31247.76,37727.99
+P00710,Navneet Envelope Neo 633,Office Supplies,Envelopes,Navneet,2022-11-25,Clearance,68.69,84.99
+P00711,Amkette Keyboard Pro 865,Accessories,Keyboards,Amkette,2021-05-25,Discontinued,291.6,480.99
+P00712,Faber-Castell Label Pro 833,Office Supplies,Labels,Faber-Castell,2021-04-09,Active,261.73,310.99
+P00713,LG Air Conditioner Lite 841,Appliances,Air Conditioners,LG,2022-09-10,Active,7269.45,10766.99
+P00714,Durian Sofa Lite 930,Furniture,Sofas,Durian,2021-04-11,Active,14001.55,19581.99
+P00715,Faber-Castell Binder Nova 995,Office Supplies,Binders,Faber-Castell,2018-09-26,Active,220.07,296.99
+P00716,Asus Networking Duo 709,Technology,Networking,Asus,2024-02-11,Active,48797.5,56813.99
+P00717,Faber-Castell Filing Edge 391,Office Supplies,Filing,Faber-Castell,2024-11-04,Active,104.86,138.99
+P00718,HP Cable Go 115,Accessories,Cables,HP,2021-04-15,Discontinued,298.87,561.99
+P00719,JK Paper Label Neo 450,Office Supplies,Labels,JK Paper,2019-04-29,Active,80.95,112.99
+P00720,Blue Star Fan Lite 612,Appliances,Fans,Blue Star,2024-05-16,Active,11209.2,14873.99
+P00721,Samsung Smartphone Prime 860,Technology,Smartphones,Samsung,2018-12-13,Active,4192.61,5287.99
+P00722,Classmate Binder Prime 323,Office Supplies,Binders,Classmate,2022-03-15,Discontinued,114.81,146.99
+P00723,Classmate Pens & Art Nova 264,Office Supplies,Pens & Art,Classmate,2024-03-06,Active,128.97,171.99
+P00724,Wakefit Office Chair Elite 878,Furniture,Office Chairs,Wakefit,2023-12-05,Active,1964.15,2593.99
+P00725,Logitech Laptop Bag Max 561,Accessories,Laptop Bags,Logitech,2022-04-07,Discontinued,599.62,979.99
+P00726,Lenovo Smartphone Prime 487,Technology,Smartphones,Lenovo,2019-12-02,Clearance,13395.86,17608.99
+P00727,Classmate Filing Prime 812,Office Supplies,Filing,Classmate,2019-02-09,Active,376.65,534.99
+P00728,Portronics Keyboard Max 841,Accessories,Keyboards,Portronics,2025-03-01,Active,432.33,691.99
+P00729,Acer Tablet Elite 465,Technology,Tablets,Acer,2022-07-01,Active,32802.64,39433.99
+P00730,boAt Laptop Bag Neo 254,Accessories,Laptop Bags,boAt,2020-12-08,Active,1116.76,1900.99
+P00731,Lenovo Printer Nova 899,Technology,Printers,Lenovo,2022-10-30,Active,31989.43,43188.99
+P00732,Godrej Air Conditioner Edge 442,Appliances,Air Conditioners,Godrej,2020-12-29,Discontinued,16516.09,21324.99
+P00733,Lenovo Tablet Prime 743,Technology,Tablets,Lenovo,2025-03-23,Active,9743.08,12604.99
+P00734,Featherlite Storage Unit Slim 174,Furniture,Storage Units,Featherlite,2021-11-23,Active,7219.53,12984.99
+P00735,Samsung Printer Nova 658,Technology,Printers,Samsung,2021-03-16,Active,12192.52,16246.99
+P00736,Camlin Label Plus 306,Office Supplies,Labels,Camlin,2023-06-15,Active,72.59,98.99
+P00737,Whirlpool Refrigerator Edge 222,Appliances,Refrigerators,Whirlpool,2024-08-15,Active,8194.72,10731.99
+P00738,Blue Star Washing Machine Air 567,Appliances,Washing Machines,Blue Star,2024-11-25,Clearance,16701.15,23518.99
+P00739,Camlin Paper Prime 289,Office Supplies,Paper,Camlin,2022-12-08,Active,126.6,155.99
+P00740,Dell Monitor Max 360,Technology,Monitors,Dell,2019-02-10,Active,10543.31,14454.99
+P00741,Navneet Envelope Pro 986,Office Supplies,Envelopes,Navneet,2023-11-27,Active,73.27,89.99
+P00742,Amkette Laptop Bag Prime 523,Accessories,Laptop Bags,Amkette,2022-04-06,Active,953.17,1555.99
+P00743,Classmate Pens & Art Duo 708,Office Supplies,Pens & Art,Classmate,2020-07-02,Active,97.36,131.99
+P00744,Lenovo Smartphone Plus 737,Technology,Smartphones,Lenovo,2020-03-14,Active,8133.26,10648.99
+P00745,Navneet Envelope Plus 413,Office Supplies,Envelopes,Navneet,2020-10-09,Active,186.94,247.99
+P00746,Classmate Pens & Art Plus 276,Office Supplies,Pens & Art,Classmate,2019-11-14,Active,162.35,204.99
+P00747,Godrej Interio Storage Unit Nova 898,Furniture,Storage Units,Godrej Interio,2019-07-21,Discontinued,7808.03,11282.99
+P00748,HP Printer Elite 726,Technology,Printers,HP,2023-11-19,Active,29738.34,37967.99
+P00749,Xiaomi Printer Edge 772,Technology,Printers,Xiaomi,2019-12-23,Active,27845.38,34082.99
+P00750,Navneet Envelope Ultra 182,Office Supplies,Envelopes,Navneet,2021-10-28,Active,156.61,195.99
+P00751,Nilkamal Office Chair Plus 791,Furniture,Office Chairs,Nilkamal,2024-03-14,Clearance,7768.52,11486.99
+P00752,JK Paper Filing Core 334,Office Supplies,Filing,JK Paper,2022-04-13,Active,44.43,56.99
+P00753,Xiaomi Tablet Lite 931,Technology,Tablets,Xiaomi,2023-05-06,Active,5309.33,6977.99
+P00754,Classmate Pens & Art Edge 852,Office Supplies,Pens & Art,Classmate,2018-08-16,Active,94.75,134.99
+P00755,Zebronics Cable Ultra 769,Accessories,Cables,Zebronics,2024-01-22,Active,638.97,1001.99
+P00756,Navneet Envelope Prime 242,Office Supplies,Envelopes,Navneet,2019-04-20,Clearance,130.09,165.99
+P00757,Logitech Charger Edge 509,Accessories,Chargers,Logitech,2023-09-09,Active,1409.48,2428.99
+P00758,Asus Networking Air 796,Technology,Networking,Asus,2023-08-09,Active,28381.07,37695.99
+P00759,Asus Networking Slim 541,Technology,Networking,Asus,2023-12-20,Active,8033.44,11304.99
+P00760,Godrej Interio Bed Duo 491,Furniture,Beds,Godrej Interio,2021-02-18,Active,2694.36,4084.99
+P00761,Whirlpool Refrigerator Air 985,Appliances,Refrigerators,Whirlpool,2022-12-04,Active,14242.41,18499.99
+P00762,Portronics Cable Edge 991,Accessories,Cables,Portronics,2023-11-26,Active,384.35,708.99
+P00763,HP Charger Air 529,Accessories,Chargers,HP,2022-11-10,Active,876.13,1425.99
+P00764,Zebronics Keyboard Neo 159,Accessories,Keyboards,Zebronics,2024-07-29,Active,385.32,661.99
+P00765,Havells Washing Machine Neo 455,Appliances,Washing Machines,Havells,2019-02-15,Active,16283.1,21962.99
+P00766,Faber-Castell Label Elite 236,Office Supplies,Labels,Faber-Castell,2024-04-05,Active,49.73,76.99
+P00767,Acer Tablet Nova 265,Technology,Tablets,Acer,2025-02-12,Active,14172.26,18399.99
+P00768,Camlin Label Ultra 584,Office Supplies,Labels,Camlin,2024-05-16,Active,143.37,176.99
+P00769,Whirlpool Microwave Duo 605,Appliances,Microwaves,Whirlpool,2020-03-02,Active,16054.47,22134.99
+P00770,Godrej Air Conditioner Neo 727,Appliances,Air Conditioners,Godrej,2024-09-17,Active,9722.74,11236.99
+P00771,Samsung Monitor Lite 880,Technology,Monitors,Samsung,2024-03-26,Active,26116.47,32776.99
+P00772,Xiaomi Laptop Duo 687,Technology,Laptops,Xiaomi,2025-05-09,Active,12910.57,16465.99
+P00773,Solo Label Neo 784,Office Supplies,Labels,Solo,2025-02-26,Active,61.8,80.99
+P00774,Faber-Castell Paper Pro 405,Office Supplies,Paper,Faber-Castell,2024-06-16,Active,97.38,151.99
+P00775,Bajaj Fan Elite 913,Appliances,Fans,Bajaj,2022-09-22,Active,8753.83,11149.99
+P00776,Camlin Binder Neo 385,Office Supplies,Binders,Camlin,2021-04-28,Active,42.06,56.99
+P00777,Zebronics Headphone Ultra 795,Accessories,Headphones,Zebronics,2024-04-23,Active,790.59,1175.99
+P00778,Faber-Castell Envelope Duo 305,Office Supplies,Envelopes,Faber-Castell,2023-03-16,Clearance,52.29,66.99
+P00779,Samsung Smartphone Lite 430,Technology,Smartphones,Samsung,2018-07-21,Active,24036.79,34727.99
+P00780,Solo Label Neo 860,Office Supplies,Labels,Solo,2024-08-01,Active,40.77,51.99
+P00781,Voltas Refrigerator Nova 378,Appliances,Refrigerators,Voltas,2024-06-19,Active,64142.95,84806.99
+P00782,Xiaomi Smartphone Pro 705,Technology,Smartphones,Xiaomi,2021-12-01,Active,16117.26,21537.99
+P00783,Classmate Binder Edge 797,Office Supplies,Binders,Classmate,2022-03-01,Discontinued,99.93,143.99
+P00784,Zebronics Cable Max 895,Accessories,Cables,Zebronics,2022-04-26,Discontinued,1437.96,2315.99
+P00785,Featherlite Desk Neo 133,Furniture,Desks,Featherlite,2025-05-23,Active,12230.24,17487.99
+P00786,Lenovo Laptop Duo 104,Technology,Laptops,Lenovo,2024-10-15,Active,11511.4,15315.99
+P00787,JK Paper Envelope Core 807,Office Supplies,Envelopes,JK Paper,2020-11-08,Active,86.01,108.99
+P00788,Godrej Interio Storage Unit Plus 585,Furniture,Storage Units,Godrej Interio,2025-05-17,Active,22339.57,37186.99
+P00789,JK Paper Pens & Art Air 931,Office Supplies,Pens & Art,JK Paper,2023-01-31,Active,197.46,248.99
+P00790,Portronics Charger Nova 966,Accessories,Chargers,Portronics,2021-01-16,Active,916.79,1394.99
+P00791,Zebronics Mice Ultra 576,Accessories,Mice,Zebronics,2022-06-09,Active,868.81,1483.99
+P00792,Lenovo Printer Air 410,Technology,Printers,Lenovo,2019-01-09,Active,23389.86,31692.99
+P00793,Classmate Binder Edge 917,Office Supplies,Binders,Classmate,2025-02-21,Active,88.01,120.99
+P00794,Voltas Fan Lite 160,Appliances,Fans,Voltas,2024-08-07,Active,10405.05,13033.99
+P00795,HP Charger Core 708,Accessories,Chargers,HP,2022-08-12,Active,1149.2,2051.99
+P00796,Solo Pens & Art Nova 926,Office Supplies,Pens & Art,Solo,2020-01-18,Active,99.94,140.99
+P00797,Samsung Networking Prime 793,Technology,Networking,Samsung,2024-04-25,Active,24945.85,29856.99
+P00798,Godrej Washing Machine Duo 187,Appliances,Washing Machines,Godrej,2018-09-06,Active,25800.15,28060.99
+P00799,Xiaomi Monitor Ultra 231,Technology,Monitors,Xiaomi,2023-12-13,Active,40738.39,38340.99
+P00800,Godrej Interio Desk Lite 761,Furniture,Desks,Godrej Interio,2018-04-06,Active,8096.26,11470.99
+P00801,Havells Air Conditioner Elite 297,Appliances,Air Conditioners,Havells,2022-01-12,Discontinued,25044.32,31383.99
+P00802,Solo Envelope Duo 419,Office Supplies,Envelopes,Solo,2024-05-08,Active,75.1,99.99
+P00803,Wakefit Sofa Go 284,Furniture,Sofas,Wakefit,2022-07-05,Active,6117.94,9196.99
+P00804,Asus Tablet Pro 881,Technology,Tablets,Asus,2021-07-27,Active,55651.76,57987.99
+P00805,Classmate Filing Prime 278,Office Supplies,Filing,Classmate,2022-08-17,Active,110.99,144.99
+P00806,Asus Monitor Pro 139,Technology,Monitors,Asus,2020-11-22,Active,15686.58,20076.99
+P00807,boAt Laptop Bag Prime 289,Accessories,Laptop Bags,boAt,2022-02-26,Active,947.11,1872.99
+P00808,JK Paper Paper Elite 827,Office Supplies,Paper,JK Paper,2022-12-20,Discontinued,119.63,149.99
+P00809,Featherlite Bed Lite 954,Furniture,Beds,Featherlite,2021-11-04,Active,3496.98,6084.99
+P00810,Faber-Castell Paper Core 606,Office Supplies,Paper,Faber-Castell,2020-05-26,Active,298.43,392.99
+P00811,Portronics Headphone Nova 214,Accessories,Headphones,Portronics,2019-04-24,Active,1296.88,2063.99
+P00812,Solo Pens & Art Duo 718,Office Supplies,Pens & Art,Solo,2019-05-28,Active,218.78,302.99
+P00813,Voltas Fan Neo 905,Appliances,Fans,Voltas,2023-12-10,Active,8558.78,10707.99
+P00814,Voltas Microwave Plus 662,Appliances,Microwaves,Voltas,2019-08-28,Active,17285.45,22835.99
+P00815,Zebronics Headphone Edge 787,Accessories,Headphones,Zebronics,2020-12-23,Active,713.24,1154.99
+P00816,Solo Envelope Plus 501,Office Supplies,Envelopes,Solo,2018-12-10,Active,67.24,99.99
+P00817,Camlin Label Edge 452,Office Supplies,Labels,Camlin,2023-04-26,Clearance,128.95,154.99
+P00818,Navneet Binder Duo 317,Office Supplies,Binders,Navneet,2018-05-06,Active,70.69,95.99
+P00819,Godrej Interio Desk Lite 252,Furniture,Desks,Godrej Interio,2023-06-03,Active,6704.6,8759.99
+P00820,Zebronics Keyboard Ultra 824,Accessories,Keyboards,Zebronics,2019-01-18,Active,1304.09,2232.99
+P00821,Featherlite Office Chair Go 848,Furniture,Office Chairs,Featherlite,2023-04-19,Active,13697.16,19299.99
+P00822,Xiaomi Tablet Duo 589,Technology,Tablets,Xiaomi,2022-05-24,Active,11827.7,14654.99
+P00823,Classmate Label Plus 601,Office Supplies,Labels,Classmate,2019-06-10,Discontinued,63.89,76.99
+P00824,Navneet Paper Slim 782,Office Supplies,Paper,Navneet,2021-03-20,Active,103.01,137.99
+P00825,Portronics Laptop Bag Neo 263,Accessories,Laptop Bags,Portronics,2019-04-21,Active,193.29,367.99
+P00826,boAt Headphone Duo 341,Accessories,Headphones,boAt,2023-12-13,Active,604.93,907.99
+P00827,JK Paper Filing Slim 382,Office Supplies,Filing,JK Paper,2020-06-14,Active,68.81,84.99
+P00828,HP Printer Air 809,Technology,Printers,HP,2023-07-25,Clearance,28013.13,41310.99
+P00829,Camlin Envelope Duo 871,Office Supplies,Envelopes,Camlin,2022-07-18,Active,74.16,100.99
+P00830,Navneet Pens & Art Neo 228,Office Supplies,Pens & Art,Navneet,2020-05-02,Active,112.44,141.99
+P00831,Xiaomi Networking Duo 180,Technology,Networking,Xiaomi,2023-10-29,Discontinued,21411.07,27160.99
+P00832,Nilkamal Bed Edge 274,Furniture,Beds,Nilkamal,2024-06-03,Active,5146.21,7507.99
+P00833,Solo Pens & Art Edge 470,Office Supplies,Pens & Art,Solo,2019-10-19,Active,50.45,64.99
+P00834,Featherlite Desk Slim 591,Furniture,Desks,Featherlite,2021-02-10,Active,14626.19,23060.99
+P00835,Godrej Interio Office Chair Core 918,Furniture,Office Chairs,Godrej Interio,2025-02-12,Active,12452.12,22045.99
+P00836,Samsung Tablet Plus 861,Technology,Tablets,Samsung,2023-08-30,Active,11979.1,15297.99
+P00837,Godrej Interio Office Chair Nova 572,Furniture,Office Chairs,Godrej Interio,2022-02-27,Active,15699.7,22084.99
+P00838,Amkette Keyboard Pro 864,Accessories,Keyboards,Amkette,2018-05-31,Active,626.85,989.99
+P00839,Bajaj Washing Machine Lite 388,Appliances,Washing Machines,Bajaj,2022-03-21,Active,22247.58,29455.99
+P00840,Camlin Envelope Nova 943,Office Supplies,Envelopes,Camlin,2023-12-21,Active,266.28,381.99
+P00841,Bajaj Air Conditioner Edge 774,Appliances,Air Conditioners,Bajaj,2025-02-27,Active,18484.4,21970.99
+P00842,Faber-Castell Envelope Go 535,Office Supplies,Envelopes,Faber-Castell,2019-03-26,Active,122.67,161.99
+P00843,Whirlpool Washing Machine Air 360,Appliances,Washing Machines,Whirlpool,2021-07-06,Active,8288.6,10254.99
+P00844,Xiaomi Networking Edge 794,Technology,Networking,Xiaomi,2022-06-19,Discontinued,22154.9,27907.99
+P00845,boAt Laptop Bag Plus 657,Accessories,Laptop Bags,boAt,2019-01-26,Active,2473.56,4284.99
+P00846,Godrej Interio Office Chair Ultra 791,Furniture,Office Chairs,Godrej Interio,2019-08-12,Active,5550.31,8850.99
+P00847,Dell Networking Plus 707,Technology,Networking,Dell,2019-10-25,Discontinued,15600.32,22131.99
+P00848,Durian Storage Unit Neo 516,Furniture,Storage Units,Durian,2022-11-25,Active,4645.58,6354.99
+P00849,Navneet Envelope Plus 823,Office Supplies,Envelopes,Navneet,2019-11-01,Discontinued,226.41,283.99
+P00850,Acer Tablet Max 995,Technology,Tablets,Acer,2024-02-06,Active,91028.54,131649.99
+P00851,Xiaomi Printer Pro 756,Technology,Printers,Xiaomi,2020-12-14,Active,31512.95,40091.99
+P00852,LG Microwave Prime 342,Appliances,Microwaves,LG,2018-06-28,Discontinued,51296.34,66364.99
+P00853,Amkette Mice Max 270,Accessories,Mice,Amkette,2020-07-09,Discontinued,2682.16,4074.99
+P00854,Whirlpool Air Conditioner Duo 596,Appliances,Air Conditioners,Whirlpool,2024-02-27,Active,12209.29,16433.99
+P00855,Portronics Cable Plus 527,Accessories,Cables,Portronics,2022-05-19,Active,439.94,647.99
+P00856,Portronics Mice Ultra 621,Accessories,Mice,Portronics,2024-03-02,Active,166.77,282.99
+P00857,Godrej Washing Machine Max 612,Appliances,Washing Machines,Godrej,2023-12-18,Active,8266.25,11116.99
+P00858,Camlin Binder Air 584,Office Supplies,Binders,Camlin,2024-08-27,Active,31.8,45.99
+P00859,Lenovo Networking Edge 121,Technology,Networking,Lenovo,2018-12-08,Active,28816.53,37274.99
+P00860,HP Smartphone Ultra 508,Technology,Smartphones,HP,2019-08-28,Clearance,12646.15,17653.99
+P00861,Voltas Washing Machine Pro 348,Appliances,Washing Machines,Voltas,2022-02-09,Active,23591.78,36383.99
+P00862,Featherlite Storage Unit Slim 427,Furniture,Storage Units,,2024-03-19,Active,21974.43,32967.99
+P00863,LG Air Conditioner Prime 722,Appliances,Air Conditioners,LG,2021-05-17,Active,14032.21,18802.99
+P00864,Wakefit Desk Plus 334,Furniture,Desks,Wakefit,2024-01-09,Active,2486.37,3826.99
+P00865,JK Paper Filing Pro 479,Office Supplies,Filing,JK Paper,2022-05-27,Active,88.29,118.99
+P00866,Amkette Charger Max 643,Accessories,Chargers,Amkette,2023-05-11,Discontinued,824.38,1522.99
+P00867,Wakefit Office Chair Lite 402,Furniture,Office Chairs,Wakefit,2025-04-02,Active,4373.31,7787.99
+P00868,Blue Star Air Conditioner Edge 258,Appliances,Air Conditioners,Blue Star,2022-07-26,Discontinued,11107.73,15055.99
+P00869,Zebronics Laptop Bag Core 815,Accessories,Laptop Bags,Zebronics,2021-09-09,Active,658.79,1046.99
+P00870,Lenovo Laptop Core 675,Technology,Laptops,Lenovo,2020-06-07,Active,61968.51,81925.99
+P00871,Classmate Filing Lite 281,Office Supplies,Filing,Classmate,2022-04-05,Active,88.59,136.99
+P00872,Classmate Label Neo 151,Office Supplies,Labels,Classmate,2024-01-02,Active,94.46,118.99
+P00873,Faber-Castell Paper Neo 404,Office Supplies,Paper,Faber-Castell,2023-05-17,Active,203.38,270.99
+P00874,Amkette Headphone Max 611,Accessories,Headphones,Amkette,2023-11-02,Active,617.54,1129.99
+P00875,Classmate Envelope Duo 585,Office Supplies,Envelopes,Classmate,2023-09-28,Active,256.32,297.99
+P00876,Whirlpool Refrigerator Max 724,Appliances,Refrigerators,Whirlpool,2023-07-24,Active,26511.99,35766.99
+P00877,boAt Cable Go 830,Accessories,Cables,boAt,2023-07-24,Active,719.87,1288.99
+P00878,Zebronics Laptop Bag Max 363,Accessories,Laptop Bags,Zebronics,2023-08-02,Active,938.69,1654.99
+P00879,JK Paper Paper Plus 738,Office Supplies,Paper,JK Paper,2023-12-07,Active,127.09,172.99
+P00880,Solo Label Edge 178,Office Supplies,Labels,Solo,2020-10-04,Active,217.45,273.99
+P00881,boAt Cable Neo 992,Accessories,Cables,boAt,2024-11-05,Discontinued,551.03,964.99
+P00882,Dell Printer Nova 862,Technology,Printers,Dell,2024-03-29,Active,22239.57,32464.99
+P00883,Blue Star Fan Nova 252,Appliances,Fans,Blue Star,2022-03-14,Active,6950.15,7625.99
+P00884,Samsung Printer Lite 289,Technology,Printers,Samsung,2023-04-14,Active,60473.12,73052.99
+P00885,Samsung Monitor Ultra 933,Technology,Monitors,Samsung,2025-04-20,Active,9598.65,11626.99
+P00886,Durian Bed Pro 187,Furniture,Beds,Durian,2019-08-07,Discontinued,9261.91,12612.99
+P00887,Blue Star Microwave Duo 157,Appliances,Microwaves,Blue Star,2023-01-05,Active,10145.54,13581.99
+P00888,JK Paper Filing Plus 467,Office Supplies,Filing,JK Paper,2023-11-19,Discontinued,118.93,154.99
+P00889,Dell Laptop Plus 813,Technology,Laptops,Dell,2024-08-17,Active,12811.37,16314.99
+P00890,Godrej Interio Desk Pro 375,Furniture,Desks,Godrej Interio,2024-08-10,Discontinued,7459.67,11650.99
+P00891,Camlin Paper Edge 697,Office Supplies,Paper,Camlin,2019-01-02,Clearance,114.93,144.99
+P00892,Asus Monitor Slim 115,Technology,Monitors,Asus,2021-04-11,Active,34555.99,40390.99
+P00893,Camlin Paper Go 905,Office Supplies,Paper,Camlin,2023-01-29,Active,104.96,133.99
+P00894,Logitech Keyboard Lite 381,Accessories,Keyboards,Logitech,2022-06-11,Active,622.55,1014.99
+P00895,Durian Sofa Go 323,Furniture,Sofas,Durian,2025-05-06,Active,5906.07,8450.99
+P00896,JK Paper Label Elite 390,Office Supplies,Labels,JK Paper,2020-03-08,Discontinued,97.66,132.99
+P00897,Amkette Headphone Go 201,Accessories,Headphones,Amkette,2023-11-25,Active,583.84,1028.99
+P00898,Faber-Castell Binder Go 325,Office Supplies,Binders,Faber-Castell,2023-09-09,Active,40.85,52.99
+P00899,boAt Cable Ultra 434,Accessories,Cables,boAt,2022-06-25,Active,92.77,156.99
+P00900,Dell Smartphone Lite 222,Technology,Smartphones,Dell,2025-02-14,Active,44833.58,60448.99
+P00901,Zebronics Mice Max 605,Accessories,Mice,Zebronics,2019-11-16,Active,655.66,1114.99
+P00902,Camlin Binder Slim 551,Office Supplies,Binders,Camlin,2022-12-19,Active,123.95,164.99
+P00903,Featherlite Desk Ultra 631,Furniture,Desks,Featherlite,2019-11-09,Active,15749.33,21081.99
+P00904,Lenovo Networking Go 414,Technology,Networking,Lenovo,2019-03-31,Active,34452.61,46487.99
+P00905,Navneet Binder Elite 898,Office Supplies,Binders,Navneet,2019-04-06,Discontinued,75.59,99.99
+P00906,Camlin Pens & Art Pro 610,Office Supplies,Pens & Art,Camlin,2023-12-23,Active,120.71,153.99
+P00907,Portronics Headphone Plus 833,Accessories,Headphones,Portronics,2022-11-09,Active,355.82,660.99
+P00908,Featherlite Storage Unit Edge 913,Furniture,Storage Units,Featherlite,2024-10-28,Active,33229.14,54076.99
+P00909,Blue Star Air Conditioner Prime 238,Appliances,Air Conditioners,Blue Star,2022-08-05,Active,7568.92,10716.99
+P00910,Samsung Networking Duo 223,Technology,Networking,Samsung,2025-02-15,Active,58619.86,85712.99
+P00911,Dell Smartphone Pro 812,Technology,Smartphones,Dell,2019-11-15,Clearance,119904.08,147753.99
+P00912,Dell Smartphone Ultra 133,Technology,Smartphones,Dell,2022-10-16,Discontinued,100462.11,126325.99
+P00913,Camlin Binder Neo 274,Office Supplies,Binders,Camlin,2024-05-10,Active,287.47,348.99
+P00914,Solo Binder Max 483,Office Supplies,Binders,Solo,2021-10-26,Discontinued,51.31,67.99
+P00915,Samsung Networking Nova 334,Technology,Networking,Samsung,2019-03-14,Active,63830.49,80440.99
+P00916,Zebronics Cable Slim 115,Accessories,Cables,Zebronics,2024-02-12,Active,802.06,1221.99
+P00917,Asus Monitor Edge 265,Technology,Monitors,Asus,2021-08-25,Discontinued,35231.0,43892.99
+P00918,Godrej Fan Air 831,Appliances,Fans,Godrej,2023-05-27,Active,11176.72,15581.99
+P00919,Logitech Laptop Bag Go 178,Accessories,Laptop Bags,Logitech,2023-12-04,Active,293.11,424.99
+P00920,Faber-Castell Pens & Art Elite 763,Office Supplies,Pens & Art,Faber-Castell,2018-03-12,Active,66.6,88.99
+P00921,Zebronics Charger Slim 731,Accessories,Chargers,Zebronics,2018-08-27,Discontinued,524.29,788.99
+P00922,Navneet Paper Max 408,Office Supplies,Paper,Navneet,2021-05-15,Clearance,84.09,104.99
+P00923,HP Monitor Prime 778,Technology,Monitors,HP,2019-09-13,Active,13142.58,18074.99
+P00924,Lenovo Printer Plus 305,Technology,Printers,Lenovo,2022-05-09,Clearance,59724.5,82534.99
+P00925,Godrej Air Conditioner Neo 471,Appliances,Air Conditioners,Godrej,2024-08-09,Discontinued,11910.55,12924.99
+P00926,Lenovo Laptop Ultra 914,Technology,Laptops,Lenovo,2022-10-09,Active,20866.19,27996.99
+P00927,Faber-Castell Binder Pro 578,Office Supplies,Binders,Faber-Castell,2022-05-22,Active,152.73,207.99
+P00928,Classmate Label Ultra 939,Office Supplies,Labels,Classmate,2019-05-19,Active,27.78,37.99
+P00929,HP Laptop Duo 235,Technology,Laptops,HP,2024-10-31,Active,49930.1,55861.99
+P00930,Camlin Binder Ultra 770,Office Supplies,Binders,Camlin,2022-04-20,Active,27.48,40.99
+P00931,Navneet Envelope Plus 503,Office Supplies,Envelopes,Navneet,2023-07-22,Active,252.47,326.99
+P00932,Lenovo Smartphone Lite 545,Technology,Smartphones,Lenovo,2025-01-26,Discontinued,29796.49,41479.99
+P00933,Blue Star Microwave Ultra 283,Appliances,Microwaves,Blue Star,2024-01-24,Discontinued,37171.0,46360.99
+P00934,JK Paper Pens & Art Neo 471,Office Supplies,Pens & Art,JK Paper,2023-09-13,Discontinued,107.52,142.99
+P00935,Portronics Mice Neo 321,Accessories,Mice,Portronics,2019-08-17,Active,409.38,631.99
+P00936,boAt Cable Plus 508,Accessories,Cables,boAt,2024-03-08,Active,419.99,734.99
+P00937,Faber-Castell Pens & Art Core 128,Office Supplies,Pens & Art,Faber-Castell,2024-05-16,Active,142.61,188.99
+P00938,Xiaomi Laptop Edge 133,Technology,Laptops,Xiaomi,2023-06-24,Active,88970.82,116668.99
+P00939,Lenovo Laptop Ultra 694,Technology,Laptops,Lenovo,2020-04-10,Active,73005.51,92257.99
+P00940,Zebronics Cable Nova 156,Accessories,Cables,Zebronics,2024-03-04,Active,1155.18,1908.99
+P00941,Dell Monitor Core 124,Technology,Monitors,Dell,2022-07-22,Clearance,69069.02,90511.99
+P00942,Classmate Filing Nova 489,Office Supplies,Filing,Classmate,2023-07-01,Active,144.86,226.99
+P00943,Navneet Pens & Art Lite 434,Office Supplies,Pens & Art,Navneet,2023-08-25,Active,93.88,126.99
+P00944,Solo Filing Prime 889,Office Supplies,Filing,Solo,2023-07-23,Active,72.14,95.99
+P00945,HP Keyboard Core 481,Accessories,Keyboards,HP,2022-09-19,Discontinued,792.32,1324.99
+P00946,Samsung Printer Nova 663,Technology,Printers,Samsung,2024-07-07,Active,11720.03,14925.99
+P00947,Acer Printer Slim 628,Technology,Printers,Acer,2022-06-14,Active,49809.23,58067.99
+P00948,Nilkamal Storage Unit Max 882,Furniture,Storage Units,Nilkamal,2022-09-29,Active,1414.95,2251.99
+P00949,HP Printer Elite 498,Technology,Printers,HP,2024-08-29,Active,11394.96,14035.99
+P00950,JK Paper Filing Max 744,Office Supplies,Filing,JK Paper,2021-03-16,Active,229.45,283.99
+P00951,Zebronics Mice Go 696,Accessories,Mice,Zebronics,2023-06-30,Clearance,698.83,1112.99
+P00952,JK Paper Label Nova 990,Office Supplies,Labels,JK Paper,2019-09-16,Active,212.65,257.99
+P00953,HP Smartphone Slim 677,Technology,Smartphones,HP,2025-05-06,Active,7914.35,9929.99
+P00954,Navneet Filing Duo 145,Office Supplies,Filing,Navneet,2020-01-31,Active,293.82,368.99
+P00955,Dell Networking Go 794,Technology,Networking,Dell,2018-12-25,Active,29558.54,35822.99
+P00956,boAt Charger Lite 941,Accessories,Chargers,boAt,2024-01-25,Active,355.67,600.99
+P00957,HP Mice Core 413,Accessories,Mice,HP,2024-06-10,Active,449.09,728.99
+P00958,LG Refrigerator Duo 451,Appliances,Refrigerators,LG,2024-02-09,Active,18868.49,24090.99
+P00959,Amkette Keyboard Edge 331,Accessories,Keyboards,Amkette,2023-12-14,Discontinued,772.23,1292.99
+P00960,Classmate Paper Max 847,Office Supplies,Paper,Classmate,2020-10-06,Active,23.18,28.99
+P00961,Amkette Keyboard Go 452,Accessories,Keyboards,Amkette,2018-08-26,Discontinued,1172.26,2089.99
+P00962,Portronics Mice Elite 519,Accessories,Mice,Portronics,2018-10-17,Active,273.69,458.99
+P00963,Godrej Interio Desk Pro 599,Furniture,Desks,Godrej Interio,2022-01-08,Active,7902.01,13938.99
+P00964,Wakefit Storage Unit Core 917,Furniture,Storage Units,Wakefit,2024-09-30,Active,3400.28,5244.99
+P00965,Blue Star Air Conditioner Edge 280,Appliances,Air Conditioners,Blue Star,,Clearance,7871.32,11005.99
+P00966,Amkette Mice Go 589,Accessories,Mice,,2022-03-12,Active,191.5,312.99
+P00967,Featherlite Office Chair Air 925,Furniture,Office Chairs,Featherlite,2018-07-31,Active,5864.24,9381.99
+P00968,Blue Star Fan Slim 106,Appliances,Fans,Blue Star,2022-07-19,Active,32850.17,48005.99
+P00969,HP Mice Duo 748,Accessories,Mice,HP,2019-03-29,Active,280.48,528.99
+P00970,Blue Star Air Conditioner Nova 237,Appliances,Air Conditioners,Blue Star,2022-01-16,Discontinued,7361.03,9339.99
+P00971,Samsung Smartphone Prime 541,Technology,Smartphones,Samsung,2019-09-27,Active,9499.45,12837.99
+P00972,Logitech Mice Edge 932,Accessories,Mice,Logitech,2022-04-24,Active,3140.27,5708.99
+P00973,Portronics Laptop Bag Elite 757,Accessories,Laptop Bags,Portronics,2024-05-22,Active,436.69,739.99
+P00974,Wakefit Office Chair Prime 362,Furniture,Office Chairs,Wakefit,2019-11-18,Active,8578.04,13510.99
+P00975,JK Paper Binder Air 416,Office Supplies,Binders,JK Paper,2018-12-18,Discontinued,108.1,149.99
+P00976,boAt Headphone Slim 150,Accessories,Headphones,boAt,2024-10-05,Active,677.39,902.99
+P00977,Featherlite Office Chair Plus 675,Furniture,Office Chairs,Featherlite,2020-04-05,Active,12505.83,18727.99
+P00978,Amkette Headphone Edge 132,Accessories,Headphones,Amkette,2019-07-29,Active,652.14,1203.99
+P00979,HP Laptop Air 478,Technology,Laptops,HP,2022-06-27,Active,81860.65,97976.99
+P00980,Lenovo Smartphone Slim 410,Technology,Smartphones,Lenovo,2024-07-03,Active,9744.23,12801.99
+P00981,Zebronics Headphone Max 951,Accessories,Headphones,Zebronics,2021-01-18,Active,410.28,585.99
+P00982,Xiaomi Networking Plus 302,Technology,Networking,Xiaomi,2019-11-22,Active,23006.47,27662.99
+P00983,boAt Keyboard Lite 720,Accessories,Keyboards,boAt,2024-08-24,Active,882.25,1410.99
+P00984,Featherlite Bed Slim 723,Furniture,Beds,Featherlite,2023-10-14,Active,4031.77,6231.99
+P00985,Asus Laptop Edge 404,Technology,Laptops,Asus,2025-02-03,Discontinued,29190.88,30466.99
+P00986,Logitech Laptop Bag Edge 786,Accessories,Laptop Bags,Logitech,2025-02-01,Active,1006.98,1695.99
+P00987,Classmate Binder Max 598,Office Supplies,Binders,Classmate,2024-09-20,Active,96.57,130.99
+P00988,Bajaj Washing Machine Pro 792,Appliances,Washing Machines,Bajaj,2023-04-27,Active,19534.48,25881.99
+P00989,Voltas Washing Machine Plus 965,Appliances,Washing Machines,Voltas,2023-08-19,Clearance,25929.7,34457.99
+P00990,JK Paper Envelope Lite 151,Office Supplies,Envelopes,JK Paper,2023-10-15,Active,189.99,240.99
+P00991,Bajaj Washing Machine Go 200,Appliances,Washing Machines,Bajaj,2021-08-20,Active,57731.26,71985.99
+P00992,Nilkamal Office Chair Nova 301,Furniture,Office Chairs,Nilkamal,2024-01-23,Active,4228.77,6261.99
+P00993,Havells Refrigerator Neo 363,Appliances,Refrigerators,Havells,2018-11-30,Clearance,8539.87,11752.99
+P00994,Logitech Laptop Bag Go 916,Accessories,Laptop Bags,Logitech,2019-08-28,Active,272.29,434.99
+P00995,Camlin Filing Pro 173,Office Supplies,Filing,Camlin,2023-04-02,Active,106.54,169.99
+P00996,Bajaj Refrigerator Plus 168,Appliances,Refrigerators,Bajaj,2022-03-27,Active,12967.4,15160.99
+P00997,Classmate Paper Edge 757,Office Supplies,Paper,Classmate,2022-02-19,Active,80.85,100.99
+P00998,Whirlpool Air Conditioner Ultra 198,Appliances,Air Conditioners,Whirlpool,2018-10-18,Active,20479.25,27143.99
+P00999,Solo Binder Duo 452,Office Supplies,Binders,Solo,2022-01-17,Discontinued,228.49,287.99
+P01000,Featherlite Bed Core 933,Furniture,Beds,Featherlite,2022-11-25,Active,6212.21,9523.99
+P01001,boAt Laptop Bag Nova 256,Accessories,Laptop Bags,boAt,2020-11-29,Active,965.08,1582.99
+P01002,HP Mice Slim 302,Accessories,Mice,HP,2022-06-20,Active,383.57,648.99
+P01003,Camlin Paper Edge 393,Office Supplies,Paper,Camlin,2023-11-07,Discontinued,162.73,217.99
+P01004,Durian Office Chair Nova 113,Furniture,Office Chairs,Durian,2018-11-16,Active,11197.42,18230.99
+P01005,JK Paper Binder Prime 320,Office Supplies,Binders,JK Paper,2021-02-27,Active,125.78,152.99
+P01006,Faber-Castell Pens & Art Prime 462,Office Supplies,Pens & Art,Faber-Castell,2025-04-22,Clearance,153.57,190.99
+P01007,Portronics Headphone Edge 403,Accessories,Headphones,Portronics,2024-07-28,Active,1040.8,1663.99
+P01008,Xiaomi Laptop Neo 998,Technology,Laptops,Xiaomi,2019-10-26,Discontinued,25157.26,26475.99
+P01009,Navneet Paper Core 376,Office Supplies,Paper,Navneet,2022-10-26,Active,227.05,287.99
+P01010,Camlin Paper Plus 534,Office Supplies,Paper,Camlin,2022-12-09,Active,134.98,188.99
+P01011,Durian Storage Unit Max 466,Furniture,Storage Units,Durian,2024-05-06,Active,17949.96,23571.99
+P01012,Faber-Castell Envelope Duo 784,Office Supplies,Envelopes,Faber-Castell,2020-01-27,Active,103.82,141.99
+P01013,Xiaomi Monitor Core 691,Technology,Monitors,Xiaomi,2022-12-07,Active,21068.83,27616.99
+P01014,Havells Washing Machine Air 570,Appliances,Washing Machines,Havells,2023-02-09,Clearance,11164.99,14558.99
+P01015,Godrej Interio Bed Neo 903,Furniture,Beds,Godrej Interio,2018-08-19,Active,4727.89,7329.99
+P01016,Faber-Castell Pens & Art Core 328,Office Supplies,Pens & Art,,2022-12-29,Active,419.05,562.99
+P01017,Portronics Headphone Core 575,Accessories,Headphones,Portronics,2024-05-13,Active,661.68,1172.99
+P01018,Xiaomi Printer Slim 998,Technology,Printers,Xiaomi,2023-12-19,Discontinued,6926.52,9497.99
+P01019,Camlin Filing Slim 230,Office Supplies,Filing,Camlin,2022-07-30,Active,90.73,116.99
+P01020,boAt Charger Max 329,Accessories,Chargers,boAt,2021-07-24,Discontinued,795.45,1127.99
+P01021,Wakefit Bed Air 219,Furniture,Beds,Wakefit,2024-08-18,Active,13969.31,19284.99
+P01022,Nilkamal Storage Unit Elite 430,Furniture,Storage Units,Nilkamal,2022-12-16,Active,2932.15,3973.99
+P01023,Samsung Networking Go 280,Technology,Networking,Samsung,2023-06-30,Clearance,30680.65,43784.99
+P01024,HP Headphone Pro 814,Accessories,Headphones,HP,2025-04-05,Active,1842.05,2696.99
+P01025,Featherlite Desk Neo 319,Furniture,Desks,Featherlite,2019-07-26,Discontinued,10981.55,16925.99
+P01026,Bajaj Fan Elite 426,Appliances,Fans,Bajaj,2022-09-14,Active,24916.87,26367.99
+P01027,Amkette Laptop Bag Prime 968,Accessories,Laptop Bags,Amkette,2022-07-05,Active,2012.57,3161.99
+P01028,Classmate Binder Prime 211,Office Supplies,Binders,Classmate,2022-07-30,Active,84.99,112.99
+P01029,Nilkamal Office Chair Ultra 909,Furniture,Office Chairs,Nilkamal,2023-05-06,Active,18671.25,26162.99
+P01030,Bajaj Air Conditioner Prime 974,Appliances,Air Conditioners,Bajaj,2021-01-13,Discontinued,31252.5,38390.99
+P01031,Navneet Pens & Art Slim 194,Office Supplies,Pens & Art,Navneet,2021-08-05,Active,155.82,238.99
+P01032,Faber-Castell Binder Duo 615,Office Supplies,Binders,Faber-Castell,2019-05-12,Active,63.34,77.99
+P01033,Solo Paper Slim 430,Office Supplies,Paper,Solo,2023-08-26,Active,61.03,79.99
+P01034,Featherlite Storage Unit Neo 573,Furniture,Storage Units,Featherlite,2025-05-21,Active,3989.53,6147.99
+P01035,Navneet Envelope Max 571,Office Supplies,Envelopes,Navneet,2020-12-03,Active,84.44,110.99
+P01036,JK Paper Filing Lite 206,Office Supplies,Filing,JK Paper,2022-12-15,Active,108.63,151.99
+P01037,Faber-Castell Pens & Art Plus 209,Office Supplies,Pens & Art,Faber-Castell,2024-10-29,Clearance,89.43,117.99
+P01038,Wakefit Bed Prime 522,Furniture,Beds,Wakefit,2023-05-12,Discontinued,10845.02,17226.99
+P01039,Lenovo Smartphone Nova 942,Technology,Smartphones,Lenovo,2019-02-12,Active,17050.99,22288.99
+P01040,Faber-Castell Binder Pro 457,Office Supplies,Binders,Faber-Castell,2020-06-10,Active,158.68,185.99
+P01041,JK Paper Binder Pro 544,Office Supplies,Binders,JK Paper,2024-03-12,Active,114.34,165.99
+P01042,Portronics Keyboard Prime 765,Accessories,Keyboards,Portronics,2024-10-26,Active,725.21,1394.99
+P01043,Xiaomi Printer Plus 588,Technology,Printers,Xiaomi,2025-01-12,Active,11026.7,14918.99
+P01044,Acer Laptop Slim 741,Technology,Laptops,Acer,2024-03-26,Discontinued,12026.49,14613.99
+P01045,Whirlpool Fan Plus 780,Appliances,Fans,Whirlpool,2025-03-27,Clearance,10409.3,13619.99
+P01046,HP Smartphone Elite 770,Technology,Smartphones,HP,2018-11-14,Active,17843.69,22267.99
+P01047,Solo Envelope Core 623,Office Supplies,Envelopes,Solo,2024-04-26,Active,181.86,293.99
+P01048,Acer Networking Duo 556,Technology,Networking,Acer,2022-08-25,Discontinued,35190.38,38225.99
+P01049,Godrej Interio Sofa Pro 215,Furniture,Sofas,Godrej Interio,2022-09-28,Active,5362.82,9258.99
+P01050,Nilkamal Sofa Slim 500,Furniture,Sofas,Nilkamal,2023-12-20,Active,10551.21,14780.99
+P01051,boAt Charger Prime 544,Accessories,Chargers,boAt,2023-01-22,Active,2190.79,3399.99
+P01052,Faber-Castell Paper Slim 587,Office Supplies,Paper,Faber-Castell,2021-04-17,Clearance,61.41,78.99
+P01053,Dell Networking Slim 113,Technology,Networking,Dell,2021-05-07,Clearance,31266.27,40455.99
+P01054,LG Washing Machine Neo 310,Appliances,Washing Machines,LG,2020-03-06,Active,45518.87,59769.99
+P01055,Wakefit Sofa Ultra 567,Furniture,Sofas,Wakefit,2020-01-05,Active,11352.71,16317.99
+P01056,HP Smartphone Duo 130,Technology,Smartphones,HP,2025-04-12,Active,24719.2,28223.99
+P01057,Godrej Interio Desk Slim 697,Furniture,Desks,Godrej Interio,2021-06-13,Active,27266.29,42330.99
+P01058,Zebronics Headphone Edge 528,Accessories,Headphones,Zebronics,2022-05-31,Active,602.19,1042.99
+P01059,Logitech Headphone Nova 360,Accessories,Headphones,Logitech,2023-07-09,Active,320.33,519.99
+P01060,Classmate Label Ultra 598,Office Supplies,Labels,Classmate,2025-04-05,Active,254.56,326.99
+P01061,Lenovo Networking Pro 658,Technology,Networking,Lenovo,2022-04-14,Active,33046.0,42561.99
+P01062,Faber-Castell Paper Plus 462,Office Supplies,Paper,Faber-Castell,2021-01-02,Clearance,236.57,337.99
+P01063,Faber-Castell Binder Go 878,Office Supplies,Binders,Faber-Castell,2024-10-23,Active,96.01,115.99
+P01064,Navneet Binder Nova 948,Office Supplies,Binders,Navneet,2023-06-22,Active,310.06,371.99
+P01065,Godrej Interio Desk Edge 566,Furniture,Desks,Godrej Interio,2022-01-13,Active,21107.46,30544.99
+P01066,Amkette Keyboard Lite 440,Accessories,Keyboards,Amkette,2023-10-13,Discontinued,182.43,350.99
+P01067,Featherlite Sofa Ultra 308,Furniture,Sofas,Featherlite,2020-05-14,Active,4400.68,7508.99
+P01068,Classmate Binder Nova 217,Office Supplies,Binders,Classmate,2022-10-19,Active,81.08,109.99
+P01069,Portronics Mice Pro 581,Accessories,Mice,Portronics,2020-12-29,Active,254.23,355.99
+P01070,Logitech Keyboard Duo 465,Accessories,Keyboards,Logitech,2020-02-19,Active,622.69,1220.99
+P01071,JK Paper Paper Edge 483,Office Supplies,Paper,JK Paper,2025-02-02,Active,68.92,95.99
+P01072,Bajaj Air Conditioner Nova 740,Appliances,Air Conditioners,Bajaj,2022-04-30,Discontinued,33319.77,45089.99
+P01073,Solo Paper Go 718,Office Supplies,Paper,Solo,2023-03-21,Discontinued,84.38,106.99
+P01074,Camlin Paper Max 471,Office Supplies,Paper,Camlin,2020-07-13,Active,59.96,79.99
+P01075,Camlin Envelope Plus 829,Office Supplies,Envelopes,Camlin,2023-03-02,Active,66.45,92.99
+P01076,Godrej Interio Storage Unit Max 421,Furniture,Storage Units,Godrej Interio,2024-10-21,Active,5824.99,10438.99
+P01077,Xiaomi Laptop Nova 857,Technology,Laptops,Xiaomi,2022-08-18,Active,23741.32,30100.99
+P01078,Nilkamal Bed Slim 729,Furniture,Beds,Nilkamal,2024-01-18,Active,11394.41,17154.99
+P01079,Wakefit Sofa Core 289,Furniture,Sofas,Wakefit,2018-04-05,Active,14400.22,23284.99
+P01080,Navneet Label Go 894,Office Supplies,Labels,Navneet,2021-02-04,Active,24.85,35.99
+P01081,Faber-Castell Envelope Prime 107,Office Supplies,Envelopes,Faber-Castell,2025-05-08,Active,106.28,135.99
+P01082,Amkette Charger Air 302,Accessories,Chargers,Amkette,2018-06-01,Clearance,3037.35,5202.99
+P01083,Classmate Pens & Art Prime 523,Office Supplies,Pens & Art,Classmate,2022-10-17,Active,22.66,29.99
+P01084,Xiaomi Monitor Slim 805,Technology,Monitors,Xiaomi,2022-11-13,Active,17524.9,23453.99
+P01085,Faber-Castell Filing Ultra 562,Office Supplies,Filing,Faber-Castell,2018-10-12,Active,161.76,206.99
+P01086,Xiaomi Laptop Lite 406,Technology,Laptops,Xiaomi,2023-11-27,Active,28503.78,37167.99
+P01087,Classmate Binder Plus 593,Office Supplies,Binders,Classmate,2025-03-17,Active,353.49,470.99
+P01088,boAt Keyboard Neo 856,Accessories,Keyboards,boAt,2023-05-21,Active,227.55,413.99
+P01089,Dell Laptop Nova 640,Technology,Laptops,Dell,2025-03-17,Active,14715.86,17710.99
+P01090,Camlin Binder Duo 331,Office Supplies,Binders,Camlin,2024-03-20,Clearance,158.74,211.99
+P01091,JK Paper Label Go 905,Office Supplies,Labels,JK Paper,2023-11-15,Active,133.2,167.99
+P01092,Camlin Envelope Nova 509,Office Supplies,Envelopes,Camlin,2022-03-12,Active,173.19,250.99
+P01093,Godrej Refrigerator Go 174,Appliances,Refrigerators,Godrej,2025-02-15,Clearance,17472.55,23071.99
+P01094,JK Paper Filing Slim 225,Office Supplies,Filing,JK Paper,2019-10-12,Active,24.1,31.99
+P01095,Portronics Cable Core 632,Accessories,Cables,Portronics,2018-09-27,Active,1194.64,1792.99
+P01096,Camlin Envelope Neo 417,Office Supplies,Envelopes,Camlin,2022-11-05,Discontinued,62.23,83.99
+P01097,HP Laptop Bag Plus 258,Accessories,Laptop Bags,HP,2020-08-26,Active,691.11,1215.99
+P01098,Faber-Castell Binder Duo 668,Office Supplies,Binders,Faber-Castell,2019-07-14,Active,226.64,266.99
+P01099,Faber-Castell Binder Neo 857,Office Supplies,Binders,Faber-Castell,2020-05-23,Active,126.86,170.99
+P01100,Whirlpool Refrigerator Neo 921,Appliances,Refrigerators,Whirlpool,2020-08-01,Clearance,14801.26,20570.99
+P01101,Blue Star Microwave Plus 219,Appliances,Microwaves,Blue Star,2018-11-15,Active,37144.4,48936.99
+P01102,Navneet Pens & Art Plus 534,Office Supplies,Pens & Art,Navneet,2024-02-14,Active,30.14,37.99
+P01103,Navneet Pens & Art Edge 443,Office Supplies,Pens & Art,Navneet,2018-03-04,Discontinued,80.17,122.99
+P01104,Godrej Fan Slim 466,Appliances,Fans,Godrej,2019-05-02,Active,10615.64,15339.99
+P01105,Portronics Keyboard Slim 340,Accessories,Keyboards,Portronics,2023-01-13,Active,411.14,659.99
+P01106,HP Networking Lite 821,Technology,Networking,HP,2022-09-25,Active,20116.4,24359.99
+P01107,JK Paper Paper Slim 811,Office Supplies,Paper,JK Paper,2025-04-19,Clearance,138.94,194.99
+P01108,Whirlpool Fan Plus 681,Appliances,Fans,Whirlpool,2022-11-07,Active,11475.58,16307.99
+P01109,Logitech Charger Duo 787,Accessories,Chargers,Logitech,2019-05-13,Active,438.75,700.99
+P01110,Havells Microwave Max 290,Appliances,Microwaves,Havells,2020-09-25,Discontinued,10981.73,14760.99
+P01111,Havells Air Conditioner Duo 274,Appliances,Air Conditioners,Havells,2021-08-12,Active,15779.76,17052.99
+P01112,Godrej Interio Sofa Neo 446,Furniture,Sofas,Godrej Interio,2024-10-24,Active,1800.83,2466.99
+P01113,Faber-Castell Envelope Ultra 810,Office Supplies,Envelopes,Faber-Castell,2023-10-05,Active,89.92,109.99
+P01114,Nilkamal Sofa Core 334,Furniture,Sofas,Nilkamal,2022-09-20,Active,20189.72,29586.99
+P01115,Zebronics Laptop Bag Edge 436,Accessories,Laptop Bags,Zebronics,2019-04-19,Discontinued,248.54,390.99
+P01116,HP Headphone Core 747,Accessories,Headphones,HP,2018-03-19,Active,1294.05,2379.99
+P01117,Faber-Castell Binder Prime 930,Office Supplies,Binders,Faber-Castell,2019-02-12,Active,70.53,85.99
+P01118,Camlin Pens & Art Duo 174,Office Supplies,Pens & Art,Camlin,2024-09-13,Active,204.83,256.99
+P01119,Camlin Label Core 573,Office Supplies,Labels,Camlin,2023-05-14,Active,103.46,128.99
+P01120,Logitech Charger Go 882,Accessories,Chargers,Logitech,2022-01-07,Active,434.61,695.99
+P01121,Classmate Filing Duo 762,Office Supplies,Filing,Classmate,,Active,284.88,370.99
+P01122,Lenovo Smartphone Plus 151,Technology,Smartphones,Lenovo,2021-02-16,Active,13714.18,19558.99
+P01123,Zebronics Headphone Duo 722,Accessories,Headphones,Zebronics,2023-05-01,Active,666.02,1099.99
+P01124,Dell Printer Edge 711,Technology,Printers,Dell,2022-01-17,Discontinued,34176.62,43920.99
+P01125,Whirlpool Fan Prime 317,Appliances,Fans,Whirlpool,2023-06-21,Active,17848.64,25824.99
+P01126,Bajaj Air Conditioner Air 818,Appliances,Air Conditioners,Bajaj,2021-08-28,Active,26753.69,36162.99
+P01127,JK Paper Pens & Art Plus 317,Office Supplies,Pens & Art,JK Paper,2025-01-27,Active,210.52,300.99
+P01128,LG Air Conditioner Edge 671,Appliances,Air Conditioners,LG,2021-01-30,Discontinued,7042.34,7726.99
+P01129,Asus Printer Max 487,Technology,Printers,Asus,2025-03-20,Active,17433.85,22364.99
+P01130,JK Paper Envelope Pro 590,Office Supplies,Envelopes,JK Paper,2022-03-28,Active,144.89,194.99
+P01131,Wakefit Bed Slim 115,Furniture,Beds,Wakefit,2022-02-11,Discontinued,24654.28,42081.99
+P01132,JK Paper Envelope Nova 213,Office Supplies,Envelopes,JK Paper,2025-01-23,Discontinued,306.21,413.99
+P01133,Acer Printer Lite 588,Technology,Printers,Acer,2024-09-17,Discontinued,12620.85,15559.99
+P01134,Havells Fan Duo 952,Appliances,Fans,Havells,2023-03-02,Active,39521.37,50823.99
+P01135,Wakefit Sofa Core 468,Furniture,Sofas,Wakefit,2025-05-08,Active,6069.59,8916.99
+P01136,Camlin Filing Prime 988,Office Supplies,Filing,Camlin,2022-03-15,Active,77.79,89.99
+P01137,Navneet Envelope Plus 678,Office Supplies,Envelopes,Navneet,2025-04-07,Active,222.46,279.99
+P01138,Asus Networking Duo 689,Technology,Networking,Asus,2021-01-12,Active,110475.35,164701.99
+P01139,Lenovo Smartphone Air 742,Technology,Smartphones,Lenovo,2019-01-11,Active,24270.21,30667.99
+P01140,HP Laptop Bag Nova 233,Accessories,Laptop Bags,HP,2023-11-20,Discontinued,310.21,553.99
+P01141,Camlin Paper Elite 901,Office Supplies,Paper,Camlin,2022-12-07,Active,49.19,67.99
+P01142,Godrej Microwave Neo 380,Appliances,Microwaves,Godrej,2024-08-08,Active,11979.87,16527.99
+P01143,Zebronics Cable Nova 238,Accessories,Cables,Zebronics,2023-07-30,Clearance,830.68,1202.99
+P01144,Featherlite Bed Nova 178,Furniture,Beds,Featherlite,2019-04-16,Active,3922.24,6143.99
+P01145,Godrej Washing Machine Core 973,Appliances,Washing Machines,Godrej,2021-04-14,Active,30357.51,42129.99
+P01146,Voltas Air Conditioner Ultra 646,Appliances,Air Conditioners,Voltas,2023-07-22,Active,14357.7,18043.99
+P01147,Portronics Cable Elite 568,Accessories,Cables,Portronics,2024-01-29,Clearance,608.08,1012.99
+P01148,Godrej Interio Office Chair Max 112,Furniture,Office Chairs,Godrej Interio,2023-04-14,Active,14219.92,20945.99
+P01149,HP Laptop Duo 132,Technology,Laptops,HP,2019-07-10,Active,15889.7,20827.99
+P01150,Bajaj Washing Machine Pro 974,Appliances,Washing Machines,Bajaj,2022-05-29,Active,33584.19,47397.99
+P01151,Asus Monitor Elite 466,Technology,Monitors,Asus,2023-01-08,Active,24714.03,32447.99
+P01152,Samsung Networking Nova 699,Technology,Networking,Samsung,2025-01-20,Clearance,22978.39,28154.99
+P01153,Bajaj Fan Edge 244,Appliances,Fans,Bajaj,2022-05-31,Discontinued,11718.72,15499.99
+P01154,Zebronics Headphone Nova 254,Accessories,Headphones,Zebronics,2023-03-25,Active,1175.03,1721.99
+P01155,Wakefit Sofa Slim 898,Furniture,Sofas,Wakefit,2024-09-09,Discontinued,10422.88,17431.99
+P01156,Wakefit Desk Elite 558,Furniture,Desks,Wakefit,2022-03-02,Active,1363.71,2087.99
+P01157,Whirlpool Washing Machine Max 984,Appliances,Washing Machines,Whirlpool,2022-11-12,Active,15620.14,20171.99
+P01158,Xiaomi Tablet Pro 184,Technology,Tablets,Xiaomi,2024-07-31,Active,27907.96,35359.99
+P01159,Solo Paper Ultra 909,Office Supplies,Paper,Solo,2024-09-08,Clearance,96.68,117.99
+P01160,Durian Sofa Pro 187,Furniture,Sofas,Durian,2023-05-19,Active,6003.07,8263.99
+P01161,Solo Label Go 812,Office Supplies,Labels,Solo,2022-06-19,Active,61.28,84.99
+P01162,Samsung Monitor Core 323,Technology,Monitors,Samsung,2019-11-29,Discontinued,5731.55,6187.99
+P01163,Nilkamal Desk Prime 423,Furniture,Desks,Nilkamal,2021-05-03,Discontinued,3104.59,4713.99
+P01164,Asus Smartphone Max 149,Technology,Smartphones,Asus,2024-01-06,Active,22158.51,23230.99
+P01165,boAt Mice Pro 161,Accessories,Mice,boAt,2019-05-12,Active,960.89,1756.99
+P01166,Durian Storage Unit Neo 144,Furniture,Storage Units,Durian,2023-12-30,Active,7098.07,10336.99
+P01167,Wakefit Storage Unit Neo 793,Furniture,Storage Units,Wakefit,2024-08-25,Active,16196.83,24575.99
+P01168,boAt Headphone Duo 770,Accessories,Headphones,boAt,2021-10-31,Clearance,764.76,1277.99
+P01169,Lenovo Monitor Max 992,Technology,Monitors,Lenovo,2021-08-12,Active,20059.92,25248.99
+P01170,Faber-Castell Paper Core 680,Office Supplies,Paper,Faber-Castell,2020-12-26,Active,183.72,235.99
+P01171,Zebronics Cable Max 956,Accessories,Cables,Zebronics,2024-02-25,Active,2542.82,3705.99
+P01172,Solo Binder Edge 223,Office Supplies,Binders,Solo,2021-01-03,Active,359.28,447.99
+P01173,Amkette Keyboard Duo 953,Accessories,Keyboards,Amkette,2023-07-08,Clearance,438.38,690.99
+P01174,Bajaj Microwave Lite 971,Appliances,Microwaves,Bajaj,2024-12-23,Discontinued,21512.66,27694.99
+P01175,Featherlite Bed Ultra 617,Furniture,Beds,Featherlite,2023-11-20,Active,4676.79,7737.99
+P01176,Navneet Envelope Pro 350,Office Supplies,Envelopes,Navneet,2022-04-22,Discontinued,101.11,130.99
+P01177,HP Cable Slim 858,Accessories,Cables,HP,2020-04-14,Active,812.97,1280.99
+P01178,Durian Sofa Neo 609,Furniture,Sofas,Durian,2018-04-10,Active,4307.11,6275.99
+P01179,Classmate Pens & Art Max 601,Office Supplies,Pens & Art,Classmate,2025-02-23,Active,126.04,186.99
+P01180,Zebronics Charger Go 560,Accessories,Chargers,Zebronics,2023-01-02,Active,1703.93,3080.99
+P01181,Logitech Headphone Edge 992,Accessories,Headphones,Logitech,2022-07-04,Discontinued,418.87,634.99
+P01182,Zebronics Laptop Bag Lite 755,Accessories,Laptop Bags,Zebronics,2022-08-29,Active,251.22,445.99
+P01183,Faber-Castell Paper Core 114,Office Supplies,Paper,Faber-Castell,2022-07-20,Active,64.74,85.99
+P01184,Dell Printer Ultra 828,Technology,Printers,Dell,2024-03-15,Discontinued,27232.14,35318.99
+P01185,Zebronics Laptop Bag Core 683,Accessories,Laptop Bags,Zebronics,2024-01-22,Discontinued,595.73,1032.99
+P01186,HP Tablet Edge 285,Technology,Tablets,HP,2024-02-12,Active,49967.54,65818.99
+P01187,Featherlite Sofa Core 574,Furniture,Sofas,Featherlite,2025-05-06,Active,9010.48,14084.99
+P01188,Godrej Interio Bed Core 274,Furniture,Beds,Godrej Interio,2020-10-28,Active,10497.94,15866.99
+P01189,Havells Washing Machine Duo 134,Appliances,Washing Machines,Havells,2022-12-31,Active,27031.46,38233.99
+P01190,Blue Star Refrigerator Slim 376,Appliances,Refrigerators,Blue Star,2022-08-31,Active,14658.93,20749.99
+P01191,Bajaj Air Conditioner Lite 745,Appliances,Air Conditioners,Bajaj,2025-05-22,Active,29044.79,38495.99
+P01192,Camlin Filing Go 673,Office Supplies,Filing,Camlin,2024-09-24,Active,109.25,137.99
+P01193,Amkette Charger Edge 433,Accessories,Chargers,Amkette,2022-08-26,Discontinued,1053.72,1791.99
+P01194,Solo Filing Neo 960,Office Supplies,Filing,Solo,2023-07-14,Clearance,91.07,127.99
+P01195,Camlin Binder Nova 370,Office Supplies,Binders,Camlin,2025-02-12,Active,104.8,139.99
+P01196,LG Fan Air 395,Appliances,Fans,LG,2023-08-01,Active,11091.1,15138.99
+P01197,Faber-Castell Label Prime 611,Office Supplies,Labels,Faber-Castell,2021-08-17,Active,160.6,193.99
+P01198,Amkette Laptop Bag Go 189,Accessories,Laptop Bags,Amkette,2025-01-30,Active,541.83,784.99
+P01199,Nilkamal Desk Lite 321,Furniture,Desks,Nilkamal,2024-01-09,Active,4915.78,6435.99
+P01200,Zebronics Keyboard Prime 235,Accessories,Keyboards,Zebronics,2019-10-10,Active,1673.77,2829.99
+P01201,Xiaomi Smartphone Slim 154,Technology,Smartphones,Xiaomi,2022-02-25,Active,17997.75,19600.99
+P01202,Faber-Castell Envelope Neo 776,Office Supplies,Envelopes,Faber-Castell,2024-09-21,Active,106.54,136.99
+P01203,Godrej Interio Office Chair Edge 157,Furniture,Office Chairs,Godrej Interio,2021-02-18,Discontinued,5367.38,9357.99
+P01204,Bajaj Refrigerator Go 543,Appliances,Refrigerators,Bajaj,2023-02-05,Active,10417.16,13146.99
+P01205,Blue Star Washing Machine Neo 498,Appliances,Washing Machines,Blue Star,2022-05-26,Active,20134.88,27801.99
+P01206,Durian Sofa Core 720,Furniture,Sofas,Durian,2023-12-12,Active,3555.75,5322.99
+P01207,Navneet Binder Nova 326,Office Supplies,Binders,Navneet,2020-03-23,Discontinued,80.94,102.99
+P01208,Lenovo Smartphone Slim 153,Technology,Smartphones,Lenovo,2022-05-13,Active,85107.71,103014.99
+P01209,Blue Star Refrigerator Neo 517,Appliances,Refrigerators,Blue Star,2018-11-24,Active,9885.84,11877.99
+P01210,Bajaj Refrigerator Ultra 240,Appliances,Refrigerators,Bajaj,2021-05-18,Active,12834.64,17013.99
+P01211,Acer Printer Pro 640,Technology,Printers,Acer,2018-07-05,Active,46787.99,56025.99
+P01212,Logitech Mice Prime 722,Accessories,Mice,Logitech,2019-03-24,Discontinued,501.5,830.99
+P01213,Asus Networking Elite 907,Technology,Networking,Asus,2025-02-23,Active,20701.73,24521.99
+P01214,Durian Bed Lite 952,Furniture,Beds,Durian,2022-05-03,Active,10435.07,15835.99
+P01215,Camlin Envelope Edge 133,Office Supplies,Envelopes,Camlin,2025-01-30,Active,138.21,167.99
+P01216,Samsung Monitor Elite 221,Technology,Monitors,Samsung,2025-04-26,Active,115246.75,147573.99
+P01217,Zebronics Keyboard Air 499,Accessories,Keyboards,Zebronics,2019-05-17,Active,905.66,1684.99
+P01218,Solo Pens & Art Max 852,Office Supplies,Pens & Art,Solo,2019-09-08,Active,92.44,129.99
+P01219,Lenovo Laptop Ultra 582,Technology,Laptops,Lenovo,2024-08-13,Discontinued,19373.1,22816.99
+P01220,Havells Washing Machine Nova 872,Appliances,Washing Machines,Havells,2025-02-14,Clearance,2865.85,3761.99
+P01221,Portronics Cable Slim 785,Accessories,Cables,Portronics,2024-05-21,Active,146.26,259.99
+P01222,Dell Networking Neo 911,Technology,Networking,Dell,2024-12-10,Active,27110.22,34914.99
+P01223,HP Charger Pro 647,Accessories,Chargers,HP,2024-07-02,Active,770.06,1306.99
+P01224,Zebronics Mice Pro 604,Accessories,Mice,Zebronics,2023-05-23,Active,537.46,1002.99
+P01225,HP Printer Go 682,Technology,Printers,HP,2023-05-30,Active,3433.05,4440.99
+P01226,HP Smartphone Neo 915,Technology,Smartphones,HP,2022-06-29,Discontinued,14623.76,19108.99
+P01227,Camlin Paper Max 464,Office Supplies,Paper,Camlin,2019-08-06,Active,436.33,570.99
+P01228,Wakefit Desk Elite 631,Furniture,Desks,Wakefit,2022-04-21,Clearance,12237.89,19400.99
+P01229,Featherlite Bed Pro 796,Furniture,Beds,Featherlite,2024-02-29,Active,5840.48,9644.99
+P01230,Portronics Cable Lite 151,Accessories,Cables,Portronics,2018-03-24,Active,269.71,423.99
+P01231,Camlin Label Core 732,Office Supplies,Labels,Camlin,2021-11-29,Active,94.05,109.99
+P01232,Wakefit Desk Ultra 777,Furniture,Desks,Wakefit,2024-12-23,Active,6708.28,10476.99
+P01233,Nilkamal Sofa Prime 530,Furniture,Sofas,Nilkamal,2020-04-23,Active,8986.47,12767.99
+P01234,Nilkamal Desk Edge 805,Furniture,Desks,Nilkamal,2024-12-21,Active,19351.11,30776.99
+P01235,HP Printer Duo 930,Technology,Printers,HP,2021-11-08,Clearance,29045.16,37653.99
+P01236,Solo Envelope Ultra 908,Office Supplies,Envelopes,Solo,2025-03-10,Discontinued,908.64,1115.99
+P01237,Amkette Headphone Go 773,Accessories,Headphones,Amkette,2023-09-25,Clearance,1846.96,3157.99
+P01238,Solo Envelope Prime 363,Office Supplies,Envelopes,Solo,2022-02-17,Active,57.09,78.99
+P01239,Acer Smartphone Duo 761,Technology,Smartphones,Acer,2019-09-24,Active,32415.22,41750.99
+P01240,Solo Paper Nova 190,Office Supplies,Paper,Solo,2022-03-09,Active,130.91,163.99
+P01241,Asus Laptop Pro 515,Technology,Laptops,Asus,2021-01-18,Active,33840.0,41692.99
+P01242,Classmate Binder Duo 986,Office Supplies,Binders,Classmate,2021-08-18,Active,149.51,213.99
+P01243,JK Paper Label Neo 684,Office Supplies,Labels,JK Paper,2023-05-25,Active,53.69,69.99
+P01244,Havells Fan Duo 395,Appliances,Fans,Havells,2022-07-07,Active,14269.4,16761.99
+P01245,Bajaj Washing Machine Max 329,Appliances,Washing Machines,Bajaj,2020-05-06,Active,7417.62,10311.99
+P01246,Faber-Castell Filing Max 491,Office Supplies,Filing,Faber-Castell,2024-10-31,Active,89.98,123.99
+P01247,Whirlpool Refrigerator Slim 620,Appliances,Refrigerators,Whirlpool,2023-03-02,Clearance,13657.18,18484.99
+P01248,HP Printer Plus 392,Technology,Printers,HP,2022-09-27,Active,53890.84,66498.99
+P01249,Samsung Smartphone Slim 714,Technology,Smartphones,Samsung,2022-11-23,Active,24528.93,34353.99
+P01250,Logitech Laptop Bag Duo 884,Accessories,Laptop Bags,Logitech,2022-10-14,Discontinued,1347.56,2205.99
+P01251,Amkette Cable Slim 163,Accessories,Cables,Amkette,2025-01-07,Active,1403.29,1201.99
+P01252,Samsung Tablet Prime 963,Technology,Tablets,Samsung,2020-06-05,Active,14208.08,19387.99
+P01253,Durian Office Chair Neo 135,Furniture,Office Chairs,Durian,2022-11-02,Active,2211.29,3061.99
+P01254,Classmate Label Neo 419,Office Supplies,Labels,Classmate,2024-09-29,Active,130.86,173.99
+P01255,Faber-Castell Filing Air 914,Office Supplies,Filing,Faber-Castell,2024-04-06,Discontinued,164.15,185.99
+P01256,Camlin Pens & Art Duo 511,Office Supplies,Pens & Art,Camlin,2018-12-30,Active,93.18,118.99
+P01257,Classmate Filing Pro 377,Office Supplies,Filing,Classmate,2024-04-24,Active,61.5,78.99
+P01258,Solo Envelope Go 617,Office Supplies,Envelopes,Solo,2020-12-30,Active,259.36,343.99
+P01259,Featherlite Storage Unit Prime 726,Furniture,Storage Units,Featherlite,2019-12-15,Discontinued,10690.32,14999.99
+P01260,Nilkamal Bed Neo 946,Furniture,Beds,Nilkamal,2023-12-29,Clearance,2707.27,3893.99
+P01261,Camlin Paper Duo 204,Office Supplies,Paper,Camlin,2025-01-05,Discontinued,50.27,70.99
+P01262,Portronics Keyboard Lite 624,Accessories,Keyboards,Portronics,2024-12-12,Active,3007.13,4747.99
+P01263,Blue Star Washing Machine Slim 481,Appliances,Washing Machines,Blue Star,2025-03-24,Active,9332.25,12022.99
+P01264,Godrej Interio Desk Nova 606,Furniture,Desks,Godrej Interio,2020-12-01,Active,9363.76,13332.99
+P01265,Classmate Binder Neo 938,Office Supplies,Binders,Classmate,2020-06-19,Active,66.09,84.99
+P01266,Navneet Filing Edge 394,Office Supplies,Filing,Navneet,2024-10-27,Discontinued,133.27,176.99
+P01267,HP Keyboard Max 906,Accessories,Keyboards,HP,2022-07-30,Active,1122.15,2164.99
+P01268,Nilkamal Storage Unit Slim 633,Furniture,Storage Units,Nilkamal,2020-03-28,Active,2613.39,4384.99
+P01269,Durian Office Chair Elite 508,Furniture,Office Chairs,Durian,2022-09-07,Active,22473.54,32514.99
+P01270,Havells Fan Slim 395,Appliances,Fans,Havells,2024-04-17,Active,11784.62,15607.99
+P01271,Durian Bed Ultra 153,Furniture,Beds,Durian,2023-04-15,Active,10218.07,16332.99
+P01272,Amkette Charger Core 646,Accessories,Chargers,Amkette,2022-12-07,Clearance,330.76,577.99
+P01273,Camlin Binder Prime 611,Office Supplies,Binders,Camlin,2019-03-04,Active,110.38,138.99
+P01274,Navneet Pens & Art Edge 366,Office Supplies,Pens & Art,Navneet,2020-02-11,Active,220.81,286.99
+P01275,Classmate Envelope Plus 722,Office Supplies,Envelopes,Classmate,2019-08-07,Active,42.43,51.99
+P01276,Amkette Cable Edge 734,Accessories,Cables,Amkette,2023-10-20,Discontinued,1730.3,3099.99
+P01277,Asus Tablet Elite 900,Technology,Tablets,Asus,2024-08-08,Active,7992.49,9401.99
+P01278,Navneet Label Lite 662,Office Supplies,Labels,Navneet,2020-07-21,Active,64.92,83.99
+P01279,Camlin Paper Pro 109,Office Supplies,Paper,Camlin,2021-10-09,Discontinued,205.13,276.99
+P01280,Faber-Castell Envelope Core 729,Office Supplies,Envelopes,Faber-Castell,2023-11-02,Active,115.9,149.99
+P01281,Featherlite Sofa Edge 985,Furniture,Sofas,Featherlite,2019-10-11,Active,9502.43,13584.99
+P01282,Classmate Paper Lite 742,Office Supplies,Paper,Classmate,2020-03-25,Discontinued,141.03,181.99
+P01283,Samsung Printer Elite 533,Technology,Printers,Samsung,2022-05-12,Active,10416.23,13503.99
+P01284,Faber-Castell Pens & Art Edge 772,Office Supplies,Pens & Art,Faber-Castell,2024-05-16,Active,154.45,226.99
+P01285,Camlin Label Nova 893,Office Supplies,Labels,Camlin,2025-04-16,Active,272.98,324.99
+P01286,Lenovo Smartphone Core 914,Technology,Smartphones,Lenovo,2020-10-30,Discontinued,20529.04,27390.99
+P01287,Lenovo Tablet Max 343,Technology,Tablets,Lenovo,2021-08-10,Active,27692.75,37475.99
+P01288,Bajaj Air Conditioner Lite 421,Appliances,Air Conditioners,Bajaj,2022-01-08,Clearance,16561.44,20709.99
+P01289,JK Paper Pens & Art Elite 549,Office Supplies,Pens & Art,JK Paper,2021-06-30,Active,97.66,126.99
+P01290,Navneet Filing Neo 962,Office Supplies,Filing,Navneet,2024-09-11,Discontinued,144.99,187.99
+P01291,Faber-Castell Pens & Art Pro 810,Office Supplies,Pens & Art,Faber-Castell,2025-05-04,Active,184.81,246.99
+P01292,Solo Envelope Core 704,Office Supplies,Envelopes,Solo,2022-06-30,Active,52.07,69.99
+P01293,Portronics Headphone Max 387,Accessories,Headphones,Portronics,2022-11-05,Active,732.55,1129.99
+P01294,Logitech Cable Edge 520,Accessories,Cables,Logitech,2023-09-19,Active,880.85,1444.99
+P01295,Classmate Filing Plus 816,Office Supplies,Filing,Classmate,2023-06-04,Clearance,77.09,91.99
+P01296,Xiaomi Tablet Lite 267,Technology,Tablets,Xiaomi,2025-02-09,Discontinued,58603.99,74101.99
+P01297,Godrej Air Conditioner Prime 975,Appliances,Air Conditioners,Godrej,2022-07-29,Active,26192.96,33446.99
+P01298,Amkette Laptop Bag Neo 884,Accessories,Laptop Bags,Amkette,2022-10-29,Active,2160.0,3168.99
+P01299,Xiaomi Networking Ultra 429,Technology,Networking,Xiaomi,2025-01-23,Clearance,29739.87,31228.99
+P01300,Classmate Pens & Art Elite 176,Office Supplies,Pens & Art,Classmate,2020-06-27,Active,176.33,225.99
+P01301,Asus Monitor Max 799,Technology,Monitors,Asus,2019-06-10,Active,42528.45,53574.99
+P01302,Navneet Label Go 961,Office Supplies,Labels,Navneet,2024-01-29,Active,191.25,235.99
+P01303,Nilkamal Desk Ultra 506,Furniture,Desks,Nilkamal,2023-09-25,Active,13438.5,19077.99
+P01304,Camlin Binder Prime 655,Office Supplies,Binders,Camlin,2023-07-17,Clearance,172.11,239.99
+P01305,Samsung Smartphone Slim 183,Technology,Smartphones,Samsung,2024-02-23,Discontinued,27169.37,35158.99
+P01306,Camlin Label Elite 283,Office Supplies,Labels,Camlin,2019-12-31,Active,119.1,146.99
+P01307,HP Cable Nova 912,Accessories,Cables,HP,2024-08-06,Active,188.25,347.99
+P01308,Portronics Headphone Nova 989,Accessories,Headphones,Portronics,2020-02-28,Active,782.52,1191.99
+P01309,JK Paper Filing Edge 657,Office Supplies,Filing,JK Paper,2023-03-22,Active,117.4,156.99
+P01310,HP Laptop Bag Pro 943,Accessories,Laptop Bags,HP,2019-10-17,Active,168.19,278.99
+P01311,HP Networking Core 242,Technology,Networking,HP,2023-08-22,Discontinued,10498.73,12995.99
+P01312,Camlin Pens & Art Neo 873,Office Supplies,Pens & Art,Camlin,2023-10-14,Active,100.52,117.99
+P01313,Havells Washing Machine Air 816,Appliances,Washing Machines,Havells,2021-08-31,Active,7215.01,9043.99
+P01314,Camlin Envelope Edge 846,Office Supplies,Envelopes,Camlin,2023-06-19,Active,80.22,103.99
+P01315,Logitech Laptop Bag Slim 245,Accessories,Laptop Bags,Logitech,2022-02-12,Active,934.8,1420.99
+P01316,Amkette Keyboard Max 978,Accessories,Keyboards,Amkette,2023-06-05,Active,213.56,370.99
+P01317,Amkette Mice Air 778,Accessories,Mice,Amkette,2022-09-15,Discontinued,331.71,540.99
+P01318,Amkette Cable Nova 765,Accessories,Cables,Amkette,2018-12-19,Active,934.58,1430.99
+P01319,Dell Smartphone Edge 553,Technology,Smartphones,Dell,2023-01-04,Active,18579.22,23511.99
+P01320,Logitech Laptop Bag Lite 623,Accessories,Laptop Bags,Logitech,2019-05-12,Clearance,315.37,588.99
+P01321,Featherlite Bed Prime 183,Furniture,Beds,Featherlite,2023-11-17,Discontinued,10091.47,14417.99
+P01322,Featherlite Storage Unit Core 749,Furniture,Storage Units,Featherlite,2020-11-12,Active,3079.34,4680.99
+P01323,Bajaj Washing Machine Slim 786,Appliances,Washing Machines,Bajaj,2021-08-13,Discontinued,23356.73,30181.99
+P01324,Camlin Paper Air 824,Office Supplies,Paper,Camlin,2024-01-19,Discontinued,36.78,46.99
+P01325,LG Washing Machine Plus 636,Appliances,Washing Machines,LG,2024-05-16,Active,19831.63,20821.99
+P01326,Havells Air Conditioner Core 850,Appliances,Air Conditioners,Havells,2022-03-02,Active,20622.62,25992.99
+P01327,boAt Keyboard Edge 300,Accessories,Keyboards,boAt,2020-08-19,Discontinued,738.61,1192.99
+P01328,Faber-Castell Label Edge 515,Office Supplies,Labels,Faber-Castell,2025-05-22,Active,159.5,201.99
+P01329,HP Charger Nova 951,Accessories,Chargers,HP,2019-06-08,Active,555.79,947.99
+P01330,Xiaomi Printer Edge 426,Technology,Printers,Xiaomi,2019-08-28,Active,28991.34,34954.99
+P01331,Voltas Air Conditioner Elite 941,Appliances,Air Conditioners,Voltas,2022-02-10,Discontinued,17978.19,26995.99
+P01332,Blue Star Fan Duo 868,Appliances,Fans,Blue Star,2022-03-19,Active,7190.04,9992.99
+P01333,JK Paper Paper Neo 673,Office Supplies,Paper,JK Paper,2023-05-26,Discontinued,118.1,152.99
+P01334,Solo Paper Neo 799,Office Supplies,Paper,Solo,2018-09-27,Active,238.34,306.99
+P01335,Dell Tablet Plus 535,Technology,Tablets,Dell,2024-05-05,Active,7303.69,9214.99
+P01336,Acer Tablet Go 472,Technology,Tablets,Acer,2025-01-07,Active,55944.31,67093.99
+P01337,Solo Filing Core 745,Office Supplies,Filing,Solo,2024-09-13,Discontinued,73.21,86.99
+P01338,Nilkamal Office Chair Air 983,Furniture,Office Chairs,Nilkamal,2023-04-20,Active,8637.15,14343.99
+P01339,HP Keyboard Nova 392,Accessories,Keyboards,HP,2023-05-08,Active,824.46,1313.99
+P01340,boAt Keyboard Duo 326,Accessories,Keyboards,boAt,2021-01-23,Active,616.37,917.99
+P01341,Classmate Envelope Elite 686,Office Supplies,Envelopes,Classmate,2020-04-16,Active,68.4,87.99
+P01342,Bajaj Refrigerator Pro 800,Appliances,Refrigerators,Bajaj,2023-10-13,Active,4223.78,6066.99
+P01343,Durian Office Chair Duo 599,Furniture,Office Chairs,Durian,2024-11-16,Active,18882.6,30610.99
+P01344,Classmate Envelope Nova 927,Office Supplies,Envelopes,Classmate,2018-11-21,Clearance,227.3,310.99
+P01345,Camlin Label Duo 313,Office Supplies,Labels,Camlin,2024-04-20,Active,104.15,139.99
+P01346,Solo Binder Elite 195,Office Supplies,Binders,Solo,2020-09-07,Discontinued,302.74,398.99
+P01347,Camlin Binder Pro 671,Office Supplies,Binders,Camlin,2022-12-18,Discontinued,135.55,171.99
+P01348,Lenovo Tablet Air 896,Technology,Tablets,Lenovo,2025-03-02,Clearance,22867.36,30523.99
+P01349,Xiaomi Printer Go 299,Technology,Printers,Xiaomi,2019-10-01,Active,33528.77,36174.99
+P01350,boAt Cable Pro 625,Accessories,Cables,boAt,2023-09-22,Active,467.9,825.99
+P01351,JK Paper Envelope Prime 599,Office Supplies,Envelopes,JK Paper,2024-11-24,Active,114.55,162.99
+P01352,Navneet Label Core 976,Office Supplies,Labels,Navneet,2022-12-08,Active,177.03,236.99
+P01353,Wakefit Desk Nova 826,Furniture,Desks,Wakefit,2022-01-13,Active,25107.96,36731.99
+P01354,Zebronics Keyboard Slim 191,Accessories,Keyboards,Zebronics,2020-06-01,Active,266.63,453.99
+P01355,Godrej Washing Machine Max 527,Appliances,Washing Machines,Godrej,2020-11-19,Active,6901.11,9122.99
+P01356,Zebronics Charger Elite 156,Accessories,Chargers,Zebronics,2022-06-01,Active,629.65,1086.99
+P01357,Samsung Tablet Neo 718,Technology,Tablets,Samsung,2019-11-30,Active,15929.22,22846.99
+P01358,Logitech Laptop Bag Core 924,Accessories,Laptop Bags,Logitech,2024-11-13,Active,533.23,1050.99
+P01359,Blue Star Refrigerator Plus 591,Appliances,Refrigerators,Blue Star,2019-05-18,Active,29642.53,41754.99
+P01360,Classmate Label Neo 208,Office Supplies,Labels,Classmate,2020-12-18,Active,85.22,114.99
+P01361,Zebronics Mice Plus 616,Accessories,Mice,Zebronics,2023-09-01,Active,286.82,481.99
+P01362,boAt Charger Edge 238,Accessories,Chargers,boAt,2021-04-29,Active,1084.86,1848.99
+P01363,Navneet Label Lite 923,Office Supplies,Labels,Navneet,2018-05-19,Active,131.15,173.99
+P01364,Faber-Castell Filing Prime 882,Office Supplies,Filing,Faber-Castell,2024-04-29,Discontinued,117.42,138.99
+P01365,Classmate Paper Max 275,Office Supplies,Paper,Classmate,2024-11-13,Discontinued,164.9,212.99
+P01366,Lenovo Networking Prime 349,Technology,Networking,Lenovo,2024-05-13,Discontinued,5697.83,7334.99
+P01367,Featherlite Storage Unit Max 985,Furniture,Storage Units,Featherlite,2022-10-03,Active,9132.02,13300.99
+P01368,Zebronics Headphone Slim 170,Accessories,Headphones,Zebronics,2022-10-21,Active,963.5,1581.99
+P01369,Godrej Microwave Neo 348,Appliances,Microwaves,Godrej,2018-09-19,Active,32821.96,42051.99
+P01370,Voltas Microwave Slim 104,Appliances,Microwaves,Voltas,2024-08-13,Active,6622.9,7605.99
+P01371,JK Paper Paper Slim 361,Office Supplies,Paper,,2022-08-24,Discontinued,90.99,123.99
+P01372,HP Headphone Slim 449,Accessories,Headphones,HP,2025-05-20,Active,720.56,1358.99
+P01373,Lenovo Tablet Neo 268,Technology,Tablets,Lenovo,2023-07-25,Clearance,14422.2,20002.99
+P01374,HP Laptop Pro 148,Technology,Laptops,HP,2022-01-03,Discontinued,58993.18,78315.99
+P01375,Xiaomi Smartphone Air 600,Technology,Smartphones,Xiaomi,2020-10-04,Active,119838.77,144589.99
+P01376,Zebronics Keyboard Plus 824,Accessories,Keyboards,Zebronics,2022-06-09,Active,738.1,1226.99
+P01377,Acer Smartphone Slim 231,Technology,Smartphones,Acer,2022-10-06,Active,37122.7,46624.99
+P01378,Navneet Pens & Art Go 458,Office Supplies,Pens & Art,Navneet,2021-10-31,Active,341.02,445.99
+P01379,Acer Smartphone Prime 198,Technology,Smartphones,Acer,2021-09-11,Clearance,16873.24,20679.99
+P01380,HP Monitor Duo 430,Technology,Monitors,HP,2023-11-04,Active,30305.97,41487.99
+P01381,Faber-Castell Envelope Go 668,Office Supplies,Envelopes,Faber-Castell,2022-11-22,Active,53.71,74.99
+P01382,Classmate Pens & Art Lite 506,Office Supplies,Pens & Art,Classmate,2021-01-09,Active,291.08,401.99
+P01383,Classmate Binder Plus 718,Office Supplies,Binders,Classmate,2024-03-16,Active,235.73,332.99
+P01384,HP Charger Duo 913,Accessories,Chargers,HP,2020-05-27,Active,90.26,149.99
+P01385,boAt Headphone Edge 393,Accessories,Headphones,boAt,2024-03-29,Active,332.83,523.99
+P01386,JK Paper Filing Neo 255,Office Supplies,Filing,JK Paper,2023-10-16,Active,66.82,88.99
+P01387,Asus Laptop Lite 902,Technology,Laptops,Asus,2022-12-03,Active,65329.26,78745.99
+P01388,Nilkamal Storage Unit Core 393,Furniture,Storage Units,Nilkamal,2023-04-16,Active,19425.06,31130.99
+P01389,Acer Tablet Max 253,Technology,Tablets,Acer,2022-08-09,Active,16274.91,20109.99
+P01390,Lenovo Printer Nova 294,Technology,Printers,,2022-02-28,Active,17547.47,22781.99
+P01391,Godrej Interio Office Chair Lite 529,Furniture,Office Chairs,Godrej Interio,2024-01-25,Discontinued,6829.12,10903.99
+P01392,Havells Refrigerator Edge 217,Appliances,Refrigerators,Havells,2023-02-02,Active,18962.82,27012.99
+P01393,Wakefit Bed Go 578,Furniture,Beds,Wakefit,2024-11-30,Active,5982.8,9621.99
+P01394,Logitech Charger Plus 919,Accessories,Chargers,Logitech,2021-01-25,Active,294.17,574.99
+P01395,Godrej Interio Office Chair Air 311,Furniture,Office Chairs,Godrej Interio,2022-12-18,Active,11668.22,16885.99
+P01396,Xiaomi Tablet Pro 208,Technology,Tablets,Xiaomi,,Clearance,4615.26,6149.99
+P01397,Xiaomi Printer Pro 851,Technology,Printers,Xiaomi,2023-07-15,Active,27959.17,35773.99
+P01398,Bajaj Fan Edge 145,Appliances,Fans,Bajaj,2023-02-06,Discontinued,8716.92,11799.99
+P01399,Logitech Headphone Ultra 879,Accessories,Headphones,Logitech,2023-08-04,Active,1033.09,1732.99
+P01400,Bajaj Microwave Ultra 177,Appliances,Microwaves,Bajaj,2024-10-14,Active,50460.76,60938.99
+UNKNOWN,Unknown Product,Unknown,Unknown,,,,,

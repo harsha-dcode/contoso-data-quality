@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Raw source data is not distributed; data/clean/ is committed on purpose
+data/raw/
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
