@@ -190,10 +190,11 @@ trust than one that was never checked.
 
 ## About the data
 
-This is a simulated retail environment I built for the project: 157,116 order lines,
-seven tables, 2022-2025, with the data-quality problems put in on purpose so I could
-practise the whole workflow. It isn't client data and I'm not presenting it as such. The
-findings test the method, not the Indian retail market.
+This is a simulated retail environment I built for the project: 157,116 raw order lines
+(157,108 after the 8 credit notes are excluded), seven tables, 2022-2025, with the
+data-quality problems put in on purpose so I could practise the whole workflow. It isn't
+client data and I'm not presenting it as such. The findings test the method, not the
+Indian retail market.
 
 The generator isn't in this repo. The clean tables are committed, so everything from step
 4 onward reproduces, but you can't rebuild `data/clean/` from source here.
