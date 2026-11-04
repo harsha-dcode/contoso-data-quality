@@ -199,15 +199,21 @@ findings in 1 to 3 don't depend on it.
 
 ### Insight 5. Revenue is concentrated in repeat buyers
 
-26.2% of customers order 10 or more times and generate 63.0% of revenue. The 10.7% who
-ordered once contribute 1.7%.
+27.5% of customers order 10 or more times and generate 64.5% of revenue. The 10.4% who
+ordered once contribute 1.6%.
+
+Base: `sales_placed` (Completed + Returned), excluding the UNKNOWN member —
+7,454 customers. This is a question about what customers *did*, so a returned
+order still counts as a purchase. The customer Pareto further down uses
+`sales_net` and 7,416, because that one is about money; the 38-customer
+difference is people whose only orders were returned.
 
 | Orders | Customers | % of customers | % of revenue |
 |---|---:|---:|---:|
-| 1 | 791 | 10.7% | 1.7% |
-| 2-3 | 1,703 | 22.9% | 8.1% |
-| 4-9 | 2,987 | 40.2% | 27.2% |
-| 10+ | 1,941 | 26.2% | 63.0% |
+| 1 | 774 | 10.4% | 1.6% |
+| 2-3 | 1,626 | 21.8% | 7.5% |
+| 4-9 | 3,004 | 40.3% | 26.4% |
+| 10+ | 2,050 | 27.5% | 64.5% |
 
 The concentration is real but not extreme: 847 customers produce half the revenue and
 2,635 produce 80%, out of 7,416.
@@ -381,7 +387,7 @@ in this data, but the weighted one is the defensible version.
 
 ## 8. The next question
 
-Does retention justify investment? 26% of customers drive 63% of revenue, and Enterprise
+Does retention justify investment? 27.5% of customers drive 64.5% of revenue, and Enterprise
 is both the smallest and the most profitable segment at 19.0% margin. Without CAC I can't
 compare the cost of retaining a repeat buyer against acquiring a new one, and the
 single-order band is inflated by recent joiners. A tenure-matched cohort analysis with
