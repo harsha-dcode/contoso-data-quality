@@ -135,8 +135,58 @@ GO
                          On 2016 or older, delete the FORMAT and
                          FIELDQUOTE lines; keep the rest.
    TABLOCK               materially faster on the fact table
-   --------------------------------------------------------------------- */
 
+   PATHS. BULK INSERT is executed by the SQL Server service account, not by
+   the login running the query, and it does not accept relative paths. The
+   folder below has to be readable by that service account, which is why it
+   is C:\Data\ and not the repo working directory - a path under a user
+   profile or OneDrive usually fails with "Operating system error code 5".
+
+   Before running: copy the seven raw CSVs into C:\Data\contoso\raw\, or
+   find-and-replace that folder below (7 occurrences).
+   --------------------------------------------------------------------- */
+BULK INSERT stg_Fact_Sales
+FROM 'C:\Data\contoso\raw\Fact_Sales.csv'
+WITH (FORMAT = 'CSV', FIELDQUOTE = '"', FIRSTROW = 2,
+      FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0d0a',
+      CODEPAGE = '65001', TABLOCK);
+
+BULK INSERT stg_Dim_Customer
+FROM 'C:\Data\contoso\raw\Dim_Customer.csv'
+WITH (FORMAT = 'CSV', FIELDQUOTE = '"', FIRSTROW = 2,
+      FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0d0a',
+      CODEPAGE = '65001');
+
+BULK INSERT stg_Dim_Product
+FROM 'C:\Data\contoso\raw\Dim_Product.csv'
+WITH (FORMAT = 'CSV', FIELDQUOTE = '"', FIRSTROW = 2,
+      FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0d0a',
+      CODEPAGE = '65001');
+
+BULK INSERT stg_Dim_Region
+FROM 'C:\Data\contoso\raw\Dim_Region.csv'
+WITH (FORMAT = 'CSV', FIELDQUOTE = '"', FIRSTROW = 2,
+      FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0d0a',
+      CODEPAGE = '65001');
+
+BULK INSERT stg_Dim_Date
+FROM 'C:\Data\contoso\raw\Dim_Date.csv'
+WITH (FORMAT = 'CSV', FIELDQUOTE = '"', FIRSTROW = 2,
+      FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0d0a',
+      CODEPAGE = '65001');
+
+BULK INSERT stg_Dim_Channel
+FROM 'C:\Data\contoso\raw\Dim_Channel.csv'
+WITH (FORMAT = 'CSV', FIELDQUOTE = '"', FIRSTROW = 2,
+      FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0d0a',
+      CODEPAGE = '65001');
+
+BULK INSERT stg_Dim_UserRegion
+FROM 'C:\Data\contoso\raw\Dim_UserRegion.csv'
+WITH (FORMAT = 'CSV', FIELDQUOTE = '"', FIRSTROW = 2,
+      FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0d0a',
+      CODEPAGE = '65001');
+GO
 
 
 /* ---------- 4. Verify the load ---------------------------------------

@@ -9,7 +9,7 @@ The business question was whether revenue growth was actually profitable and whe
 was leaking. Most of the work turned out to be upstream of that, in deciding which rows
 we were allowed to count.
 
-Stack: SQL Server, Python (pandas, numpy, matplotlib).
+Stack: SQL Server, Python (pandas, numpy, matplotlib), Power BI.
 
 ## Running it
 
@@ -21,8 +21,17 @@ sql/04_analysis.sql           Q1-Q15
 notebooks/05_statistics.ipynb Simpson's, confounders, bootstrap
 ```
 
-The number is the run order; the folders are just tidiness. `data/clean/` is committed,
-so if you only want the analysis you can start at step 4.
+The number is the run order; the folders are just tidiness.
+
+`data/clean/` is committed, so you can skip steps 1-3 and start at the analysis.
+`sql/00_create_clean_tables.sql` is that shortcut: it builds the clean tables with real
+types and loads the committed CSVs into them. It is worth reading even if you run the
+whole pipeline, because a CSV doesn't carry dtypes and two of the columns fail silently
+if you let the import wizard guess — `ShippingDays` becomes 0 instead of NULL on 4,713
+rows, and the five flag columns stop being summable.
+
+Steps 1-3 need the raw files, which aren't distributed here. See
+[About the data](#about-the-data).
 
 `sql/drills.sql` isn't part of the pipeline, it's rebuild-from-blank practice.
 
@@ -196,30 +205,57 @@ data-quality problems put in on purpose so I could practise the whole workflow. 
 client data and I'm not presenting it as such. The findings test the method, not the
 Indian retail market.
 
-The generator isn't in this repo. The clean tables are committed, so everything from step
-4 onward reproduces, but you can't rebuild `data/clean/` from source here.
+The generator isn't in this repo, and neither are the raw files. The clean tables are
+committed, so everything from the analysis onward reproduces — run
+`sql/00_create_clean_tables.sql` and then `sql/04_analysis.sql` — but you can't rebuild
+`data/clean/` from source here, and steps 1-3 won't run without the raw CSVs.
+
+## The report
+
+`powerbi/contoso.pbix` is the model and the four report pages. Two things in it are worth
+opening the file for rather than reading about:
+
+- the measure filter. Every base measure filters `OrderStatus = "Completed"`, so the net
+  basis is enforced in one place instead of per visual. The `placed` measures declare
+  their own population explicitly. This is the same net/placed/all distinction as the
+  `sales_net` and `sales_placed` views in `sql/04_analysis.sql`, and it exists for the
+  same reason: a report where each visual picks its own population is a report where two
+  tiles disagree and nobody can say which is right.
+- row-level security, driven by `dim_userregion`. One user maps to many regions, which is
+  why that table is keyed on the pair and not on the user.
+
+`powerbi/dax_measures.md` has every measure with the reasoning. `powerbi/build_guide.md`
+is how the model was assembled — relationships, the date table, RLS, page by page.
 
 ## Layout
 
 ```
 sql/
-  01_load_staging.sql    staging tables + BULK INSERT
-  02_validation.sql      defect counts on raw data
-  04_analysis.sql        Q1-Q15, windows, cohorts, Pareto, the net/placed views
-  drills.sql             practice, not part of the pipeline
+  00_create_clean_tables.sql  typed clean layer + load, the analysis-only shortcut
+  01_load_staging.sql         staging tables + BULK INSERT
+  02_validation.sql           defect counts on raw data
+  04_analysis.sql             Q1-Q15, windows, cohorts, Pareto, the net/placed views
+  drills.sql                  practice, not part of the pipeline
 notebooks/
-  03_cleaning.ipynb      cleaning and recovery, writes data/clean/
-  05_statistics.ipynb    Simpson's, confounders, bootstrap CIs
-data/clean/              7 tables, 157,108 fact rows
+  03_cleaning.ipynb           cleaning and recovery, writes data/clean/
+  05_statistics.ipynb         Simpson's, confounders, bootstrap CIs
+data/clean/                   7 tables, 157,108 fact rows
+powerbi/
+  contoso.pbix                model, RLS, 4 report pages
+  dax_measures.md             every measure and why it's written that way
+  build_guide.md              how the model was assembled
 docs/
   findings_and_recommendations.md
   CHANGES.md
 reference/
-  cleaning_in_sql.sql    the same cleaning written in SQL, for comparison
+  cleaning_in_sql.sql         the same cleaning written in SQL, for comparison
 ```
 
 SQL does the raw validation and the analysis; counting defects across seven staging
 tables and then running window functions and cohorts is what it's for. pandas does the
 cleaning and the statistics; string and date normalisation is shorter there, and the
-bootstrap work isn't SQL at all. The cleaning exists in both, under `reference/`, mostly
-because I wanted to see the difference.
+bootstrap work isn't SQL at all. Power BI does the part that has to be handed to someone
+else — the same figures, filterable, with the population rule enforced in the model
+rather than trusted to whoever builds the next visual. The cleaning exists in both SQL
+and pandas, the SQL version under `reference/`, mostly because I wanted to see the
+difference.
