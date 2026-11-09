@@ -83,14 +83,14 @@ the obvious query reports 6 distinct order statuses when there are 15.
 | `Quantity < 0` | 8 | excluded | credit notes, money negated to match, not recoverable |
 | duplicate dimension keys | 15 | dedupe identical, survivorship for conflicting | two different problems with opposite fixes |
 | orphan foreign keys | 34 | map to Unknown members | never drop silently |
-| money-rule breaches | 1,049 | flag, don't correct | no way to tell which side of the equation is wrong |
+| money-rule breaches | 1,049 | flag, don't correct | 700 pricing + 349 profit; no way to tell which side of the equation is wrong |
 | negative profit | 17,418 | keep, it isn't an error | it's what the analysis is about |
 | cancelled + returned | 11,053 | exclude from money metrics | ₹14.5 Cr that never happened |
 
 Where a value was reconstructed, `RecoveredField` says which field, so it isn't a silent
 change.
 
-99.33% of the money reconciles against both the pricing formula and
+99.33% of order lines reconcile against both the pricing formula and
 `Profit = Sales - Cost`.
 
 ### Two numbers that look inconsistent and aren't
