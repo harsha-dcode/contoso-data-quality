@@ -199,14 +199,20 @@ trust than one that was never checked.
 
 ## About the data
 
-This is a simulated retail environment I built for the project: 157,116 raw order lines
-(157,108 after the 8 credit notes are excluded), seven tables, 2022-2025, with the
-data-quality problems put in on purpose so I could practise the whole workflow. It isn't
-client data and I'm not presenting it as such. The findings test the method, not the
-Indian retail market.
+The dataset is synthetic. It was generated for this project with an LLM: 157,116 raw
+order lines (157,108 after the 8 credit notes are excluded), seven tables, 2022-2025. It
+isn't client data and I'm not presenting it as such. The findings test the method, not
+the Indian retail market.
 
-The generator isn't in this repo, and neither are the raw files. The clean tables are
-committed, so everything from the analysis onward reproduces — run
+I did not specify which defects went in, and that is the reason `sql/02_validation.sql`
+exists in the shape it does. The seven placeholder forms in `ShippingDays`, the five date
+formats, the 15 duplicate dimension keys and the 34 orphan foreign keys were found by
+profiling the staging tables, not read off a list I had written. It is also why the first
+pass missed half of them — it searched for three junk values that had been noticed by eye
+instead of asking the data what would not cast to a number.
+
+There is no generator script in this repo and the raw files aren't here either. The clean
+tables are committed, so everything from the analysis onward reproduces — run
 `sql/00_create_clean_tables.sql` and then `sql/04_analysis.sql` — but you can't rebuild
 `data/clean/` from source here, and steps 1-3 won't run without the raw CSVs.
 
